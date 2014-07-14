@@ -1,0 +1,178 @@
+# cond1,cond2,lv3.. - specifies the list view level for the associated text
+# cond2 that belongs to a cond1 must be specified after the cond1, no line breaks in-between and no other cond1 specified
+# regimens - specifies the tables that are defined in the table-data.txt file in doc-page-column-table format
+# dx-tx - specifies ParentId, ListView Text. Id is root node
+cond1,"Assault - Sexual"
+regimens,1-91-2-1
+dx-tx,396,397,398
+
+cond1,"Bacterial Vaginosis"
+regimens,1-57-1-1,1-57-2-1,1-58-1-1
+dx-tx,265
+
+cond1,"Candidiasis - Vulvovaginal"
+cond2,"Uncomplicated"
+regimens,1-61-1-2
+dx-tx,281,282
+cond2,"Complicated"
+regimens,
+dx-tx,289,290,291,292
+
+cond1,"Cervicitis"
+regimens,1-44-1-1
+dx-tx,194,195
+
+cond1,"Chancroid"
+regimens,1-19-2-1
+dx-tx,49
+
+cond1,"Chlamydia"
+cond2,"Adolescents & Adults"
+regimens,1-45-2-1,1-45-2-2
+dx-tx,203,204
+cond2,"In Pregnancy"
+regimens,1-47-1-1,1-47-1-2
+dx-tx,208
+cond2,"Children"
+regimens,1-49-1-1,1-49-1-2,1-49-1-3
+dx-tx,220,221
+cond2,"Infants"
+regimens,1-48-1-1,1-48-2-1
+dx-tx,212,216
+
+cond1,Epididymitis
+regimens,1-68-2-1
+dx-tx,312,313
+
+cond1,Gonorrhea
+cond2,"Adolescents & Adults"
+cond3,"Cervix, Urethra, or Rectum - Infection"
+regimens,2-4-1-1,2-5-1-1,2-5-1-2
+dx-tx,231
+cond3,"Pharynx - Infection"
+regimens,2-10-1-1
+dx-tx,232
+cond3,Conjunctivitis
+regimens,1-53-1-1
+dx-tx,239
+cond3,"Disseminated Gonococcal Infection"
+regimens,1-53-1-2,1-53-1-3
+dx-tx,241,242
+cond3,"Gonococcal Meningitis and Endocarditis"
+regimens,1-53-2-1
+dx-tx,244
+cond2,"Children"
+regimens,1-55-1-1,1-55-1-2,1-55-1-3,1-55-1-4
+dx-tx,258
+cond2,"Infants"
+regimens,1-54-1-1
+dx-tx,248
+cond2,"Newborns"
+regimens,1-54-2-1,1-54-2-2,1-55-2-1
+dx-tx,248
+
+cond1,"Granuloma Inguinale"
+regimens,1-25-2-1,1-25-2-2
+dx-tx,74
+
+cond1,"Hepatitis"
+cond2,"Hepatitis A"
+regimens,
+dx-tx,343,344
+cond2,"Hepatitis B"
+regimens,
+dx-tx,352,353
+cond2,"Hepatitis C"
+regimens,
+dx-tx,366
+
+cond1,"Herpes - Genital"
+cond2,"First Episode"
+regimens,1-21-2-1
+dx-tx,61
+cond2,"Recurrent Episode"
+regimens,1-22-1-1,1-22-1-2
+dx-tx,63,64
+cond2,"HIV Positive"
+regimens,1-23-2-1,1-24-1-1
+dx-tx,70
+cond2,"In Pregnancy"
+regimens,
+dx-tx,71
+cond2,"Neonates"
+regimens,
+dx-tx,72
+
+cond1,HIV
+regimens,
+dx-tx,41
+
+cond1,"Human Papilloma Virus"
+regimens,
+dx-tx,319,320
+
+cond1,"Lymphogranuloma Venereum"
+regimens,1-26-2-1,1-26-2-2
+dx-tx,81
+
+cond1,"Pediculosis Pubis"
+regimens,1-88-2-1,1-88-2-2
+dx-tx,377
+
+cond1,"Pelvic Inflammatory Disease"
+regimens,1-65-1-1,1-65-2-1,1-65-2-2,1-66-1-1
+dx-tx,298,299,300,301,302,303
+
+cond1,"Proctitis/Proctocolitis/Enteritis"
+regimens,1-88-1-1
+dx-tx,373
+
+cond1,"Scabies"
+cond2,"Classic"
+regimens,1-89-2-1,1-89-2-2
+dx-tx,384
+cond2,"Crusted"
+regimens,
+dx-tx,386
+
+cond1,"Syphilis"
+cond2,"In Pregnancy"
+regimens,1-35-1-1
+dx-tx,147,148,149
+cond2,"Congential"
+cond3,"Infants During 1st Month"
+regimens,1-37-1-1,1-37-2-1,1-37-2-2,1-37-2-3
+dx-tx,157,158,159,160,161,162,163,164,165
+cond3,"Older Infants and Children"
+regimens,1-38-1-1
+dx-tx,166,167
+cond2,"Primary and Secondary"
+regimens,1-29-1-1,1-29-1-2
+dx-tx,92,93
+cond2,"Tertiary"
+regimens,1-32-1-1
+dx-tx,110
+cond2,"Latent"
+regimens,1-30-2-1,1-31-1-1
+dx-tx,101,102
+cond2,"Neurosyphilis"
+regimens,1-32-2-1,1-32-2-2
+dx-tx,119
+
+cond1,"Trichomoniasis"
+regimens,1-59-2-1,1-59-2-2
+dx-tx,272
+
+cond1,"Urethritis"
+cond2,"Recurrent/Persistent"
+regimens,1-42-2-1
+dx-tx,189
+cond2,"Non-gonococcal"
+regimens,1-42-1-1,1-42-1-2
+dx-tx,186
+
+cond1,"Warts - Genital"
+regimens,1-71-1-1,1-72-2-1,1-72-2-2,1-72-2-3,1-72-2-4
+dx-tx,323,324,325
+
+

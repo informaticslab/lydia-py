@@ -1,0 +1,4047 @@
+{
+    "0": {
+        "src": null, 
+        "parent": null, 
+        "hasChildren": true, 
+        "level": 0, 
+        "title": "Full Guidelines", 
+        "hasText": false, 
+        "children": [
+            1, 
+            2, 
+            3, 
+            4, 
+            23, 
+            37, 
+            47, 
+            173, 
+            180, 
+            201, 
+            224, 
+            262, 
+            297, 
+            311, 
+            318, 
+            322, 
+            331, 
+            341, 
+            365, 
+            372, 
+            376, 
+            393, 
+            409, 
+            421, 
+            422, 
+            423
+        ]
+    }, 
+    "1": {
+        "src": "temp/orig-file-content/summary.html", 
+        "parent": 0, 
+        "hasChildren": false, 
+        "level": 1, 
+        "title": "Summary", 
+        "hasText": true
+    }, 
+    "2": {
+        "src": "temp/orig-file-content/introduction.html", 
+        "parent": 0, 
+        "hasChildren": false, 
+        "level": 1, 
+        "title": "Introduction", 
+        "hasText": true
+    }, 
+    "3": {
+        "src": "temp/orig-file-content/methods.html", 
+        "parent": 0, 
+        "hasChildren": false, 
+        "level": 1, 
+        "title": "Methods", 
+        "hasText": true
+    }, 
+    "4": {
+        "src": "temp/orig-file-content/clinical-prevention-guidance.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Clinical Prevention Guidance", 
+        "hasText": true, 
+        "children": [
+            5, 
+            6, 
+            21, 
+            22
+        ]
+    }, 
+    "5": {
+        "src": "temp/orig-file-content/CPG-STD-HIV-prevention-counseling.html", 
+        "parent": 4, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "STD/HIV Prevention Counseling", 
+        "hasText": true
+    }, 
+    "6": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 4, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Prevention Methods", 
+        "hasText": false, 
+        "children": [
+            7, 
+            8, 
+            9, 
+            10, 
+            11, 
+            12, 
+            13, 
+            14, 
+            15, 
+            16, 
+            17, 
+            18, 
+            19, 
+            20
+        ]
+    }, 
+    "7": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Abstinence and Reduction of number of Sex Partners", 
+        "hasText": true
+    }, 
+    "8": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Pre-exposure Vaccination", 
+        "hasText": true
+    }, 
+    "9": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Male Condoms", 
+        "hasText": true
+    }, 
+    "10": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Female Condoms", 
+        "hasText": true
+    }, 
+    "11": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Cervical Diaphragms", 
+        "hasText": true
+    }, 
+    "12": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Topical Microbicides and Spermicides", 
+        "hasText": true
+    }, 
+    "13": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Condoms and n-9 Vaginal Spermicides", 
+        "hasText": true
+    }, 
+    "14": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Rectal Use of n-9 Spermicides", 
+        "hasText": true
+    }, 
+    "15": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Nonbarrier Contraception, Surgical Sterilization, and Hysterectomy", 
+        "hasText": true
+    }, 
+    "16": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Male Circumcision", 
+        "hasText": true
+    }, 
+    "17": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Emergency Contraception (EC)", 
+        "hasText": true
+    }, 
+    "18": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Postexposure Prophylaxis (PEP) for HIV and STD", 
+        "hasText": true
+    }, 
+    "19": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Pre-exposure Prophylaxis (PrEP) for HIV and STD", 
+        "hasText": true
+    }, 
+    "20": {
+        "src": "temp/orig-file-content/CPG-prevention-methods.html", 
+        "parent": 6, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Retesting to Detect Repeat Infections", 
+        "hasText": true
+    }, 
+    "21": {
+        "src": "temp/orig-file-content/CPG-partner-management.html", 
+        "parent": 4, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Partner Management", 
+        "hasText": true
+    }, 
+    "22": {
+        "src": "temp/orig-file-content/CPG-reporting-and-confidentiality.html", 
+        "parent": 4, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Reporting and Confidentiality", 
+        "hasText": true
+    }, 
+    "23": {
+        "src": "temp/orig-file-content/spec-pop-pregnant-women.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Special Populations", 
+        "hasText": false, 
+        "children": [
+            24, 
+            28, 
+            31, 
+            32, 
+            35, 
+            36
+        ]
+    }, 
+    "24": {
+        "src": "temp/orig-file-content/spec-pop-pregnant-women.html", 
+        "parent": 23, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Pregnant Women", 
+        "hasText": true, 
+        "children": [
+            25, 
+            26, 
+            27
+        ]
+    }, 
+    "25": {
+        "src": "temp/orig-file-content/spec-pop-pregnant-women.html", 
+        "parent": 24, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Recommended Screening Tests", 
+        "hasText": true
+    }, 
+    "26": {
+        "src": "temp/orig-file-content/spec-pop-pregnant-women.html", 
+        "parent": 24, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Other Tests", 
+        "hasText": true
+    }, 
+    "27": {
+        "src": "temp/orig-file-content/spec-pop-pregnant-women.html", 
+        "parent": 24, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Other Concerns", 
+        "hasText": true
+    }, 
+    "28": {
+        "src": "temp/orig-file-content/spec-pop-adolescents.html", 
+        "parent": 23, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Adolescents", 
+        "hasText": true, 
+        "children": [
+            29, 
+            30
+        ]
+    }, 
+    "29": {
+        "src": "temp/orig-file-content/spec-pop-adolescents.html", 
+        "parent": 28, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Screening Recommendations", 
+        "hasText": true
+    }, 
+    "30": {
+        "src": "temp/orig-file-content/spec-pop-adolescents.html", 
+        "parent": 28, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Primary Prevention Recommendations", 
+        "hasText": true
+    }, 
+    "31": {
+        "src": "temp/orig-file-content/spec-pop-children.html", 
+        "parent": 23, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Children", 
+        "hasText": true
+    }, 
+    "32": {
+        "src": "temp/orig-file-content/spec-pop-correctional.html", 
+        "parent": 23, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Persons in Correctional Facilities", 
+        "hasText": true, 
+        "children": [
+            33, 
+            34
+        ]
+    }, 
+    "33": {
+        "src": "temp/orig-file-content/spec-pop-correctional.html", 
+        "parent": 32, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Chlamydia and Gonorrhea Screening", 
+        "hasText": true
+    }, 
+    "34": {
+        "src": "temp/orig-file-content/spec-pop-correctional.html", 
+        "parent": 32, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Syphilis Screening", 
+        "hasText": true
+    }, 
+    "35": {
+        "src": "temp/orig-file-content/spec-pop-MSM.html", 
+        "parent": 23, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "MSM", 
+        "hasText": true
+    }, 
+    "36": {
+        "src": "temp/orig-file-content/spec-pop-women-sex-with-women.html", 
+        "parent": 23, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Women Who Have Sex with Women", 
+        "hasText": true
+    }, 
+    "37": {
+        "src": "temp/orig-file-content/HIV-infec-detec-coun-ref.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "HIV Infection: Detection, Counseling, and Referral", 
+        "hasText": true, 
+        "children": [
+            38, 
+            42, 
+            44
+        ]
+    }, 
+    "38": {
+        "src": "temp/orig-file-content/detection-of-HIV-infec.html", 
+        "parent": 37, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Detection of HIV Infection: Screening and Establishing a Diagnosis", 
+        "hasText": true, 
+        "children": [
+            39, 
+            40, 
+            41
+        ]
+    }, 
+    "39": {
+        "src": "temp/orig-file-content/detection-of-HIV-infec.html", 
+        "parent": 38, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Consent and Pretest Information", 
+        "hasText": true
+    }, 
+    "40": {
+        "src": "temp/orig-file-content/detection-of-HIV-infec.html", 
+        "parent": 38, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Prevention Counseling", 
+        "hasText": true
+    }, 
+    "41": {
+        "src": "temp/orig-file-content/detection-of-HIV-infec.html", 
+        "parent": 38, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Establishing the Diagnosis of HIV Infection", 
+        "hasText": true
+    }, 
+    "42": {
+        "src": "temp/orig-file-content/coun-for-patients-with-HIV.html", 
+        "parent": 37, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Counseling for Patients with HIV Infection and Referral to Support Services", 
+        "hasText": true, 
+        "children": [
+            43
+        ]
+    }, 
+    "43": {
+        "src": "temp/orig-file-content/coun-for-patients-with-HIV.html", 
+        "parent": 42, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners and Injection- Drug Partners", 
+        "hasText": true
+    }, 
+    "44": {
+        "src": "temp/orig-file-content/spec-considerations.html", 
+        "parent": 37, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            45, 
+            46
+        ]
+    }, 
+    "45": {
+        "src": "temp/orig-file-content/spec-considerations.html", 
+        "parent": 44, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "46": {
+        "src": "temp/orig-file-content/spec-considerations.html", 
+        "parent": 44, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "HIV Infection Among Infants and Children", 
+        "hasText": true
+    }, 
+    "47": {
+        "src": "temp/orig-file-content/diseases-char-by-gen-ana-perian.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Diseases Characterized by Genital, Anal, or Perianal Ulcers", 
+        "hasText": true, 
+        "children": [
+            48, 
+            56, 
+            73, 
+            80, 
+            87, 
+            156
+        ]
+    }, 
+    "48": {
+        "src": "temp/orig-file-content/chancroid.html", 
+        "parent": 47, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Chancroid", 
+        "hasText": true, 
+        "children": [
+            49, 
+            50, 
+            51, 
+            52, 
+            53
+        ]
+    }, 
+    "49": {
+        "src": "temp/orig-file-content/chancroid.html", 
+        "parent": 48, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "50": {
+        "src": "temp/orig-file-content/chancroid.html", 
+        "parent": 48, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "51": {
+        "src": "temp/orig-file-content/chancroid.html", 
+        "parent": 48, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "52": {
+        "src": "temp/orig-file-content/chancroid.html", 
+        "parent": 48, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "53": {
+        "src": "temp/orig-file-content/chancroid.html", 
+        "parent": 48, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            54, 
+            55
+        ]
+    }, 
+    "54": {
+        "src": "temp/orig-file-content/chancroid.html", 
+        "parent": 53, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "55": {
+        "src": "temp/orig-file-content/chancroid.html", 
+        "parent": 53, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "56": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 47, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Genital HSV Infections", 
+        "hasText": true, 
+        "children": [
+            57, 
+            58, 
+            59, 
+            60, 
+            61, 
+            62, 
+            65, 
+            66, 
+            67, 
+            68, 
+            71, 
+            72
+        ]
+    }, 
+    "57": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnosis of HSV Infection", 
+        "hasText": true
+    }, 
+    "58": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Virologic Tests", 
+        "hasText": true
+    }, 
+    "59": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Type-Specific Serologic Tests", 
+        "hasText": true
+    }, 
+    "60": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Genital Herpes", 
+        "hasText": true
+    }, 
+    "61": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "First Clinical Episode of Genital Herpes", 
+        "hasText": true
+    }, 
+    "62": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Established HSV-2 Infection", 
+        "hasText": true, 
+        "children": [
+            63, 
+            64
+        ]
+    }, 
+    "63": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 62, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Suppressive Therapy for Recurrent Genital Herpes", 
+        "hasText": true
+    }, 
+    "64": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 62, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Episodic Therapy for Recurrent Genital Herpes", 
+        "hasText": true
+    }, 
+    "65": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Severe Disease", 
+        "hasText": true
+    }, 
+    "66": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Counseling", 
+        "hasText": true
+    }, 
+    "67": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "68": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            69, 
+            70
+        ]
+    }, 
+    "69": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 68, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Allergy, Intolerance, and Adverse Reactions", 
+        "hasText": true
+    }, 
+    "70": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 68, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "71": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Genital Herpes in Pregnancy", 
+        "hasText": true
+    }, 
+    "72": {
+        "src": "temp/orig-file-content/genital-HSV-infections.html", 
+        "parent": 56, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Neonatal Herpes", 
+        "hasText": true
+    }, 
+    "73": {
+        "src": "temp/orig-file-content/granuloma-inguinale.html", 
+        "parent": 47, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Granuloma Inguinale (Donovanosis)", 
+        "hasText": true, 
+        "children": [
+            74, 
+            75, 
+            76, 
+            77
+        ]
+    }, 
+    "74": {
+        "src": "temp/orig-file-content/granuloma-inguinale.html", 
+        "parent": 73, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "75": {
+        "src": "temp/orig-file-content/granuloma-inguinale.html", 
+        "parent": 73, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "76": {
+        "src": "temp/orig-file-content/granuloma-inguinale.html", 
+        "parent": 73, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "77": {
+        "src": "temp/orig-file-content/granuloma-inguinale.html", 
+        "parent": 73, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            78, 
+            79
+        ]
+    }, 
+    "78": {
+        "src": "temp/orig-file-content/granuloma-inguinale.html", 
+        "parent": 77, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "79": {
+        "src": "temp/orig-file-content/granuloma-inguinale.html", 
+        "parent": 77, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "80": {
+        "src": "temp/orig-file-content/lymphogranuloma-venereum.html", 
+        "parent": 47, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Lymphogranuloma Venereum", 
+        "hasText": true, 
+        "children": [
+            81, 
+            82, 
+            83, 
+            84
+        ]
+    }, 
+    "81": {
+        "src": "temp/orig-file-content/lymphogranuloma-venereum.html", 
+        "parent": 80, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "82": {
+        "src": "temp/orig-file-content/lymphogranuloma-venereum.html", 
+        "parent": 80, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "83": {
+        "src": "temp/orig-file-content/lymphogranuloma-venereum.html", 
+        "parent": 80, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "84": {
+        "src": "temp/orig-file-content/lymphogranuloma-venereum.html", 
+        "parent": 80, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            85, 
+            86
+        ]
+    }, 
+    "85": {
+        "src": "temp/orig-file-content/lymphogranuloma-venereum.html", 
+        "parent": 84, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "86": {
+        "src": "temp/orig-file-content/lymphogranuloma-venereum.html", 
+        "parent": 84, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "87": {
+        "src": "temp/orig-file-content/syphilis.html", 
+        "parent": 47, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Syphilis", 
+        "hasText": true, 
+        "children": [
+            88, 
+            89, 
+            90, 
+            91, 
+            101, 
+            110, 
+            118, 
+            127, 
+            147
+        ]
+    }, 
+    "88": {
+        "src": "temp/orig-file-content/syphilis.html", 
+        "parent": 87, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "89": {
+        "src": "temp/orig-file-content/syphilis.html", 
+        "parent": 87, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "90": {
+        "src": "temp/orig-file-content/syphilis.html", 
+        "parent": 87, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "91": {
+        "src": "temp/orig-file-content/pri-sec-syphilis.html", 
+        "parent": 87, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Primary and Secondary Syphilis", 
+        "hasText": false, 
+        "children": [
+            92, 
+            93, 
+            94, 
+            95, 
+            96, 
+            97
+        ]
+    }, 
+    "92": {
+        "src": "temp/orig-file-content/pri-sec-syphilis.html", 
+        "parent": 91, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "93": {
+        "src": "temp/orig-file-content/pri-sec-syphilis.html", 
+        "parent": 91, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Recommended Regimen for Infants and Children", 
+        "hasText": true
+    }, 
+    "94": {
+        "src": "temp/orig-file-content/pri-sec-syphilis.html", 
+        "parent": 91, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "95": {
+        "src": "temp/orig-file-content/pri-sec-syphilis.html", 
+        "parent": 91, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "96": {
+        "src": "temp/orig-file-content/pri-sec-syphilis.html", 
+        "parent": 91, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "97": {
+        "src": "temp/orig-file-content/pri-sec-syphilis.html", 
+        "parent": 91, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            98, 
+            99, 
+            100
+        ]
+    }, 
+    "98": {
+        "src": "temp/orig-file-content/pri-sec-syphilis.html", 
+        "parent": 97, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Penicillin Allergy", 
+        "hasText": true
+    }, 
+    "99": {
+        "src": "temp/orig-file-content/pri-sec-syphilis.html", 
+        "parent": 97, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "100": {
+        "src": "temp/orig-file-content/pri-sec-syphilis.html", 
+        "parent": 97, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "101": {
+        "src": "temp/orig-file-content/latent-syphilis.html", 
+        "parent": 87, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Latent Syphilis", 
+        "hasText": true, 
+        "children": [
+            102, 
+            103, 
+            104, 
+            105, 
+            106
+        ]
+    }, 
+    "102": {
+        "src": "temp/orig-file-content/latent-syphilis.html", 
+        "parent": 101, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "103": {
+        "src": "temp/orig-file-content/latent-syphilis.html", 
+        "parent": 101, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "104": {
+        "src": "temp/orig-file-content/latent-syphilis.html", 
+        "parent": 101, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "105": {
+        "src": "temp/orig-file-content/latent-syphilis.html", 
+        "parent": 101, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "106": {
+        "src": "temp/orig-file-content/latent-syphilis.html", 
+        "parent": 101, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            107, 
+            108, 
+            109
+        ]
+    }, 
+    "107": {
+        "src": "temp/orig-file-content/latent-syphilis.html", 
+        "parent": 106, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Penicillin Allergy", 
+        "hasText": true
+    }, 
+    "108": {
+        "src": "temp/orig-file-content/latent-syphilis.html", 
+        "parent": 106, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "109": {
+        "src": "temp/orig-file-content/latent-syphilis.html", 
+        "parent": 106, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "110": {
+        "src": "temp/orig-file-content/tertiary-syphilis.html", 
+        "parent": 87, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Tertiary Syphilis", 
+        "hasText": true, 
+        "children": [
+            111, 
+            112, 
+            113, 
+            114
+        ]
+    }, 
+    "111": {
+        "src": "temp/orig-file-content/tertiary-syphilis.html", 
+        "parent": 110, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "112": {
+        "src": "temp/orig-file-content/tertiary-syphilis.html", 
+        "parent": 110, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "113": {
+        "src": "temp/orig-file-content/tertiary-syphilis.html", 
+        "parent": 110, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "114": {
+        "src": "temp/orig-file-content/tertiary-syphilis.html", 
+        "parent": 110, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            115, 
+            116, 
+            117
+        ]
+    }, 
+    "115": {
+        "src": "temp/orig-file-content/tertiary-syphilis.html", 
+        "parent": 114, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Penicillin Allergy", 
+        "hasText": true
+    }, 
+    "116": {
+        "src": "temp/orig-file-content/tertiary-syphilis.html", 
+        "parent": 114, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "117": {
+        "src": "temp/orig-file-content/tertiary-syphilis.html", 
+        "parent": 114, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "118": {
+        "src": "temp/orig-file-content/neurosyphilis.html", 
+        "parent": 87, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Neurosyphilis", 
+        "hasText": false, 
+        "children": [
+            119, 
+            120, 
+            121, 
+            122, 
+            123
+        ]
+    }, 
+    "119": {
+        "src": "temp/orig-file-content/neurosyphilis.html", 
+        "parent": 118, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "120": {
+        "src": "temp/orig-file-content/neurosyphilis.html", 
+        "parent": 118, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "121": {
+        "src": "temp/orig-file-content/neurosyphilis.html", 
+        "parent": 118, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "122": {
+        "src": "temp/orig-file-content/neurosyphilis.html", 
+        "parent": 118, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "123": {
+        "src": "temp/orig-file-content/neurosyphilis.html", 
+        "parent": 118, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            124, 
+            125, 
+            126
+        ]
+    }, 
+    "124": {
+        "src": "temp/orig-file-content/neurosyphilis.html", 
+        "parent": 123, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Penicillin Allergy", 
+        "hasText": true
+    }, 
+    "125": {
+        "src": "temp/orig-file-content/neurosyphilis.html", 
+        "parent": 123, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "126": {
+        "src": "temp/orig-file-content/neurosyphilis.html", 
+        "parent": 123, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "127": {
+        "src": "temp/orig-file-content/syphilis-among-hiv-infected.html", 
+        "parent": 87, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Syphilis Among HIV-Infected Persons", 
+        "hasText": false, 
+        "children": [
+            128, 
+            129, 
+            130, 
+            136, 
+            142
+        ]
+    }, 
+    "128": {
+        "src": "temp/orig-file-content/syphilis-among-hiv-infected.html", 
+        "parent": 127, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "129": {
+        "src": "temp/orig-file-content/syphilis-among-hiv-infected.html", 
+        "parent": 127, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "130": {
+        "src": "temp/orig-file-content/syphilis-among-hiv-infected.html", 
+        "parent": 127, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Primary and Secondary Syphilis Among HIV- Infected Persons", 
+        "hasText": false, 
+        "children": [
+            131, 
+            132, 
+            133, 
+            134, 
+            135
+        ]
+    }, 
+    "131": {
+        "src": "temp/orig-file-content/syphilis-among-hiv-infected.html", 
+        "parent": 130, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "132": {
+        "src": "temp/orig-file-content/syphilis-among-hiv-infected.html", 
+        "parent": 130, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "133": {
+        "src": "temp/orig-file-content/syphilis-among-hiv-infected.html", 
+        "parent": 130, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "134": {
+        "src": "temp/orig-file-content/syphilis-among-hiv-infected.html", 
+        "parent": 130, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "135": {
+        "src": "temp/orig-file-content/syphilis-among-hiv-infected.html", 
+        "parent": 130, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Special Considerations", 
+        "hasText": true
+    }, 
+    "136": {
+        "src": "temp/orig-file-content/latent-syphilis-amg-hiv-infected.html", 
+        "parent": 127, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Latent Syphilis Among HIV-Infected Persons", 
+        "hasText": false, 
+        "children": [
+            137, 
+            138, 
+            139, 
+            140, 
+            141
+        ]
+    }, 
+    "137": {
+        "src": "temp/orig-file-content/latent-syphilis-amg-hiv-infected.html", 
+        "parent": 136, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "138": {
+        "src": "temp/orig-file-content/latent-syphilis-amg-hiv-infected.html", 
+        "parent": 136, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "139": {
+        "src": "temp/orig-file-content/latent-syphilis-amg-hiv-infected.html", 
+        "parent": 136, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "140": {
+        "src": "temp/orig-file-content/latent-syphilis-amg-hiv-infected.html", 
+        "parent": 136, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "141": {
+        "src": "temp/orig-file-content/latent-syphilis-amg-hiv-infected.html", 
+        "parent": 136, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Special Considerations", 
+        "hasText": true
+    }, 
+    "142": {
+        "src": "temp/orig-file-content/neurosyphilis-amg-hiv-infected.html", 
+        "parent": 127, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Neurosyphilis Among HIV-Infected Persons", 
+        "hasText": false, 
+        "children": [
+            143, 
+            144, 
+            145, 
+            146
+        ]
+    }, 
+    "143": {
+        "src": "temp/orig-file-content/neurosyphilis-amg-hiv-infected.html", 
+        "parent": 142, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "144": {
+        "src": "temp/orig-file-content/neurosyphilis-amg-hiv-infected.html", 
+        "parent": 142, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Follow Up", 
+        "hasText": true
+    }, 
+    "145": {
+        "src": "temp/orig-file-content/neurosyphilis-amg-hiv-infected.html", 
+        "parent": 142, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "146": {
+        "src": "temp/orig-file-content/neurosyphilis-amg-hiv-infected.html", 
+        "parent": 142, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Special Considerations", 
+        "hasText": true
+    }, 
+    "147": {
+        "src": "temp/orig-file-content/syphilis-during-pregnancy.html", 
+        "parent": 87, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Syphilis During Pregnancy", 
+        "hasText": true, 
+        "children": [
+            148, 
+            149, 
+            150, 
+            151, 
+            152, 
+            153
+        ]
+    }, 
+    "148": {
+        "src": "temp/orig-file-content/syphilis-during-pregnancy.html", 
+        "parent": 147, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "149": {
+        "src": "temp/orig-file-content/syphilis-during-pregnancy.html", 
+        "parent": 147, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "150": {
+        "src": "temp/orig-file-content/syphilis-during-pregnancy.html", 
+        "parent": 147, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "151": {
+        "src": "temp/orig-file-content/syphilis-during-pregnancy.html", 
+        "parent": 147, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "152": {
+        "src": "temp/orig-file-content/syphilis-during-pregnancy.html", 
+        "parent": 147, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "153": {
+        "src": "temp/orig-file-content/syphilis-during-pregnancy.html", 
+        "parent": 147, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            154, 
+            155
+        ]
+    }, 
+    "154": {
+        "src": "temp/orig-file-content/syphilis-during-pregnancy.html", 
+        "parent": 153, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Penicillin Allergy", 
+        "hasText": true
+    }, 
+    "155": {
+        "src": "temp/orig-file-content/syphilis-during-pregnancy.html", 
+        "parent": 153, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "156": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 47, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Congenital Syphilis", 
+        "hasText": true, 
+        "children": [
+            157, 
+            166
+        ]
+    }, 
+    "157": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 156, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Evaluation and Treatment of Infants During the First Month of Life", 
+        "hasText": true, 
+        "children": [
+            158, 
+            160, 
+            162, 
+            164
+        ]
+    }, 
+    "158": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 157, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Scenario 1", 
+        "hasText": true, 
+        "children": [
+            159
+        ]
+    }, 
+    "159": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 158, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Recommended Evaluation", 
+        "hasText": true
+    }, 
+    "160": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 157, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Scenario 2", 
+        "hasText": true, 
+        "children": [
+            161
+        ]
+    }, 
+    "161": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 160, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Recommended Evaluation", 
+        "hasText": true
+    }, 
+    "162": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 157, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Scenario 3", 
+        "hasText": true, 
+        "children": [
+            163
+        ]
+    }, 
+    "163": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 162, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Recommended Evaluation", 
+        "hasText": true
+    }, 
+    "164": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 157, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Scenario 4", 
+        "hasText": true, 
+        "children": [
+            165
+        ]
+    }, 
+    "165": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 164, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Recommended Evaluation", 
+        "hasText": true
+    }, 
+    "166": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 156, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Evaluation and Treatment of older Infants and Children", 
+        "hasText": true, 
+        "children": [
+            167, 
+            168, 
+            169
+        ]
+    }, 
+    "167": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 166, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Recommended Evaluation", 
+        "hasText": true
+    }, 
+    "168": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 166, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "169": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 166, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            170, 
+            171, 
+            172
+        ]
+    }, 
+    "170": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 169, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Penicillin Allergy", 
+        "hasText": true
+    }, 
+    "171": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 169, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Penicillin Shortage", 
+        "hasText": true
+    }, 
+    "172": {
+        "src": "temp/orig-file-content/congenital-syphilis.html", 
+        "parent": 169, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "173": {
+        "src": "temp/orig-file-content/man-of-ppl-allergic-to-penicillin.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Management of Persons Who Have a History of Penicillin Allergy", 
+        "hasText": true, 
+        "children": [
+            174, 
+            175
+        ]
+    }, 
+    "174": {
+        "src": "temp/orig-file-content/man-of-ppl-allergic-to-penicillin.html", 
+        "parent": 173, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Recommendations", 
+        "hasText": true
+    }, 
+    "175": {
+        "src": "temp/orig-file-content/man-of-ppl-allergic-to-penicillin.html", 
+        "parent": 173, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Penicillin Allergy Skin Testing", 
+        "hasText": true, 
+        "children": [
+            176, 
+            177, 
+            178, 
+            179
+        ]
+    }, 
+    "176": {
+        "src": "temp/orig-file-content/man-of-ppl-allergic-to-penicillin.html", 
+        "parent": 175, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Procedures", 
+        "hasText": true
+    }, 
+    "177": {
+        "src": "temp/orig-file-content/man-of-ppl-allergic-to-penicillin.html", 
+        "parent": 175, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Epicutaneous (Prick) Tests", 
+        "hasText": true
+    }, 
+    "178": {
+        "src": "temp/orig-file-content/man-of-ppl-allergic-to-penicillin.html", 
+        "parent": 175, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Intradermal Test", 
+        "hasText": true
+    }, 
+    "179": {
+        "src": "temp/orig-file-content/man-of-ppl-allergic-to-penicillin.html", 
+        "parent": 175, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Desensitization", 
+        "hasText": true
+    }, 
+    "180": {
+        "src": "temp/orig-file-content/dis-char-by-ureth-and-cerv.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Diseases Characterized by Urethritis and Cervicitis", 
+        "hasText": false, 
+        "children": [
+            181, 
+            184, 
+            192
+        ]
+    }, 
+    "181": {
+        "src": "temp/orig-file-content/dis-char-by-ureth-and-cerv.html", 
+        "parent": 180, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Urethritis", 
+        "hasText": true, 
+        "children": [
+            182, 
+            183
+        ]
+    }, 
+    "182": {
+        "src": "temp/orig-file-content/dis-char-by-ureth-and-cerv.html", 
+        "parent": 181, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Etiology", 
+        "hasText": true
+    }, 
+    "183": {
+        "src": "temp/orig-file-content/dis-char-by-ureth-and-cerv.html", 
+        "parent": 181, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Confirmed Urethritis", 
+        "hasText": true
+    }, 
+    "184": {
+        "src": "temp/orig-file-content/nongonococcal-urethritis.html", 
+        "parent": 180, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Nongonococcal Urethritis", 
+        "hasText": false, 
+        "children": [
+            185, 
+            186, 
+            187, 
+            188, 
+            189, 
+            190
+        ]
+    }, 
+    "185": {
+        "src": "temp/orig-file-content/nongonococcal-urethritis.html", 
+        "parent": 184, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnosis", 
+        "hasText": true
+    }, 
+    "186": {
+        "src": "temp/orig-file-content/nongonococcal-urethritis.html", 
+        "parent": 184, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "187": {
+        "src": "temp/orig-file-content/nongonococcal-urethritis.html", 
+        "parent": 184, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "188": {
+        "src": "temp/orig-file-content/nongonococcal-urethritis.html", 
+        "parent": 184, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Partner Referral", 
+        "hasText": true
+    }, 
+    "189": {
+        "src": "temp/orig-file-content/nongonococcal-urethritis.html", 
+        "parent": 184, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Recurrent and Persistent Urethritis", 
+        "hasText": true
+    }, 
+    "190": {
+        "src": "temp/orig-file-content/nongonococcal-urethritis.html", 
+        "parent": 184, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            191
+        ]
+    }, 
+    "191": {
+        "src": "temp/orig-file-content/nongonococcal-urethritis.html", 
+        "parent": 190, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "192": {
+        "src": "temp/orig-file-content/cervicitis.html", 
+        "parent": 180, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Cervicitis", 
+        "hasText": true, 
+        "children": [
+            193, 
+            194, 
+            195, 
+            196, 
+            197, 
+            198, 
+            199
+        ]
+    }, 
+    "193": {
+        "src": "temp/orig-file-content/cervicitis.html", 
+        "parent": 192, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Etiology", 
+        "hasText": true
+    }, 
+    "194": {
+        "src": "temp/orig-file-content/cervicitis.html", 
+        "parent": 192, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnosis", 
+        "hasText": true
+    }, 
+    "195": {
+        "src": "temp/orig-file-content/cervicitis.html", 
+        "parent": 192, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "196": {
+        "src": "temp/orig-file-content/cervicitis.html", 
+        "parent": 192, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Recurrent and Persistent Cervicitis", 
+        "hasText": true
+    }, 
+    "197": {
+        "src": "temp/orig-file-content/cervicitis.html", 
+        "parent": 192, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "198": {
+        "src": "temp/orig-file-content/cervicitis.html", 
+        "parent": 192, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "199": {
+        "src": "temp/orig-file-content/cervicitis.html", 
+        "parent": 192, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            200
+        ]
+    }, 
+    "200": {
+        "src": "temp/orig-file-content/cervicitis.html", 
+        "parent": 199, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "201": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Chlamydial Infections", 
+        "hasText": false, 
+        "children": [
+            202, 
+            210, 
+            220
+        ]
+    }, 
+    "202": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 201, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Chlamydial Infections in Adolescents and Adults", 
+        "hasText": true, 
+        "children": [
+            203, 
+            204, 
+            205, 
+            206, 
+            207
+        ]
+    }, 
+    "203": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 202, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "204": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 202, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "205": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 202, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "206": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 202, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "207": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 202, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            208, 
+            209
+        ]
+    }, 
+    "208": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 207, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "209": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 207, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "210": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 201, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Chlamydial Infections Among Infants", 
+        "hasText": true, 
+        "children": [
+            211, 
+            215
+        ]
+    }, 
+    "211": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 210, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Ophthalmia Neonatorum Caused by C. trachomatis", 
+        "hasText": true, 
+        "children": [
+            212, 
+            213, 
+            214
+        ]
+    }, 
+    "212": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 211, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "213": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 211, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "214": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 211, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of Mothers and Their Sex Partners", 
+        "hasText": true
+    }, 
+    "215": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 210, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Infant Pneumonia Caused by C. trachomatis", 
+        "hasText": true, 
+        "children": [
+            216, 
+            217, 
+            218, 
+            219
+        ]
+    }, 
+    "216": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 215, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "217": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 215, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "218": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 215, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of Mothers and Their Sex Partners", 
+        "hasText": true
+    }, 
+    "219": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 215, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Infants Born to Mothers Who Have Chlamydial Infection", 
+        "hasText": true
+    }, 
+    "220": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 201, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Chlamydial Infections Among Children", 
+        "hasText": true, 
+        "children": [
+            221, 
+            222, 
+            223
+        ]
+    }, 
+    "221": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 220, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "222": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 220, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "223": {
+        "src": "temp/orig-file-content/chlamydial-infections.html", 
+        "parent": 220, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "224": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Gonococcal Infections", 
+        "hasText": true, 
+        "children": [
+            225, 
+            246, 
+            257
+        ]
+    }, 
+    "225": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 224, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Gonococcal Infections in Adolescents and Adults", 
+        "hasText": true, 
+        "children": [
+            226, 
+            227, 
+            228, 
+            232, 
+            233, 
+            234, 
+            235, 
+            241, 
+            244
+        ]
+    }, 
+    "226": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 225, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "227": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 225, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Dual Therapy for Gonococcal and Chlamydial Infections", 
+        "hasText": true
+    }, 
+    "228": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 225, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Uncomplicated Gonococcal Infections of the Cervix, Urethra, Rectum (updated August 10, 2012)", 
+        "hasText": false, 
+        "children": [
+            229, 
+            230, 
+            231
+        ]
+    }, 
+    "229": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 228, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Background", 
+        "hasText": true
+    }, 
+    "230": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 228, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Evidence and Rationale", 
+        "hasText": true
+    }, 
+    "231": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 228, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Recommendations", 
+        "hasText": true
+    }, 
+    "232": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 225, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Uncomplicated Gonococcal Infections of the Pharynx", 
+        "hasText": true
+    }, 
+    "233": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 225, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "234": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 225, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "235": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 225, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            236, 
+            237, 
+            238, 
+            239
+        ]
+    }, 
+    "236": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 235, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Allergy, Intolerance, and Adverse Reactions", 
+        "hasText": true
+    }, 
+    "237": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 235, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "238": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 235, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "239": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 235, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Gonococcal Conjunctivitis", 
+        "hasText": true, 
+        "children": [
+            240
+        ]
+    }, 
+    "240": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 239, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "241": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 225, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Disseminated Gonococcal Infection (DGI)", 
+        "hasText": true, 
+        "children": [
+            242, 
+            243
+        ]
+    }, 
+    "242": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 241, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "243": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 241, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "244": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 225, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Gonococcal Meningitis and Endocarditis", 
+        "hasText": true, 
+        "children": [
+            245
+        ]
+    }, 
+    "245": {
+        "src": "temp/orig-file-content/gonococcal-infections-adol-adult.html", 
+        "parent": 244, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "246": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 224, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Gonococcal Infections Among Infants", 
+        "hasText": true, 
+        "children": [
+            247, 
+            251, 
+            252, 
+            253, 
+            254, 
+            255, 
+            256
+        ]
+    }, 
+    "247": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 246, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Ophthalmia Neonatorum Caused by N. gonorrhoeae", 
+        "hasText": true, 
+        "children": [
+            248, 
+            249, 
+            250
+        ]
+    }, 
+    "248": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 247, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "249": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 247, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "250": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 247, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "251": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 246, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Mothers and Their Sex Partners", 
+        "hasText": true
+    }, 
+    "252": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 246, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "DGI and Gonococcal Scalp Abscesses in Newborns", 
+        "hasText": true
+    }, 
+    "253": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 246, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Prophylactic Treatment for Infants Whose Mothers Have Gonococcal Infection", 
+        "hasText": true
+    }, 
+    "254": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 246, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "255": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 246, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "256": {
+        "src": "temp/orig-file-content/gonococcal-infections-infants.html", 
+        "parent": 246, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Mothers and Their Sex Partners", 
+        "hasText": true
+    }, 
+    "257": {
+        "src": "temp/orig-file-content/gonococcal-infections-children.html", 
+        "parent": 224, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Gonococcal Infections Among Children", 
+        "hasText": true, 
+        "children": [
+            258, 
+            259, 
+            260, 
+            261
+        ]
+    }, 
+    "258": {
+        "src": "temp/orig-file-content/gonococcal-infections-children.html", 
+        "parent": 257, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "259": {
+        "src": "temp/orig-file-content/gonococcal-infections-children.html", 
+        "parent": 257, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "260": {
+        "src": "temp/orig-file-content/gonococcal-infections-children.html", 
+        "parent": 257, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "261": {
+        "src": "temp/orig-file-content/gonococcal-infections-children.html", 
+        "parent": 257, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Ophthalmia Neonatorum Prophylaxis", 
+        "hasText": true
+    }, 
+    "262": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Diseases Characterized by Vaginal Discharge", 
+        "hasText": true, 
+        "children": [
+            263, 
+            272, 
+            279
+        ]
+    }, 
+    "263": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 262, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Bacterial Vaginosis", 
+        "hasText": true, 
+        "children": [
+            264, 
+            265, 
+            266, 
+            267, 
+            268
+        ]
+    }, 
+    "264": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 263, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "265": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 263, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "266": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 263, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "267": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 263, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "268": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 263, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            269, 
+            270, 
+            271
+        ]
+    }, 
+    "269": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 268, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Allergy or Intolerance to the Recommended Therapy", 
+        "hasText": true
+    }, 
+    "270": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 268, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "271": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 268, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "272": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 262, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Trichomoniasis", 
+        "hasText": true, 
+        "children": [
+            273, 
+            274, 
+            275
+        ]
+    }, 
+    "273": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 272, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "274": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 272, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "275": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 272, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            276, 
+            277, 
+            278
+        ]
+    }, 
+    "276": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 275, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Allergy, Intolerance, and Adverse Reactions", 
+        "hasText": true
+    }, 
+    "277": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 275, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "278": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 275, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "279": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 262, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Vulvovaginal Candidiasis", 
+        "hasText": true, 
+        "children": [
+            280, 
+            287, 
+            293
+        ]
+    }, 
+    "280": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 279, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Uncomplicated VVC", 
+        "hasText": false, 
+        "children": [
+            281, 
+            282, 
+            283, 
+            284, 
+            285
+        ]
+    }, 
+    "281": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 280, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "282": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 280, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "283": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 280, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "284": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 280, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "285": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 280, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            286
+        ]
+    }, 
+    "286": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 285, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Allergy, Intolerance, and Adverse Reactions", 
+        "hasText": true
+    }, 
+    "287": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 279, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Complicated VVC", 
+        "hasText": false, 
+        "children": [
+            288, 
+            291, 
+            292
+        ]
+    }, 
+    "288": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 287, 
+        "hasChildren": true, 
+        "level": 4, 
+        "title": "Recurrent Vulvovaginal Candidiasis (RVVC)", 
+        "hasText": true, 
+        "children": [
+            289, 
+            290
+        ]
+    }, 
+    "289": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 288, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "290": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 288, 
+        "hasChildren": false, 
+        "level": 5, 
+        "title": "Maintenance Regimens", 
+        "hasText": true
+    }, 
+    "291": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 287, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Severe VVC", 
+        "hasText": true
+    }, 
+    "292": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 287, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Nonalbicans VVC", 
+        "hasText": true
+    }, 
+    "293": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 279, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            294, 
+            295, 
+            296
+        ]
+    }, 
+    "294": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 293, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Compromised Host", 
+        "hasText": true
+    }, 
+    "295": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 293, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "296": {
+        "src": "temp/orig-file-content/dis-chara-vag-discharge.html", 
+        "parent": 293, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "297": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Pelvic Inflammatory Disease", 
+        "hasText": true, 
+        "children": [
+            298, 
+            299, 
+            304, 
+            305, 
+            306, 
+            307
+        ]
+    }, 
+    "298": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 297, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "299": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 297, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Treatment", 
+        "hasText": true, 
+        "children": [
+            300, 
+            302
+        ]
+    }, 
+    "300": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 299, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Parenteral Treatment", 
+        "hasText": true, 
+        "children": [
+            301
+        ]
+    }, 
+    "301": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 300, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Alternative Parenteral Regimens", 
+        "hasText": true
+    }, 
+    "302": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 299, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Oral Treatment", 
+        "hasText": true, 
+        "children": [
+            303
+        ]
+    }, 
+    "303": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 302, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Alternative Oral Regimens", 
+        "hasText": true
+    }, 
+    "304": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 297, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "305": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 297, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "306": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 297, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Prevention", 
+        "hasText": true
+    }, 
+    "307": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 297, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            308, 
+            309, 
+            310
+        ]
+    }, 
+    "308": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 307, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "309": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 307, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "310": {
+        "src": "temp/orig-file-content/PID.html", 
+        "parent": 307, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Intrauterine Contraceptive Devices", 
+        "hasText": true
+    }, 
+    "311": {
+        "src": "temp/orig-file-content/epididymitis.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Epididymitis", 
+        "hasText": true, 
+        "children": [
+            312, 
+            313, 
+            314, 
+            315, 
+            316
+        ]
+    }, 
+    "312": {
+        "src": "temp/orig-file-content/epididymitis.html", 
+        "parent": 311, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Diagnostic Considerations", 
+        "hasText": true
+    }, 
+    "313": {
+        "src": "temp/orig-file-content/epididymitis.html", 
+        "parent": 311, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "314": {
+        "src": "temp/orig-file-content/epididymitis.html", 
+        "parent": 311, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "315": {
+        "src": "temp/orig-file-content/epididymitis.html", 
+        "parent": 311, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "316": {
+        "src": "temp/orig-file-content/epididymitis.html", 
+        "parent": 311, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            317
+        ]
+    }, 
+    "317": {
+        "src": "temp/orig-file-content/epididymitis.html", 
+        "parent": 316, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "318": {
+        "src": "temp/orig-file-content/HPV-infection.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Human Papillomavirus (HPV) Infection", 
+        "hasText": true, 
+        "children": [
+            319, 
+            320, 
+            321
+        ]
+    }, 
+    "319": {
+        "src": "temp/orig-file-content/HPV-infection.html", 
+        "parent": 318, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "HPV Tests", 
+        "hasText": true
+    }, 
+    "320": {
+        "src": "temp/orig-file-content/HPV-infection.html", 
+        "parent": 318, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "321": {
+        "src": "temp/orig-file-content/HPV-infection.html", 
+        "parent": 318, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Prevention", 
+        "hasText": true
+    }, 
+    "322": {
+        "src": "temp/orig-file-content/genital-warts.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Genital Warts", 
+        "hasText": true, 
+        "children": [
+            323, 
+            326, 
+            327
+        ]
+    }, 
+    "323": {
+        "src": "temp/orig-file-content/genital-warts.html", 
+        "parent": 322, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Treatment", 
+        "hasText": true, 
+        "children": [
+            324, 
+            325
+        ]
+    }, 
+    "324": {
+        "src": "temp/orig-file-content/genital-warts.html", 
+        "parent": 323, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Regimens", 
+        "hasText": true
+    }, 
+    "325": {
+        "src": "temp/orig-file-content/genital-warts.html", 
+        "parent": 323, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Alternative Regimens", 
+        "hasText": true
+    }, 
+    "326": {
+        "src": "temp/orig-file-content/genital-warts.html", 
+        "parent": 322, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Counseling", 
+        "hasText": true
+    }, 
+    "327": {
+        "src": "temp/orig-file-content/genital-warts.html", 
+        "parent": 322, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            328, 
+            329, 
+            330
+        ]
+    }, 
+    "328": {
+        "src": "temp/orig-file-content/genital-warts.html", 
+        "parent": 327, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "329": {
+        "src": "temp/orig-file-content/genital-warts.html", 
+        "parent": 327, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "330": {
+        "src": "temp/orig-file-content/genital-warts.html", 
+        "parent": 327, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Squamous Cell Carcinoma in Situ", 
+        "hasText": true
+    }, 
+    "331": {
+        "src": "temp/orig-file-content/cerv-canc-screen-attend-clinic-or-stdhx.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Cervical Cancer Screening for Women Who Attend STD Clinics or Have a History of STDs", 
+        "hasText": true, 
+        "children": [
+            332, 
+            333, 
+            334, 
+            335, 
+            336, 
+            340
+        ]
+    }, 
+    "332": {
+        "src": "temp/orig-file-content/cerv-canc-screen-attend-clinic-or-stdhx.html", 
+        "parent": 331, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Screening Recommendations", 
+        "hasText": true
+    }, 
+    "333": {
+        "src": "temp/orig-file-content/cerv-canc-screen-attend-clinic-or-stdhx.html", 
+        "parent": 331, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "HPV Tests", 
+        "hasText": true
+    }, 
+    "334": {
+        "src": "temp/orig-file-content/cerv-canc-screen-attend-clinic-or-stdhx.html", 
+        "parent": 331, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "335": {
+        "src": "temp/orig-file-content/cerv-canc-screen-attend-clinic-or-stdhx.html", 
+        "parent": 331, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "336": {
+        "src": "temp/orig-file-content/cerv-canc-screen-attend-clinic-or-stdhx.html", 
+        "parent": 331, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            337, 
+            338, 
+            339
+        ]
+    }, 
+    "337": {
+        "src": "temp/orig-file-content/cerv-canc-screen-attend-clinic-or-stdhx.html", 
+        "parent": 336, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "338": {
+        "src": "temp/orig-file-content/cerv-canc-screen-attend-clinic-or-stdhx.html", 
+        "parent": 336, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "339": {
+        "src": "temp/orig-file-content/cerv-canc-screen-attend-clinic-or-stdhx.html", 
+        "parent": 336, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Adolescents", 
+        "hasText": true
+    }, 
+    "340": {
+        "src": "temp/orig-file-content/cerv-canc-screen-attend-clinic-or-stdhx.html", 
+        "parent": 331, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Counseling Messages for Women Receiving Cervical Cancer Screening and HPV Testing", 
+        "hasText": true
+    }, 
+    "341": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Vaccine-Preventable STDs", 
+        "hasText": true, 
+        "children": [
+            342, 
+            351
+        ]
+    }, 
+    "342": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 341, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Hepatitis A", 
+        "hasText": true, 
+        "children": [
+            343, 
+            344, 
+            345, 
+            350
+        ]
+    }, 
+    "343": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 342, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnosis", 
+        "hasText": true
+    }, 
+    "344": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 342, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "345": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 342, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Prevention", 
+        "hasText": true, 
+        "children": [
+            346, 
+            347, 
+            348, 
+            349
+        ]
+    }, 
+    "346": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 345, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pre-exposure Vaccination", 
+        "hasText": true
+    }, 
+    "347": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 345, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Prevaccination Serologic Testing for Susceptibility", 
+        "hasText": true
+    }, 
+    "348": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 345, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Postvaccination Serologic Testing", 
+        "hasText": true
+    }, 
+    "349": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 345, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Postexposure Prophylaxis", 
+        "hasText": true
+    }, 
+    "350": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 342, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": true
+    }, 
+    "351": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 341, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Hepatitis B", 
+        "hasText": true, 
+        "children": [
+            352, 
+            353, 
+            354, 
+            361
+        ]
+    }, 
+    "352": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 351, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Diagnosis", 
+        "hasText": true
+    }, 
+    "353": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 351, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Treatment", 
+        "hasText": true
+    }, 
+    "354": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 351, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Prevention", 
+        "hasText": true, 
+        "children": [
+            355, 
+            356, 
+            357, 
+            358, 
+            359, 
+            360
+        ]
+    }, 
+    "355": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 354, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pre-exposure Vaccination", 
+        "hasText": true
+    }, 
+    "356": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 354, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Prevaccination Antibody Screening", 
+        "hasText": true
+    }, 
+    "357": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 354, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Postvaccination Testing for Serologic Response", 
+        "hasText": true
+    }, 
+    "358": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 354, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Postexposure Prophylaxis", 
+        "hasText": true
+    }, 
+    "359": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 354, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Exposure to HBsAg-Positive Source", 
+        "hasText": true
+    }, 
+    "360": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 354, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Exposure to Source with Unknown HBsAg Status", 
+        "hasText": true
+    }, 
+    "361": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 351, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            362, 
+            363, 
+            364
+        ]
+    }, 
+    "362": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 361, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "363": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 361, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "364": {
+        "src": "temp/orig-file-content/vacc-preventable-STDs.html", 
+        "parent": 361, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Management of HBsAg-Positive Persons", 
+        "hasText": true
+    }, 
+    "365": {
+        "src": "temp/orig-file-content/hepatitis-C.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Hepatitis C", 
+        "hasText": true, 
+        "children": [
+            366, 
+            367, 
+            369
+        ]
+    }, 
+    "366": {
+        "src": "temp/orig-file-content/hepatitis-C.html", 
+        "parent": 365, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Diagnosis and Treatment", 
+        "hasText": true
+    }, 
+    "367": {
+        "src": "temp/orig-file-content/hepatitis-C.html", 
+        "parent": 365, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Prevention", 
+        "hasText": true, 
+        "children": [
+            368
+        ]
+    }, 
+    "368": {
+        "src": "temp/orig-file-content/hepatitis-C.html", 
+        "parent": 367, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Postexposure Follow-Up", 
+        "hasText": true
+    }, 
+    "369": {
+        "src": "temp/orig-file-content/hepatitis-C.html", 
+        "parent": 365, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            370, 
+            371
+        ]
+    }, 
+    "370": {
+        "src": "temp/orig-file-content/hepatitis-C.html", 
+        "parent": 369, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "371": {
+        "src": "temp/orig-file-content/hepatitis-C.html", 
+        "parent": 369, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "372": {
+        "src": "temp/orig-file-content/proctitis-proctocolitis-enteritis.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Proctitis, Proctocolitis, and Enteritis", 
+        "hasText": true, 
+        "children": [
+            373, 
+            374, 
+            375
+        ]
+    }, 
+    "373": {
+        "src": "temp/orig-file-content/proctitis-proctocolitis-enteritis.html", 
+        "parent": 372, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Treatment for Proctitis", 
+        "hasText": true
+    }, 
+    "374": {
+        "src": "temp/orig-file-content/proctitis-proctocolitis-enteritis.html", 
+        "parent": 372, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "375": {
+        "src": "temp/orig-file-content/proctitis-proctocolitis-enteritis.html", 
+        "parent": 372, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "376": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Ectoparasitic Infections", 
+        "hasText": false, 
+        "children": [
+            377, 
+            384
+        ]
+    }, 
+    "377": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 376, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Pediculosis Pubis", 
+        "hasText": true, 
+        "children": [
+            378, 
+            379, 
+            380, 
+            381
+        ]
+    }, 
+    "378": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 377, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "379": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 377, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "380": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 377, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners", 
+        "hasText": true
+    }, 
+    "381": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 377, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            382, 
+            383
+        ]
+    }, 
+    "382": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 381, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Pregnancy", 
+        "hasText": true
+    }, 
+    "383": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 381, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "384": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 376, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Scabies", 
+        "hasText": true, 
+        "children": [
+            385, 
+            386, 
+            387, 
+            388, 
+            389, 
+            390
+        ]
+    }, 
+    "385": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 384, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Other Management Considerations", 
+        "hasText": true
+    }, 
+    "386": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 384, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Crusted Scabies", 
+        "hasText": true
+    }, 
+    "387": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 384, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up", 
+        "hasText": true
+    }, 
+    "388": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 384, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Sex Partners and Household Contacts", 
+        "hasText": true
+    }, 
+    "389": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 384, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Management of Outbreaks in Communities, Nursing Homes, and Other Institutional Settings", 
+        "hasText": true
+    }, 
+    "390": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 384, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Special Considerations", 
+        "hasText": false, 
+        "children": [
+            391, 
+            392
+        ]
+    }, 
+    "391": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 390, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Infants, Young Children, and Pregnant or Lactating Women", 
+        "hasText": true
+    }, 
+    "392": {
+        "src": "temp/orig-file-content/ectoparasitic-infections.html", 
+        "parent": 390, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "HIV Infection", 
+        "hasText": true
+    }, 
+    "393": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "Sexual Assault and STDs", 
+        "hasText": false, 
+        "children": [
+            394, 
+            402
+        ]
+    }, 
+    "394": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 393, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Adults and Adolescents", 
+        "hasText": true, 
+        "children": [
+            395, 
+            398, 
+            399
+        ]
+    }, 
+    "395": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 394, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Evaluating Adults and Adolescents for Sexually Transmitted Diseases", 
+        "hasText": false, 
+        "children": [
+            396, 
+            397
+        ]
+    }, 
+    "396": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 395, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Initial Examination", 
+        "hasText": true
+    }, 
+    "397": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 395, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Follow-Up Examinations", 
+        "hasText": true
+    }, 
+    "398": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 394, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Prophylaxis", 
+        "hasText": true
+    }, 
+    "399": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 394, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Other Management Considerations", 
+        "hasText": true, 
+        "children": [
+            400, 
+            401
+        ]
+    }, 
+    "400": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 399, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Risk for Acquiring HIV Infection", 
+        "hasText": true
+    }, 
+    "401": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 399, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Recommendations for Postexposure Assessment of Adolescent and Adult Survivors Within 72 Hours of Sexual Assault", 
+        "hasText": true
+    }, 
+    "402": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 393, 
+        "hasChildren": true, 
+        "level": 2, 
+        "title": "Sexual Assault or Abuse of Children", 
+        "hasText": true, 
+        "children": [
+            403, 
+            404, 
+            407, 
+            408
+        ]
+    }, 
+    "403": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 402, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Reporting", 
+        "hasText": true
+    }, 
+    "404": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 402, 
+        "hasChildren": true, 
+        "level": 3, 
+        "title": "Evaluating Children for Sexually Transmitted Diseases", 
+        "hasText": true, 
+        "children": [
+            405, 
+            406
+        ]
+    }, 
+    "405": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 404, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Initial and 2-Week Follow-Up Examinations", 
+        "hasText": true
+    }, 
+    "406": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 404, 
+        "hasChildren": false, 
+        "level": 4, 
+        "title": "Recommendations for HIV-Related Postexposure Assessment of Children within 72 Hours of Sexual Assault", 
+        "hasText": true
+    }, 
+    "407": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 402, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Follow-Up Examination After Assault", 
+        "hasText": true
+    }, 
+    "408": {
+        "src": "temp/orig-file-content/sexual-assault-STDs.html", 
+        "parent": 402, 
+        "hasChildren": false, 
+        "level": 3, 
+        "title": "Presumptive Treatment", 
+        "hasText": true
+    }, 
+    "409": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 0, 
+        "hasChildren": true, 
+        "level": 1, 
+        "title": "References", 
+        "hasText": false, 
+        "children": [
+            410, 
+            411, 
+            412, 
+            413, 
+            414, 
+            415, 
+            416, 
+            417, 
+            418, 
+            419, 
+            420
+        ]
+    }, 
+    "410": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "References 1-50", 
+        "hasText": true
+    }, 
+    "411": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "References 51-100", 
+        "hasText": true
+    }, 
+    "412": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "References 101-150", 
+        "hasText": true
+    }, 
+    "413": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "References 151-200", 
+        "hasText": true
+    }, 
+    "414": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "References 201-250", 
+        "hasText": true
+    }, 
+    "415": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "References 251-300", 
+        "hasText": true
+    }, 
+    "416": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "References 301-350", 
+        "hasText": true
+    }, 
+    "417": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "References 351-400", 
+        "hasText": true
+    }, 
+    "418": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "References 401-450", 
+        "hasText": true
+    }, 
+    "419": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "References 451-489", 
+        "hasText": true
+    }, 
+    "420": {
+        "src": "temp/orig-file-content/references.html", 
+        "parent": 409, 
+        "hasChildren": false, 
+        "level": 2, 
+        "title": "2012 References S1-S10", 
+        "hasText": true
+    }, 
+    "421": {
+        "src": "temp/orig-file-content/terms-and-abbreviations.html", 
+        "parent": 0, 
+        "hasChildren": false, 
+        "level": 1, 
+        "title": "Terms and Abbreviations Used in This Report", 
+        "hasText": true
+    }, 
+    "422": {
+        "src": "temp/orig-file-content/2010-guidelines-consultants.html", 
+        "parent": 0, 
+        "hasChildren": false, 
+        "level": 1, 
+        "title": "Consultants", 
+        "hasText": true
+    }, 
+    "423": {
+        "src": "temp/orig-file-content/MMWR-disclaimer.html", 
+        "parent": 0, 
+        "hasChildren": false, 
+        "level": 1, 
+        "title": "MMWR Disclaimer", 
+        "hasText": true
+    }
+}
