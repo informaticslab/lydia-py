@@ -14,7 +14,6 @@ genPath = 'gen'
 tempPath = 'temp'
 regimenStore = {}             # store metadata for tables
 conditionStore = []           # store condition for Condition Quick Pick feature
-conditionMap = {}
 
 
 
@@ -514,20 +513,39 @@ def import_regimen_table_data(table_file):
 
 def create_condition_map(fl):
     global genPath
-    global conditionMap
+    conditionMap = {}
 
     content_id = 0
 
     # create a new JSON file that contains all the headings metadata
-    with open("cond-content-map.txt", "w") as f:
+    with open(fl, "w") as f:
         try:
             # write root
-            conditionMap[content_id] = {'title':'Condition Quick Pick', 'parent':None, 'hasRegimens':False}
+            # conditionMap[content_id] = {'title':'Condition Quick Pick', 'parent':None, 'hasRegimens':False}
 
             for condition in conditionStore:
-                content_id += 1
                 print "Condition %s has parent condition %s" % (condition.text, condition.parent)
-                conditionMap[content_id] = {'title':condition.text, 'parent':condition.id, 'hasRegimens':condition.hasRegimens}
+                conditionMap[content_id] = {'title':condition.text, 'parent':condition.parent, 'hasRegimens':condition.hasRegimens,
+                                            'regimensPage':condition.regimensPage, 'dxtxPage':condition.dxtxPage }
+                content_id += 1
+
+
+                # now that we have post heading information
+                # do some post processing
+                for parenConditionId in conditionMap.keys():
+                    childConditions = []
+                    for childConditionId in conditionMap.keys():
+                        if conditionMap[childConditionId]['parent'] == parenConditionId:
+                            childConditions.append(childConditionId)
+                    if len(childConditions) != 0:
+                        conditionMap[parenConditionId]['hasChildren'] = True
+                        dict = conditionMap[parenConditionId]
+                        dict['children'] = childConditions
+                        conditionMap[parenConditionId] = dict
+                        # print "Parent ID of", parentHeadingId, "has children ", childHeadings
+                    else:
+                        conditionMap[parenConditionId]['hasChildren'] = False
+                        # print "Parent ID of %d has no children" % (parentHeadingId)
 
         finally:
             json.dump(conditionMap, f, indent=4)
