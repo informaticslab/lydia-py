@@ -521,7 +521,7 @@ def create_condition_map(fl):
 
     with open(fl, "w") as tf:
         try:
-            json.dump(conditionStore, tf, default=jdefault, indent=4)
+            json.dump(conditionStore[0], tf, default=jdefault, indent=4)
         finally:
             tf.close()
 
