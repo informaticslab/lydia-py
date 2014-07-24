@@ -286,10 +286,6 @@ class Condition():
         html_file.write(page_id)
         html_file.write('''" data-theme="a">
             <div data-id="quickpick-header" data-role="header" data-theme="b" data-position="fixed">''')
-
-        html_file.write('''
-                <h1>Condition Quick Pick</h1>
-        ''')
         html_file.write('''    </div>''')
 
     def write_html_breadcrumbs(self, html_file):
@@ -298,18 +294,16 @@ class Condition():
             html_file.write('''
                 <div id=quickpick_breadcrumbs>
                 ''')
+            html_file.write('''
+                        <h2>''')
             if len(self.breadcrumbs):
-                html_file.write('''
-                        <h4>''')
                 for index, breadcrumb in enumerate(self.breadcrumbs):
                     assert isinstance(breadcrumb, Breadcrumb)
-
                     html_file.write(breadcrumb.text)
                     html_file.write(''' -> ''')
 
             html_file.write(self.text)
-            html_file.write('''</h4>''')
-
+            html_file.write('''</h2>''')
             html_file.write('''
                 </div>   <!-- end of quick pick breadcrumbs -->
                 </br>''')
@@ -520,7 +514,7 @@ def import_condition_data(table_file):
                         condition_id += 1
                         condition_found = True
                         breadcrumb1 = condition.create_my_breadcrumb()
-                        condition.add_breadcrumb(root_breadcrumb)
+                        #condition.add_breadcrumb(root_breadcrumb)
                         root_condition.add_child(condition1)
                         conditionStore.append(condition)
                     elif key == 'cond2':
@@ -529,7 +523,7 @@ def import_condition_data(table_file):
                         condition_id += 1
                         condition1.add_child(condition2)
                         breadcrumb2 = condition.create_my_breadcrumb()
-                        condition.add_breadcrumb(root_breadcrumb)
+                        #condition.add_breadcrumb(root_breadcrumb)
                         condition.add_breadcrumb(breadcrumb1)
                         conditionStore.append(condition)
                     elif key == 'cond3':
@@ -537,7 +531,7 @@ def import_condition_data(table_file):
                         condition_id += 1
                         condition2.add_child(condition)
                         condition.create_my_breadcrumb()
-                        condition.add_breadcrumb(root_breadcrumb)
+                        #condition.add_breadcrumb(root_breadcrumb)
                         condition.add_breadcrumb(breadcrumb1)
                         condition.add_breadcrumb(breadcrumb2)
                         conditionStore.append(condition)
