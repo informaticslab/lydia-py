@@ -262,7 +262,9 @@ class Condition():
 
         html_file.write(str(self.id))
         html_file.write('''</title>
-
+        <link href="custom_arrow.css" rel="stylesheet" type="text/css"/>
+        <link href="treatments.css" rel="stylesheet" type="text/css"/>
+        <link href="recreated_tables.css" rel="stylesheet" type="text/css"/>
     </head>''')
 
     def write_condition_dxtx_head(self, html_file):
@@ -276,7 +278,8 @@ class Condition():
 
     </head>''')
 
-    def write_html_page_header(self, html_file, page_id):
+    @staticmethod
+    def write_html_page_header(html_file, page_id):
         html_file.write('''
     <body>
         <div data-role="page" id="''')
@@ -296,19 +299,16 @@ class Condition():
                 <div id=quickpick_breadcrumbs>
                 ''')
             if len(self.breadcrumbs):
+                html_file.write('''
+                        <h4>''')
                 for index, breadcrumb in enumerate(self.breadcrumbs):
                     assert isinstance(breadcrumb, Breadcrumb)
 
-                    html_file.write('''
-                        <a href="''')
-                    html_file.write(breadcrumb.link)
-                    html_file.write('''" >''')
                     html_file.write(breadcrumb.text)
-                    html_file.write('''</a>''')
-
-                    html_file.write('<span class="carrot"> > </span>')
+                    html_file.write(''' -> ''')
 
             html_file.write(self.text)
+            html_file.write('''</h4>''')
 
             html_file.write('''
                 </div>   <!-- end of quick pick breadcrumbs -->
@@ -349,53 +349,19 @@ class Condition():
                     finally:
                         section_f.close()
 
-    def write_html_regimens_footer(self, html_file):
-
+    @staticmethod
+    def write_html_regimens_footer(html_file):
         html_file.write('''
-            <div data-role="footer" data-id="regimens-footer" data-position="fixed" class="tab_treatment">
-                <div data-role="navbar" class="tab_icons" data-iconpos="left">
-                    <ul>
-                        <li><a href="#" id="treat_active" data-theme="b" class="ui-btn-active ui-state-persist"
-                                        data-icon="custom">Treatments</a></li>
-                        <li><a href="''')
-        if self.hasDxTx:
-            html_file.write(self.dxtxPage + '"')
-        else:
-            html_file.write('#" class="ui-disabled"')
-        html_file.write(''' id="info_inactive" data-theme="a" data-icon="custom">More Info</a></li>
-                    </ul>
-                </div>
             </div>
-        </div>
-        ''')
-        html_file.write('''
         </div>
     </body>
 </html>
         ''')
 
-    def write_html_dxtx_footer(self, html_file):
-
+    @staticmethod
+    def write_html_dxtx_footer(html_file):
         html_file.write('''
-            <div data-role="footer" data-id="regimens-footer" data-position="fixed" class="tab_treatment">
-                <div data-role="navbar" class="tab_icons" data-iconpos="left">
-                    <ul>
-                        <li><a href="''')
-        if self.hasRegimens:
-            html_file.write(self.regimensPage + '"')
-        else:
-            html_file.write('#" class="ui-disabled"')
-
-        html_file.write(''' id="treat_inactive" data-theme="a" data-icon="custom">Treatments</a></li>
-                        <li><a href="#" id="info_active" data-theme="b" class="ui-btn-active ui-state-persist"
-                            data-icon="custom">More Info</a></li>
-                    </ul>
-                </div>
             </div>
-
-        </div>
-        ''')
-        html_file.write('''
         </div>
     </body>
 </html>
