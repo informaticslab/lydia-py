@@ -205,18 +205,21 @@ class Condition():
         if len(regimen) >= 5:
             self.regimens.append(regimen)
             self.hasRegimens = True
+        elif regimen == '' and len(self.regimens) == 0:
+            self.hasRegimens = False
 
     def add_dxtx(self, dxtx):
-        self.dxtx.append(dxtx)
-        self.hasDxTx = True
+        if dxtx > 1:
+            self.dxtx.append(dxtx)
+            self.hasDxTx = True
+        elif dxtx == '' and len(self.dxtx) == 0:
+            self.hasDxTx = False
 
     def write_html_files(self):
         if self.hasChildren:
             self.write_html_children_list_view()
-        if self.hasRegimens:
-            self.write_html_regimens()
-        if self.hasDxTx:
-            self.write_html_dxtx()
+        self.write_html_regimens()
+        self.write_html_dxtx()
 
     def write_html_children_list_view(self):
         # write current heading, and content between current and next heading
@@ -230,29 +233,36 @@ class Condition():
                 lvf.close()
 
     def write_html_regimens(self):
-        # write current heading, and content between current and next heading
-        # to heading content file as HTML using heading ID as name
-        with open(genConditionsPath + self.regimensPage, "w") as reg_f:
-            try:
-                self.write_condition_common_head(reg_f)
-                self.write_html_page_header(reg_f, self.regimensPageId)
-                self.write_html_regimens_content(reg_f)
-                self.write_html_regimens_footer(reg_f)
-            finally:
-                reg_f.close()
+        if self.hasRegimens:
+            # write current heading, and content between current and next heading
+            # to heading content file as HTML using heading ID as name
+
+            with open(genConditionsPath + self.regimensPage, "w") as reg_f:
+                try:
+                    self.write_condition_common_head(reg_f)
+                    self.write_html_page_header(reg_f, self.regimensPageId)
+                    self.write_html_regimens_content(reg_f)
+                    self.write_html_regimens_footer(reg_f)
+                finally:
+                    reg_f.close()
+        else:
+            self.regimensPage = ''
 
     def write_html_dxtx(self):
-        # write current heading, and content between current and next heading
-        # to heading content file as HTML using heading ID as name
-        with open(genConditionsPath + self.dxtxPage, "w") as dxtx_f:
-            try:
-                self.write_condition_common_head(dxtx_f)
-                self.write_html_page_header(dxtx_f, self.dxtxPageId)
-                self.write_html_dxtx_content(dxtx_f)
-                self.write_html_dxtx_footer(dxtx_f)
+        if self.hasDxTx:
+            # write current heading, and content between current and next heading
+            # to heading content file as HTML using heading ID as name
+            with open(genConditionsPath + self.dxtxPage, "w") as dxtx_f:
+                try:
+                    self.write_condition_common_head(dxtx_f)
+                    self.write_html_page_header(dxtx_f, self.dxtxPageId)
+                    self.write_html_dxtx_content(dxtx_f)
+                    self.write_html_dxtx_footer(dxtx_f)
 
-            finally:
-                dxtx_f.close()
+                finally:
+                    dxtx_f.close()
+        else:
+            self.dxtxPage = ''
 
     def write_condition_common_head(self, html_file):
         html_file.write('''<!DOCTYPE html>
