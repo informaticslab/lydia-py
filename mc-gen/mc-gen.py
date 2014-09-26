@@ -146,6 +146,7 @@ class RegimenTableData():
 
         tf.write('''
         </div>
+        <br />
 ''')
 
     def write_table_temp_html_file(self):
@@ -266,63 +267,73 @@ class Condition():
 
     def write_condition_common_head(self, html_file):
         html_file.write('''<!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>''')
 
         html_file.write(str(self.id))
         html_file.write('''</title>
+
+        <link href="bootstrap.min.css" rel="stylesheet">
         <link href="custom_arrow.css" rel="stylesheet" type="text/css"/>
         <link href="treatments.css" rel="stylesheet" type="text/css"/>
         <link href="recreated_tables.css" rel="stylesheet" type="text/css"/>
+           <style>
+        .sep {
+            border-bottom:1px solid lightgray;
+        }
+        .sep td {
+            padding-bottom:5px;
+            padding-top:5px;
+        }
+        br {
+            display: block;
+            margin-top: 5px 0;
+        }
+    </style>
     </head>''')
 
-    def write_condition_dxtx_head(self, html_file):
-        html_file.write('''<!DOCTYPE html>
-<html>
-    <head>
-        <title>''')
-
-        html_file.write(str(self.id))
-        html_file.write('''</title>
-
-    </head>''')
 
     @staticmethod
     def write_html_page_header(html_file, page_id):
         html_file.write('''
-    <body>
-        <div data-role="page" id="''')
-        html_file.write(page_id)
-        html_file.write('''" data-theme="a">
-            <div data-id="quickpick-header" data-role="header" data-theme="b" data-position="fixed">''')
-        html_file.write('''    </div>''')
+    <body>''')
 
     def write_html_breadcrumbs(self, html_file):
     # do not write breadcrumbs for root condition
         if self.id != 0:
+
             html_file.write('''
-                <div id=quickpick_breadcrumbs>
+            <br />
+            <div class="container">
+                <ol class="breadcrumb small">
                 ''')
             html_file.write('''
-                        <h2>''')
+                        ''')
             if len(self.breadcrumbs):
                 for index, breadcrumb in enumerate(self.breadcrumbs):
                     assert isinstance(breadcrumb, Breadcrumb)
+                    html_file.write('''<li class="active">''')
                     html_file.write(breadcrumb.text)
-                    html_file.write(''' -> ''')
+                    html_file.write('''</li>''')
 
+            html_file.write('''<li class="active">''')
             html_file.write(self.text)
-            html_file.write('''</h2>''')
+            html_file.write('''</li>''')
             html_file.write('''
-                </div>   <!-- end of quick pick breadcrumbs -->
-                </br>''')
+                </ol>
+              </div><!-- end of breadcrumbs -->
+            ''')
 
     def write_html_regimens_content(self, html_file):
-        html_file.write('''
-            <div data-role="content" data-theme="a" >''')
 
         self.write_html_breadcrumbs(html_file)
+
+        html_file.write('''
+        <div class="container">''')
 
         # write out all the regimen tables
         if len(self.regimens) != 0:
@@ -331,11 +342,16 @@ class Condition():
                 assert isinstance(regimen, RegimenTableData)
                 regimen.write_to_file(html_file)
 
-    def write_html_dxtx_content(self, html_file):
         html_file.write('''
-            <div data-role="content" data-theme="a" >''')
+        </div>''')
+
+
+    def write_html_dxtx_content(self, html_file):
 
         self.write_html_breadcrumbs(html_file)
+
+        html_file.write('''
+        <div class="container">''')
 
         # write out all dxtx sections
         if len(self.dxtx) != 0:
@@ -352,6 +368,10 @@ class Condition():
 
                     finally:
                         section_f.close()
+
+        html_file.write('''
+        </div>''')
+
 
     @staticmethod
     def write_html_regimens_footer(html_file):
