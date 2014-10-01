@@ -17,6 +17,8 @@ input_dxtx_path = 'input/content/'
 tempTablesPath = 'temp/tables/'
 regimenStore = {}             # store metadata for tables
 conditionStore = []           # store condition for Condition Quick Pick feature
+REPLACE_IMAGE_WITH_HTML_TAG = "replace-image-with-html"
+REPLACE_IMAGE_WITH_CONDITION_TAG = "replace-image-with-condition"
 
 
 class Breadcrumb():
@@ -363,7 +365,26 @@ class Condition():
 
                         ## search for cond-table-insert tags and throw them away
                         while line:
-                            html_file.write(line)
+
+                            if REPLACE_IMAGE_WITH_CONDITION_TAG in line:
+                                table_id = section_f.readline().strip()
+                                regimen_table = regimenStore[table_id]
+                                regimen_data = regimen_table.read_lines_from_table_html_file()
+                                html_file.writelines(regimen_data)
+                                #read closing cond-table-insert tag
+                                line = section_f.readline()
+                            elif REPLACE_IMAGE_WITH_HTML_TAG in line:
+                                htmlSnippetFileName = section_f.readline().strip()
+                                with open("input/image-replace/" + htmlSnippetFileName) as htmlSnippetFile:
+                                    try:
+                                        htmlSnippetData = htmlSnippetFile.readlines()
+                                        html_file.writelines(htmlSnippetData)
+                                    except IOError:
+                                        print "Can not open HTML snippet %s for image replacement." % htmlSnippetFileName
+                                    finally:
+                                        htmlSnippetFile.close()
+                            else:
+                                html_file.write(line)
                             line = section_f.readline()
 
                     finally:
@@ -371,6 +392,7 @@ class Condition():
 
         html_file.write('''
         </div>''')
+
 
 
     @staticmethod
