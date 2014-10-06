@@ -1,0 +1,14 @@
+### HIV Infection
+
+Immunocompromised patients can have prolonged or severe episodes of genital, perianal, or oral herpes. Lesions caused by HSV are common among persons with HIV infection and might be severe, painful, and atypical. HSV shedding is increased in persons with HIV infection. Whereas antiretroviral therapy reduces the severity and frequency of symptomatic genital herpes, frequent subclinical shedding still occurs 353 354. Clinical manifestations of genital herpes might worsen during immune reconstitution early after initiation of antiretroviral therapy.
+
+Suppressive or episodic therapy with oral antiviral agents is effective in decreasing the clinical manifestations of HSV among persons with HIV infection 355-357. HSV type-specific serologic testing can be offered to persons with HIV infection during their initial evaluation if infection status is unknown, and suppressive antiviral therapy can be considered in those who have HSV-2 infection. Suppressive anti-HSV therapy in persons with HIV infections does not reduce the risk of HIV transmission or HSV-2 transmission to susceptible sex partners 74,358 358
+
+Acyclovir, valacyclovir, and famciclovir are safe for use in immunocompromised patients in the doses recommended for treatment of genital herpes. For severe HSV disease, initiating therapy with acyclovir 5–10 mg/kg IV every 8 hours might be necessary.
+
+### Antiviral Resistant HSV
+
+If lesions persist or recur in a patient receiving antiviral treatment, HSV resistance should be suspected and a viral isolate should be obtained for sensitivity testing 359. Such persons should be managed in consultation with an Infectious Disease specialist, and alternate therapy should be administered. All acyclovir-resistant strains are resistant to valacyclovir, and the majority are resistant to famciclovir. Foscarnet, 40-80 mg/kg IV every 8 hours until clinical resolution is attained, is frequently effective for treatment of acyclovir-resistant genital herpes360,361. Intravenous cidofovir 5 mg/kg once weekly might also be effective. Imiquimod is a topical alternative 362, as is topical cidofovir gel 1%, however cidofovir must be compounded at a pharmacy363. These topical preparations should be applied to the lesions once daily for 5 consecutive days.
+
+Clinical management of antiviral resistance remains challenging among HIV-infected patients, and other preventative approaches might be necessary. However, experience with another group of immunocompromised persons (hematopoietic stem-cell recipients) demonstrated that persons receiving daily suppressive antiviral therapy were less likely to develop acyclovir-resistant HSV compared with those who received episodic therapy for outbreaks364.
+

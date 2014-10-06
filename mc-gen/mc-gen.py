@@ -43,23 +43,14 @@ GROUPED_SEPARATOR_TYPE = 5
 class RegimenTableData():
     def __init__(self):
         self.rows = []
-        self.condition = ""
-        self.patient = ""
-        self.doc = ""
-        self.page = ""
-        self.column = ""
-        self.table = ""
         self.header = ""
         self.htmlFile = ""
         self.tableId = ""
         self.subHeaderType = 1
         self.regimenType = 2
 
-    def add_condition(self, condition):
-        self.condition = condition
-
-    def add_patient(self, patient):
-        self.patient = patient
+    def add_table(self, table):
+        self.tableId = table
 
     def add_header(self, header):
         self.header = header
@@ -83,19 +74,6 @@ class RegimenTableData():
     def add_footer(self, text):
         row = RegimenTableRow(FOOTER_TYPE, text)
         self.rows.append(row)
-
-    def add_doc(self, doc):
-        self.doc = doc
-
-    def add_page(self, page):
-        self.page = page
-
-    def add_column(self, column):
-        self.column = column
-
-    def add_table(self, table):
-        self.table = table
-        self.tableId = self.doc + '-' + self.page + '-' + self.column + '-' + self.table
 
     def write_to_file(self, tf):
         tf.write('''
@@ -172,8 +150,8 @@ class RegimenTableData():
 
 
 class Condition():
-    def __init__(self, id, parent, text):
-        self.id = id
+    def __init__(self, condition_id, parent, text):
+        self.id = condition_id
         if parent is None:
             self.parent = parent
         else:
@@ -230,7 +208,7 @@ class Condition():
         with open(genConditionsPath + self.childrenListViewPage, "w") as lvf:
             try:
                 self.write_condition_common_head(lvf)
-                self.write_html_page_header(lvf, self.childrenListViewPageId)
+                self.write_html_page_header(lvf)
                 self.write_children_listview_body(lvf)
             finally:
                 lvf.close()
@@ -243,7 +221,7 @@ class Condition():
             with open(genConditionsPath + self.regimensPage, "w") as reg_f:
                 try:
                     self.write_condition_common_head(reg_f)
-                    self.write_html_page_header(reg_f, self.regimensPageId)
+                    self.write_html_page_header(reg_f)
                     self.write_html_regimens_content(reg_f)
                     self.write_html_regimens_footer(reg_f)
                 finally:
@@ -258,7 +236,7 @@ class Condition():
             with open(genConditionsPath + self.dxtxPage, "w") as dxtx_f:
                 try:
                     self.write_condition_common_head(dxtx_f)
-                    self.write_html_page_header(dxtx_f, self.dxtxPageId)
+                    self.write_html_page_header(dxtx_f)
                     self.write_html_dxtx_content(dxtx_f)
                     self.write_html_dxtx_footer(dxtx_f)
 
@@ -298,9 +276,8 @@ class Condition():
     </style>
     </head>''')
 
-
     @staticmethod
-    def write_html_page_header(html_file, page_id):
+    def write_html_page_header(html_file):
         html_file.write('''
     <body>''')
 
@@ -347,7 +324,6 @@ class Condition():
         html_file.write('''
         </div>''')
 
-
     def write_html_dxtx_content(self, html_file):
 
         self.write_html_breadcrumbs(html_file)
@@ -392,8 +368,6 @@ class Condition():
 
         html_file.write('''
         </div>''')
-
-
 
     @staticmethod
     def write_html_regimens_footer(html_file):
@@ -450,9 +424,9 @@ class Condition():
 # in a "doc-page-column-table.html" format to /temp/tables directory
 def import_regimen_table_data(table_file):
 
-    condition_found = False
-
+    table_found = False
     table_cnt = 0
+
     # create a new JSON file that contains all the condition metadata
     with open(table_file, "r") as csv_f:
         csv_reader = csv.reader(csv_f)
@@ -466,21 +440,11 @@ def import_regimen_table_data(table_file):
                     key = row[0]
                     value = row[1]
                     #print "Row = %s, %s" % (row[0], row[1])
-                    if key == 'condition':
-                        # print "Condition = %s" % row[1]
+                    if key == 'table':
+                        # print "Table = %s" % row[1]
                         table_data = RegimenTableData()
-                        table_data.add_condition(value)
-                        condition_found = True
-                    elif key == 'patient':
-                        table_data.add_patient(value)
-                    elif key == 'doc':
-                        table_data.add_doc(value)
-                    elif key == 'doc-page':
-                        table_data.add_page(value)
-                    elif key == 'doc-column':
-                        table_data.add_column(value)
-                    elif key == 'table-in-column':
                         table_data.add_table(value)
+                        table_found = True
                     elif key == 'header':
                         table_data.add_header(value)
                     elif key == 'subheader':
@@ -502,9 +466,9 @@ def import_regimen_table_data(table_file):
             else:
                 blank_row_found = True
 
-            if blank_row_found and condition_found:
+            if blank_row_found and table_found:
                 table_cnt += 1
-                condition_found = False
+                table_found = False
 
                 # write out HTML version of table data to file
                 table_data.write_table_temp_html_file()

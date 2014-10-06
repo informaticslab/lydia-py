@@ -1,0 +1,11 @@
+### Diagnostic Considerations 
+
+#### HPV Tests
+
+HPV tests are available to detect oncogenic types of HPV infection and are used in the context of cervical cancer screening and for management or follow-up of abnormal cervical cytology or histology (see cervical cancer screening section)
+
+### Treatment
+
+Treatment is directed to the macroscopic (e.g., genital warts) or pathologic precancerous lesions caused by HPV. Precancerous lesions are detected by cervical cancer screening (see cervical cancer screening) and management of HPV-related precancer should be managed based on existing guidance.
+
+Treatment of anogenital and oral warts should be performed in an appropriately ventilated room using Standard Precautions (http://www.cdc.gov/hicpac/pdf/isolation/Isolation2007.pdf) and local exhaust ventilation750 (e.g., smoke evacuator) http://www.cdc.gov/niosh/docs/hazardcontrol/hc11.html ).

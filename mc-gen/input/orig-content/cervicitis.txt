@@ -1,0 +1,17 @@
+### Diagnosis
+
+Because cervicitis might be a sign of upper-genital–tract infection (endometritis), women with a new episode of cervicitis should be assessed for signs of PID and should be tested for C. trachomatis and for N. gonorrhoeae with a NAAT which can be performed on either vaginal, cervical, or urine samples 385 (see CT diagnostic considerations section).Women with cervicitis also should be evaluated for the presence of bacterial vaginosis and trichomoniasis, and if these organisms are detected, they should be treated. Because the sensitivity of microscopy to detect T. vaginalis is relatively low (approximately 50%), symptomatic women with cervicitis and negative microscopy for trichomonads should receive further testing (i.e., culture, NAAT or other FDA approved diagnostic test, if available) (see trich diagnostic considerations section). A finding of >10 WBC in vaginal fluid, in the absence of trichomoniasis, might indicate endocervical inflammation caused specifically by C. trachomatis or N. gonorrhoeae 477,478. Although HSV-2 infection has been associated with cervicitis, the utility of specific testing (i.e., PCR, culture or serologic testing) for HSV-2 in this setting is unknown. FDA-cleared diagnostic tests for M. genitalium are not commercially available.
+
+### Treatment
+
+Several factors should affect the decision to provide presumptive therapy for cervicitis. Treatment with antibiotics for C. trachomatis should be provided for those women at increased risk for this common STD (e.g., those aged <25 years, those with new or multiple sex partners or partners with concurrent partners), especially if follow-up cannot be ensured or if a NAAT testing is not possible. Concurrent therapy for N. gonorrhoeae is indicated for women at risk for GC 109 (e.g., age <25 years, those with new or multiple sex partners, previous gonorrhea infection other STDS) or who live in communities with high prevalence of GC (see GC section). Trichomoniasis and BV should also be treated if detected (see BV and Trich section). Presumptive treatment of clinicially significant cervicitis where symptoms are clearly attributed to cervicitis may also be considered.
+
+For women at lower risk of STDs deferring treatment until results of diagnostic tests are available is an option. If treatment is deferred and NAATS for CT and GC are negative, then a follow-up visit to see if the cervicitis has resolved can be considered.
+
+<insert-table>
+  cervicitis
+</insert-table>
+
+To minimize onward transmission and reinfection, women treated for cervicitis should be instructed to abstain from sexual intercourse until they and their partner (s) have been adequately treated (i.e., for 7 days after single-dose therapy or until completion of a 7-day regimen, and symptoms have resolved
+
+Women diagnosed with cervicitis should be tested for HIV and syphilis.

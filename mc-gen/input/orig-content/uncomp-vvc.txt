@@ -1,0 +1,14 @@
+### Diagnostic Considerations
+
+A diagnosis of Candida vaginitis is suggested clinically by the presence of external dysuria and vulvar pruritus, pain, swelling, and redness. Signs include vulvar edema, fissures, excoriations, or thick curdy vaginal discharge. The diagnosis can be made in a woman who has signs and symptoms of vaginitis when either 1) a wet preparation (saline, 10% KOH) or Gram stain of vaginal discharge demonstrates budding yeasts, hyphae or pseudohyphae or 2) a culture or other test yields a positive result for a yeast species. Candida vaginitis is associated with a normal vaginal pH (<4.5). Use of 10% KOH in wet preparations improves the visualization of yeast and mycelia by disrupting cellular material that might obscure the yeast or pseudohyphae. Examination of a wet mount with KOH preparation should be performed for all women with symptoms or signs of VVC, and women with a positive result should receive treatment. For those with negative wet mounts, vaginal cultures for Candida should be considered for those with any sign or multiple symptoms. If Candida cultures cannot be done, empiric treatment can be considered for symptomatic women with any sign of VVC on examination when the wet mount is negative. Identifying Candida by culture in the absence of symptoms or signs is not an indication for treatment because approximately 10%–20% of women harbor Candida sp. and other yeasts in the vagina. PCR testing for yeast is not FDA-cleared; culture for yeast remains the gold standard for diagnosis. VVC can occur concomitantly with STDs. The majority of healthy women with uncomplicated VVC have no identifiable precipitating factors.
+
+### Treatment
+
+Short-course topical formulations (i.e., single dose and regimens of 1–3 days) effectively treat uncomplicated VVC. The topically applied azole drugs are more effective than nystatin. Treatment with azoles results in relief of symptoms and negative cultures in 80%–90% of patients who complete therapy.
+
+<insert-table>
+  uncomp-vvc
+</insert-table>
+
+Intravaginal preparations of clotrimazole, miconazole, and tioconazole are available over-the- counter (OTC). Evne women who have previously been diagnosed with VVC by a clinician are not necessarily more likely to be able to diagnose themselves; therefore, any woman whose symptoms persist after using an OTC preparation, or who has a recurrence of symptoms within 2 months after treatment for VVC, should be clinically evaluated and tested. Unnecessary or inappropriate use of OTC preparations is common and can lead to a delay in the treatment of other vulvovaginitis etiologies, which can in turn result in adverse outcomes.
+

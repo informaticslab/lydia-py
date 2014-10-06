@@ -3,124 +3,122 @@
 # regimens - specifies the tables that are defined in the table-data.txt file in doc-page-column-table format
 # dx-tx - specifies ParentId, ListView Text. Id is root node
 cond1,"Assault - Sexual"
-regimens,1-91-2-1
-dx-tx,396,397,398
+regimens,sexual-assault
+dx-tx,sexual-assault
 
 cond1,"Bacterial Vaginosis"
-regimens,1-57-1-1,1-57-2-1,1-58-1-1
-dx-tx,265
+regimens,bac-vag-rec,bac-vag-alt
+dx-tx,bac-vag
 
 cond1,"Candidiasis - Vulvovaginal"
 cond2,"Uncomplicated"
-regimens,1-61-1-2
-dx-tx,281,282
+regimens,uncomp-vvc
+dx-tx,uncomp-vvc
 cond2,"Complicated"
 regimens,
-dx-tx,289,290,291,292
+dx-tx,comp-vvc
 
 cond1,"Cervicitis"
-regimens,1-44-1-1
-dx-tx,194,195
+regimens,cervicitis
+dx-tx,cervicitis
 
 cond1,"Chancroid"
-regimens,1-19-2-1
-dx-tx,49
+regimens,chancroid
+dx-tx,chancroid
 
 cond1,"Chlamydia"
 cond2,"Adolescents & Adults"
-regimens,1-45-2-1,1-45-2-2
-dx-tx,203,204
+regimens,chlamydia-adult-rec,chlamydia-adult-alt
+dx-tx,chlamydia-adult
 cond2,"In Pregnancy"
-regimens,1-47-1-1,1-47-1-2
-dx-tx,208
+regimens,chlamydia-preg-rec,chlamydia-preg-alt
+dx-tx,chlamydia-preg
 cond2,"Children"
-regimens,1-49-1-1,1-49-1-2,1-49-1-3
-dx-tx,220,221
+regimens,chlamydia-children-rec-1,chlamydia-children-rec-2,chlamydia-children-rec-3
+dx-tx,chlamydia-children
 cond2,"Infants"
-regimens,1-48-1-1,1-48-2-1
-dx-tx,212,216
+regimens,chlamydia-infants-rec
+dx-tx,chlamydia-infants
+cond2,"Neonates"
+regimens,chlamydia-neonates-rec
+dx-tx,chlamydia-neonates
+
 
 cond1,Epididymitis
-regimens,1-68-2-1
-dx-tx,312,313
+regimens,epididymitis
+dx-tx,epididymitis
 
 cond1,Gonorrhea
 cond2,"Adolescents & Adults"
 cond3,"Cervix, Urethra, or Rectum - Infection"
-regimens,2-4-1-1,2-5-1-1,2-5-1-2
-dx-tx,231
+regimens,gonorrhea-cervix-rec,gonorrhea-cervix-alt
+dx-tx,gonorrhea-cervix
 cond3,"Pharynx - Infection"
-regimens,2-10-1-1
-dx-tx,232
+regimens,gonorrhea-pharynx-rec
+dx-tx,gonorrhea-pharynx
 cond3,Conjunctivitis
-regimens,1-53-1-1
-dx-tx,239
+regimens,gonorrhea-conjunc-rec
+dx-tx,gonorrhea-conjunc
 cond3,"Disseminated Gonococcal Infection"
-regimens,1-53-1-2,1-53-1-3
-dx-tx,241,242
-cond3,"Gonococcal Meningitis and Endocarditis"
-regimens,1-53-2-1
-dx-tx,244
-cond2,"Children"
-regimens,1-55-1-1,1-55-1-2,1-55-1-3,1-55-1-4
-dx-tx,258
-cond2,"Infants"
-regimens,1-54-1-1
-dx-tx,248
+regimens,gonorrhea-dgi-art-rec,gonorrhea-dgi-art-alt,gonorrhea-dgi-menin-rec
+dx-tx,gonorrhea-disseminated
 cond2,"Newborns"
-regimens,1-54-2-1,1-54-2-2,1-55-2-1
-dx-tx,248
+regimens,gonorrhea-oph-neo-pro,gonorrhea-oph-neo,gonorrhea-dgi-scalp,gonorrhea-neo-mother-infected
+dx-tx,gonorrhea-newborns                                                         
+cond2,"Children"                                                           
+regimens,gonorrhea-child-less-45kg-vaginitis,gonorrhea-child-more-45kg-vaginitis,gonorrhea-child-less-45kg-bacteremia,gonorrhea-child-more-45kg-bacteremia
+dx-tx,gonorrhea-children
 
 cond1,"Granuloma Inguinale"
-regimens,1-25-2-1,1-25-2-2
-dx-tx,74
+regimens,granuloma-inguinale-rec,granuloma-inguinale-alt
+dx-tx,granuloma-inguinale
 
 cond1,"Hepatitis"
 cond2,"Hepatitis A"
 regimens,
-dx-tx,343,344
+dx-tx,hep-a
 cond2,"Hepatitis B"
 regimens,
-dx-tx,352,353
+dx-tx,hep-b
 cond2,"Hepatitis C"
 regimens,
-dx-tx,366
+dx-tx,hep-c
 
 cond1,"Herpes - Genital"
 cond2,"First Episode"
-regimens,1-21-2-1
-dx-tx,61
+regimens,herpes-first-episode-rec
+dx-tx,herpes-first-episode
 cond2,"Recurrent Episode"
-regimens,1-22-1-1,1-22-1-2
-dx-tx,63,64
+regimens,herpes-recurrent-suppresive-rec,herpes-recurrent-episodic-rec
+dx-tx,herpes-recurrent
 cond2,"HIV Positive"
-regimens,1-23-2-1,1-24-1-1
-dx-tx,70
+regimens,herpes-hiv-suppresive-rec,herpes-hiv-episodic-rec
+dx-tx,herpes-hiv
 cond2,"In Pregnancy"
 regimens,
-dx-tx,71
+dx-tx,herpes-pregnancy
 cond2,"Neonates"
 regimens,
-dx-tx,72
+dx-tx,herpes-neonates
 
 cond1,HIV
 regimens,
-dx-tx,41
+dx-tx,hiv
 
 cond1,"Human Papilloma Virus"
 regimens,
-dx-tx,319,320
+dx-tx,hpv
 
 cond1,"Lymphogranuloma Venereum"
-regimens,1-26-2-1,1-26-2-2
-dx-tx,81
+regimens,lpv-rec,lpv-alt
+dx-tx,lpv
 
 cond1,"Pediculosis Pubis"
 regimens,1-88-2-1,1-88-2-2
 dx-tx,377
 
 cond1,"Pelvic Inflammatory Disease"
-regimens,1-65-1-1,1-65-2-1,1-65-2-2,1-66-1-1
+regimens,pid-4,pid-3,pid-2,pid-1
 dx-tx,298,299,300,301,302,303
 
 cond1,"Proctitis/Proctocolitis/Enteritis"
@@ -129,7 +127,7 @@ dx-tx,373
 
 cond1,"Scabies"
 cond2,"Classic"
-regimens,1-89-2-1,1-89-2-2
+regimens,scabies-1,scabies-2
 dx-tx,384
 cond2,"Crusted"
 regimens,
@@ -172,7 +170,7 @@ regimens,1-42-1-1,1-42-1-2
 dx-tx,186
 
 cond1,"Warts - Genital"
-regimens,1-71-1-1,1-72-2-1,1-72-2-2,1-72-2-3,1-72-2-4
+regimens,external-warts,cervical-warts,vaginal-warts,urethral-meatus-warts,anal-warts
 dx-tx,323,324,325
 
 
