@@ -114,12 +114,12 @@ regimens,lpv-rec,lpv-alt
 dx-tx,lpv
 
 cond1,"Pediculosis Pubis"
-regimens,1-88-2-1,1-88-2-2
-dx-tx,377
+regimens,pediculosis-pubis-rec,pediculosis-pubis-alt
+dx-tx,pediculosis-pubis
 
 cond1,"Pelvic Inflammatory Disease"
-regimens,pid-4,pid-3,pid-2,pid-1
-dx-tx,298,299,300,301,302,303
+regimens,pid-parenteral-rec,pid-parenteral-alt,pid-im-oral-rec
+dx-tx,pid
 
 cond1,"Proctitis/Proctocolitis/Enteritis"
 regimens,1-88-1-1

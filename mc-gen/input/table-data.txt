@@ -359,10 +359,60 @@ table,lpv-alt
 header,"Alternative Regimen"
 regimen,"Erythromycin base 500 mg orally four times a day for 21 days"
 
+table,pediculosis-pubis-rec
+header,"Recommended Regimen"
+regimen,"Permethrin 1% cream rinse applied to affected areas and washed off after 10 minutes"
+separator,OR
+regimen,"Pyrethrins with piperonyl butoxide applied to the affected area and washed off after 10 minutes"
+
+table,pediculosis-pubis-alt
+header,"Alternative Regimen"
+regimen,"Malathion 0.5% lotion applied for 8–12 hours and washed off"
+separator,OR
+regimen,"Ivermectin 250 ug/kg repeated in 2 weeks"
+
+table,pid-parenteral-rec
+header,"Recommended Parenteral Regimen"
+regimen,"Cefotetan 2 g IV every 12 hours"
+separator,OR
+regimen,"Cefoxitin 2 g IV every 6 hours"
+grouped-separator,PLUS
+regimen,"Doxycycline 100 mg orally or IV every 12 hours**"
+separator,OR
+regimen,"Clindamycin 900 mg IV every 8 hours"
+separator,PLUS
+regimen,"Gentamicin loading dose IV or IM (2 mg/kg of body weight), followed by a maintenance dose (1.5 mg/kg) eve 8 hours. Single daily dosing (3–5 mg/kg) can be substituted*."
+footer,"*Although use of a single daily dose of gentamicin has not been evaluated for the treatment of PID, it is efficacious in analogous situations."
+footer,"**Because of the pain associated with intravenous infusion, doxycycline should be administered orally when possible. Oral and IV administration of doxycycline provide similar bioavailability."
 
 
+table,pid-parenteral-alt
+header,"Alternative Parenteral Regimens"
+regimen,"Ampicillin/Sulbactam 3 g IV every 6 hours"
+separator,PLUS
+regimen,"Doxycycline 100 mg orally or IV every 12 hours"
 
 
+table,pid-im-oral-rec
+header,"Recommended Intramuscular/Oral Regimens"
+regimen,"Ceftriaxone 250 mg IM in a single dose"
+separator,PLUS
+regimen,"Doxycycline 100 mg orally twice a day for 14 days"
+separator,WITH or WITHOUT
+regimen,"Metronidazole* 500 mg orally twice a day for 14 days"
+grouped-separator,OR
+regimen,"Cefoxitin 2 g IM in a single dose and Probenecid, 1 g orally administered concurrently in a single dose"
+separator,PLUS
+regimen,"Doxycycline 100 mg orally twice a day for 14 days"
+separator,WITH or WITHOUT
+regimen,"Metronidazole* 500 mg orally twice a day for 14 days"
+grouped-separator,OR
+regimen,"Other parenteral third-generation cephalosporin (e.g., ceftizoxime or cefotaxime)"
+separator,PLUS
+regimen,"Doxycycline 100 mg orally twice a day for 14 days"
+separator,WITH or WITHOUT
+regimen,"Metronidazole* 500 mg orally twice a day for 14 days"
+footer,"* Because of the limitations in coverage of anaerobes by the recommended third generation cephalosporins and until it is known that extended anaerobic coverage is not important for treatment of acute PID, the addition of metronidazole to treatment regimens with third generation cephalosporins should be considered 724"
 
 
 
@@ -381,19 +431,6 @@ regimen,"Ivermectin 200ug/kg orally, repeated in 2 weeks"
 table,scabies-2
 header,"Alternative Regimen"
 regimen,"Lindane (1%) 1 oz. of lotion or 30 g of cream applied in a thin layer to all areas of the body from the neck down and thoroughly washed off after 8 hours"
-
-table,pediculosis-pubis-1
-header,"Recommended Regimens"
-regimen,"Permethrin 1% cream rinse applied to affected areas and washed off after 10 minutes"
-separator,OR
-regimen,"Pyrethrins with piperonyl butoxide applied to the affected area and washed off after 10 minutes"
-
-
-table,pediculosis-pubis-2
-header,"Alternative Regimens"
-regimen,"Malathion 0.5% lotion applied for 8–12 hours and washed off"
-separator,OR
-regimen,"Ivermectin 250 ug/kg repeated in 2 weeks"
 
 
 table,proctitis
@@ -457,48 +494,8 @@ separator,OR
 regimen,"Surgical removal either by tangential scissor excision, tangential shave excision, curettage, or electrosurgery."
 
 
-table,pid-1
-header,"Recommended Oral Regimens"
-regimen,"Ceftriaxone 250 mg IM in a single dose"
-separator,PLUS
-regimen,"Doxycycline 100 mg orally twice a day for 14 days"
-separator,WITH or WITHOUT
-regimen,"Metronidazole* 500 mg orally twice a day for 14 days"
-grouped-separator,OR
-regimen,"Cefoxitin 2 g IM in a single dose and Probenecid, 1 g orally administered concurrently in a single dose"
-separator,PLUS
-regimen,"Doxycycline 100 mg orally twice a day for 14 days"
-separator,WITH or WITHOUT
-regimen,"Metronidazole* 500 mg orally twice a day for 14 days"
-grouped-separator,OR
-regimen,"Other parenteral third-generation cephalosporin (e.g., ceftizoxime or cefotaxime)"
-separator,PLUS
-regimen,"Doxycycline 100 mg orally twice a day for 14 days"
-separator,WITH or WITHOUT
-regimen,"Metronidazole* 500 mg orally twice a day for 14 days"
-footer,"* Adding metronidazole also will effectively treat BV, which is frequently associated with PID."
-
-table,pid-2
-header,"Alternative Parenteral Regimens"
-regimen,"Ampicillin/Sulbactam 3 g IV every 6 hours"
-separator,PLUS
-regimen,"Doxycycline 100 mg orally or IV every 12 hours"
 
 
-table,pid-3
-header,"Recommended Parenteral Regimen B"
-regimen,"Clindamycin 900 mg IV every 8 hours"
-separator,PLUS
-regimen,"Gentamicin loading dose IV or IM (2 mg/kg of body weight), followed by a maintenance dose (1.5 mg/kg) every 8 hours. Single daily dosing (3–5 mg/kg) can be substituted."
-
-
-table,pid-4
-header,"Recommended Parenteral Regimen A"
-regimen,"Cefotetan 2 g IV every 12 hours"
-separator,OR
-regimen,"Cefoxitin 2 g IV every 6 hours"
-grouped-separator,PLUS
-regimen,"Doxycycline 100 mg orally or IV every 12 hours"
 
 
 
