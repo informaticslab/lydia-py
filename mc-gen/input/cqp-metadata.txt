@@ -122,21 +122,36 @@ regimens,pid-parenteral-rec,pid-parenteral-alt,pid-im-oral-rec
 dx-tx,pid
 
 cond1,"Proctitis/Proctocolitis/Enteritis"
-regimens,1-88-1-1
-dx-tx,373
+regimens,proctitis-rec
+dx-tx,proctitis
 
 cond1,"Scabies"
 cond2,"Classic"
-regimens,scabies-1,scabies-2
-dx-tx,384
+regimens,scabies-classic-rec,scabies-classic-alt
+dx-tx,scabies-classic
 cond2,"Crusted"
 regimens,
-dx-tx,386
+dx-tx,scabies-crusted
 
 cond1,"Syphilis"
+cond2,"Primary and Secondary"
+regimens,syphilis-primary-adult-rec,syphilis-primary-child-rec
+dx-tx,syphilis-primary
+cond2,"Latent"
+regimens,syphilis-latent-adult-rec,syphilis-latent-child-rec
+dx-tx,syphilis-latent
+cond2,"Tertiary"
+regimens,syphilis-tertiary-rec
+dx-tx,syphilis-tertiary
+cond2,"Neurosyphilis"
+regimens,syphilis-neurosyphilis-rec,syphilis-neurosyphilis-alt
+dx-tx,syphilis-neurosyphilis
+cond2,"In Persons with HIV Infection"
+regimens,syphilis-hiv-primary-rec,syphilis-hiv-latent-early-rec,syphilis-hiv-latent-late-rec
+dx-tx,syphilis-hiv
 cond2,"In Pregnancy"
-regimens,1-35-1-1
-dx-tx,147,148,149
+regimens,
+dx-tx,syphilis-pregnancy
 cond2,"Congential"
 cond3,"Infants During 1st Month"
 regimens,1-37-1-1,1-37-2-1,1-37-2-2,1-37-2-3
@@ -144,18 +159,6 @@ dx-tx,157,158,159,160,161,162,163,164,165
 cond3,"Older Infants and Children"
 regimens,1-38-1-1
 dx-tx,166,167
-cond2,"Primary and Secondary"
-regimens,1-29-1-1,1-29-1-2
-dx-tx,92,93
-cond2,"Tertiary"
-regimens,1-32-1-1
-dx-tx,110
-cond2,"Latent"
-regimens,1-30-2-1,1-31-1-1
-dx-tx,101,102
-cond2,"Neurosyphilis"
-regimens,1-32-2-1,1-32-2-2
-dx-tx,119
 
 cond1,"Trichomoniasis"
 regimens,1-59-2-1,1-59-2-2

@@ -415,6 +415,98 @@ regimen,"Metronidazole* 500 mg orally twice a day for 14 days"
 footer,"* Because of the limitations in coverage of anaerobes by the recommended third generation cephalosporins and until it is known that extended anaerobic coverage is not important for treatment of acute PID, the addition of metronidazole to treatment regimens with third generation cephalosporins should be considered 724"
 
 
+table,proctitis-rec
+header,"Recommended Regimen"
+regimen,"Ceftriaxone 250 mg IM"
+separator,PLUS
+regimen,"Doxycycline 100 mg orally twice a day for 7 days"
+
+table,scabies-classic-rec
+header,"Recommended Regimens"
+regimen,"Permethrin 5% cream applied to all areas of the body from the neck down and washed off after 8–14 hours"
+separator,OR
+regimen,"Ivermectin 200ug/kg orally, repeated in 2 weeks"
+
+
+table,scabies-classic-alt
+header,"Alternative Regimen"
+regimen,"Lindane (1%) 1 oz. of lotion or 30 g of cream applied in a thin layer to all areas of the body from the neck down and thoroughly washed off after 8 hours"
+
+
+table,syphilis-primary-adult-rec
+header,"Recommended Regimen for Adults*"
+regimen,"Benzathine penicillin G 2.4 million units IM in a single dose"
+footer,"* Recommendations for treating syphilis in persons with HIV infection and pregnant women are discussed later in this report (see Syphilis among Persons with HIV infection and Syphilis in Pregnancy)."
+
+
+table,syphilis-primary-child-rec
+header,"Recommended Regimen for Infants and Children"
+regimen,"Benzathine penicillin G 50,000 units/kg IM, up to the adult dose of 2.4 million units in a single dose"
+
+
+
+table,syphilis-latent-adult-rec
+header,"Recommended Regimens for Adults*"
+subheader,"Early Latent Syphilis"
+regimen,"Benzathine penicillin G 2.4 million units IM in a single dose"
+subheader,"Late Latent Syphilis or Latent Syphilis of Unknown Duration"
+regimen,"Benzathine penicillin G 7.2 million units total, administered as 3 doses of 2.4 million units IM each at 1-week intervals"
+footer,"* Recommendations for treating syphilis in persons with HIV infection and pregnant women are discussed later in this report (see Syphilis in Persons with HIV infection and Syphilis in Pregnancy)."
+
+
+table,syphilis-latent-child-rec
+header,"Recommended Regimens for Children"
+subheader,"Early Latent Syphilis"
+regimen,"Benzathine penicillin G 50,000 units/kg IM, up to the adult dose of 2.4 million units in a single dose"
+subheader,"Late Latent Syphilis or Latent Syphilis of Unknown Duration"
+regimen,"Benzathine penicillin G 50,000 units/kg IM, up to the adult dose of 2.4 million units, administered as 3 doses at 1-week intervals (total 150,000 units/kg up to the adult total dose of 7.2 million units)"
+
+
+table,syphilis-tertiary-rec
+header,"Recommended Regimen"
+subheader,"Tertiary Syphilis with Normal CSF Examination"
+regimen,"Benzathine penicillin G 7.2 million units total, administered as 3 doses of 2.4 million units IM each at 1-week intervals"
+
+
+table,syphilis-neurosyphilis-rec
+header,"Recommended Regimen"
+regimen,"Aqueous crystalline penicillin G 18–24 million units per day, administered as 3–4 million units IV every 4 hours or continuous infusion, for 10–14 days"
+
+
+table,syphilis-neurosyphilis-alt
+header,"Alternative Regimen"
+regimen,"Procaine penicillin G 2.4 million units IM once daily"
+separator,PLUS
+regimen,"Probenecid 500 mg orally four times a day, both for 10–14 days"
+
+
+table,syphilis-hiv-primary-rec
+header,"Recommended Regimen Persons with HIV infection"
+subheader,"Primary and Secondary Syphilis"
+regimen,"Benzathine penicillin G, 2.4 million units IM in a single dose."
+
+
+table,syphilis-hiv-latent-early-rec
+header,"Recommended Regimen for Early Latent Syphilis in Persons with HIV infection"
+regimen,"Benzathine penicillin G, 2.4 million units IM in a single dose."
+
+table,syphilis-hiv-latent-late-rec
+header,"Recommended Regimen for Late Latent Syphilis Among Persons with HIV infection"
+regimen,"Benzathine penicillin G, at weekly doses of 2.4 million units for 3 weeks."
+
+
+table,syphilis-pregnancy
+header,"Recommended Regimen"
+regimen,"Pregnant women should be treated with the penicillin regimen appropriate for their stage of infection."
+
+
+
+
+
+
+
+
+
 
 ****** everything above updated,
 ****** below needs to be done
@@ -422,22 +514,12 @@ footer,"* Because of the limitations in coverage of anaerobes by the recommended
 
 
 
-table,scabies-1
-header,"Recommended Regimens"
-regimen,"Permethrin 5% cream applied to all areas of the body from the neck down and washed off after 8–14 hours"
-separator,OR
-regimen,"Ivermectin 200ug/kg orally, repeated in 2 weeks"
-
-table,scabies-2
-header,"Alternative Regimen"
-regimen,"Lindane (1%) 1 oz. of lotion or 30 g of cream applied in a thin layer to all areas of the body from the neck down and thoroughly washed off after 8 hours"
 
 
-table,proctitis
-header,"Recommended Regimen"
-regimen,"Ceftriaxone 250 mg IM"
-separator,PLUS
-regimen,"Doxycycline 100 mg orally twice a day for 7 days"
+
+
+
+
 
 
 table,cervical-warts
@@ -494,11 +576,6 @@ separator,OR
 regimen,"Surgical removal either by tangential scissor excision, tangential shave excision, curettage, or electrosurgery."
 
 
-
-
-
-
-
 table,Trichomoniasis
 patient,Women
 doc,1
@@ -522,147 +599,6 @@ separator,OR
 regimen,"Tinidazole 2 g orally in a single dose"
 
 
-table,Gonorrhea
-patient,Children
-doc,1
-doc-page,55
-doc-column,2
-table-in-column,1
-header,"Recommended Regimen- Ophthalmia Neonatorum Prophylaxis"
-regimen,"Erythromycin (0.5%) ophthalmic ointment in each eye in a single application"
-
-
-table,Gonorrhea
-patient,Children
-doc,1
-doc-page,55
-doc-column,1
-table-in-column,4
-header,"Recommended Regimen for Children Who Weigh >45 kg and Who Have Bacteremia or Arthritis"
-regimen,"Ceftriaxone 50 mg/kg IM or IV in a single dose daily for 7 days"
-
-
-table,Gonorrhea
-patient,Children
-doc,1
-doc-page,55
-doc-column,1
-table-in-column,3
-header,"Recommended Regimen for Children Who Weigh ≤45 kg and Who Have Bacteremia or Arthritis"
-regimen,"Ceftriaxone 50 mg/kg (maximum dose: 1 g) IM or IV in a single dose daily for 7 days"
-
-
-table,Gonorrhea
-patient,Children
-doc,1
-doc-page,55
-doc-column,1
-table-in-column,2
-header,"Recommended Regimen for Children Who Weigh ≤45 kg and Who Have Uncomplicated Gonococcal Vulvovaginitis, Cervicitis,
-Urethritis, Pharyngitis, or Proctitis"
-regimen,"Ceftriaxone 125 mg IM in a single dose"
-
-
-table,Gonorrhea
-patient,Children
-doc,1
-doc-page,55
-doc-column,1
-table-in-column,1
-header,"Recommended Regimen for Children Who Weigh >45 kg"
-regimen,"Treat with one of the regimens recommended for adults (see Gonococcal Infections)"
-
-
-table,Gonorrhea
-patient,Newborns
-doc,1
-doc-page,55
-doc-column,2
-table-in-column,1
-header,"Recommended Regimens - Prophylactic Treatment for all Infants for ophthalmia neonatorum"
-regimen,"Erythromycin (0.5%) ophthalmic ointment in each eye in a single application"
-
-table,Gonorrhea
-patient,Newborns
-doc,1
-doc-page,54
-doc-column,2
-table-in-column,2
-header,"Recommended Regimens - Prophylactic Treatment for Infants Whose Mothers Have Gonococcal Infection"
-regimen,"Ceftriaxone 25–50 mg/kg IV or IM, not to exceed 125 mg, in a single dose"
-
-
-table,Gonorrhea
-patient,Newborns
-doc,1
-doc-page,54
-doc-column,2
-table-in-column,1
-header,"Recommended Regimens- DGI and Gonococcal Scalp Abscesses"
-regimen,"Ceftriaxone 25–50 mg/kg/day IV or IM in a single daily dose for 7 days, with a duration of 10–14 days, if meningitis is documented"
-separator,OR
-regimen,"Cefotaxime 25 mg/kg IV or IM every 12 hours for 7 days, with a duration of 10–14 days, if meningitis is documented"
-
-
-table,Gonorrhea
-patient,Infants
-doc,1
-doc-page,54
-doc-column,1
-table-in-column,1
-header,"Recommended Regimen - Ophthalmia Neonatorum Caused by N. gonorrhoeae"
-regimen,"Ceftriaxone 25–50 mg/kg IV or IM in a single dose, not to exceed 125 mg"
-
-
-table,Gonorrhea
-patient,"Adolescents and Adults"
-doc,1
-doc-page,53
-doc-column,2
-table-in-column,1
-header,"Recommended Regimen - Gonococcal Meningitis and Endocarditis"
-regimen,"Ceftriaxone 1–2 g IV every 12 hours"
-
-
-table,Gonorrhea
-patient,"Adolescents and Adults"
-doc,1
-doc-page,53
-doc-column,1
-table-in-column,3
-header,"Alternative Regimen - Disseminated Gonococcal Infection (DGI)"
-regimen,"Cefotaxime 1 g IV every 8 hours"
-separator,OR
-regimen,"Ceftizoxime 1 g IV every 8 hours"
-
-
-table,Gonorrhea
-patient,"Adolescents and Adults"
-doc,1
-doc-page,53
-doc-column,1
-table-in-column,2
-header,"Recommended Regimen - Disseminated Gonococcal Infection (DGI)"
-regimen,"Ceftriaxone 1 g IM or IV every 24 hours"
-
-
-
-table,Gonorrhea
-patient,"Adolescents and Adults"
-doc,1
-doc-page,50
-doc-column,2
-table-in-column,1
-header,"Updated Recommended Regimens - Uncomplicated Gonococcal Infections of the Cervix, Urethra, and Rectum"
-regimen,"Ceftriaxone 250 mg IM in a single dose"
-separator,"OR, IF NOT AN OPTION"
-regimen,"Cefixime 400 mg orally in a single dose"
-separator,OR
-regimen,"Single-dose injectible cephalosporin regimens"
-separator,PLUS
-regimen,"Azithromycin 1g orally in a single dose"
-separator,OR
-regimen,"Doxycycline 100 mg orally twice a day for 7 days"
 
 
 table,"Urethritis - Recurrent and Persistent"
@@ -764,239 +700,6 @@ regimen,"Aqueous crystalline penicillin G 100,000–150,000 units/kg/day, admini
 separator,OR
 regimen,"Procaine penicillin G 50,000 units/kg/dose IM in a single daily dose for 10 days"
 
-table,Syphilis
-patient,Pregnant Women
-doc,1
-doc-page,35
-doc-column,1
-table-in-column,1
-header,"Recommended Regimen"
-regimen,"Pregnant women should be treated with the penicillin regimen appropriate for their stage of infection."
 
 
-table,Neurosyphilis
-patient,
-doc,1
-doc-page,32
-doc-column,2
-table-in-column,1
-header,"Recommended Regimen"
-regimen,"Aqueous crystalline penicillin G 18–24 million units per day, administered as 3–4 million units IV every 4 hours or continuous infusion, for 10–14 days"
-
-
-table,Neurosyphilis
-patient,
-doc,1
-doc-page,32
-doc-column,2
-table-in-column,2
-header,"Alternative Regimen"
-regimen,"Procaine penicillin 2.4 million units IM once daily"
-separator,PLUS
-regimen,"Probenecid 500 mg orally four times a day, both for 10–14 days"
-
-
-table,"Tertiary Syphilis"
-patient,
-doc,1
-doc-page,32
-doc-column,1
-table-in-column,1
-header,Recommended Regimen
-regimen,"Benzathine penicillin G 7.2 million units total, administered as 3 doses of 2.4 million units IM each at 1-week intervals"
-
-
-table,"Latent Syphilis"
-patient,Children
-doc,1
-doc-page,31
-doc-column,1
-table-in-column,1
-header,"Recommended Regimens for Children"
-subheader,"Early Latent Syphilis"
-regimen,"Benzathine penicillin G 50,000 units/kg IM, up to the adult dose of 2.4 million units in a single dose"
-subheader,"Late Latent Syphilis or Latent Syphilis of Unknown Duration"
-regimen,"Benzathine penicillin G 50,000 units/kg IM, up to the adult dose of 2.4 million units, administered as 3 doses at 1-week intervals (total 150,000 units/kg up to the adult total dose of 7.2 million units)"
-
-
-table,"Latent Syphilis"
-patient,Adults
-doc,1
-doc-page,30
-doc-column,2
-table-in-column,1
-header,"Recommended Regimens for Adults*"
-subheader,"Early Latent Syphilis"
-regimen,"Benzathine penicillin G 2.4 million units IM in a single dose"
-subheader,"Late Latent Syphilis or Latent Syphilis of Unknown Duration"
-regimen,"Benzathine penicillin G 7.2 million units total, administered as 3 doses of 2.4 million units IM each at 1-week intervals"
-footer,"* Recommendations for treating syphilis in HIV-infected persons and pregnant women are discussed later in this report (see Syphilis among HIV-Infected Persons and Syphilis in Pregnancy)."
-
-
-table,"Primary and Secondary Syphilis"
-patient,"Infants and Children"
-doc,1
-doc-page,29
-doc-column,1
-table-in-column,2
-header,"Recommended Regimen for Infants and Children"
-regimen,"Benzathine penicillin G 50,000 units/kg IM, up to the adult dose of 2.4 million units in a single dose"
-
-
-table,"Primary and Secondary Syphilis"
-patient,Adults*
-doc,1
-doc-page,29
-doc-column,1
-table-in-column,1
-header,"Recommended Regimen for Adults*"
-regimen,"Benzathine penicillin G 2.4 million units IM in a single dose"
-footer,* Recommendations for treating syphilis in HIV-infected persons and pregnant women are discussed later in this report (see Syphilis among HIV–Infected Persons and Syphilis in Pregnancy)."
-
-
-table,Lymphogranuloma Venereum
-patient,
-doc,1
-doc-page,26
-doc-column,2
-table-in-column,1
-header,"Recommended Regimen"
-regimen,"Doxycycline 100 mg orally twice a day for 21 days"
-
-
-table,Lymphogranuloma Venereum
-patient,
-doc,1
-doc-page,26
-doc-column,2
-table-in-column,2
-header,"Alternative Regimen"
-regimen,"Erythromycin base 500 mg orally four times a day for 21 days"
-
-
-table,"Granuloma Inguinale (Donovanosis)"
-patient,
-doc,1
-doc-page,25
-doc-column,2
-table-in-column,1
-header,"Recommended Regimens"
-regimen,"Doxycycline 100 mg orally twice a day for at least 3 weeks and until all lesions have completely healed"
-
-
-table,"Granuloma Inguinale (Donovanosis)"
-patient,
-doc,1
-doc-page,25
-doc-column,2
-table-in-column,2
-header,"Alternative Regimens"
-regimen,"Azithromycin 1 g orally once per week for at least 3 weeks and until all lesions have completely healed"
-separator,OR
-regimen,"Ciprofloxacin 750 mg orally twice a day for at least 3 weeks and until all lesions have completely healed"
-separator,OR
-regimen,"Erythromycin base 500 mg orally four times a day for at least 3 weeks and until all lesions have completely healed"
-separator,OR
-regimen,"Trimethoprim-sulfamethoxazole one double-strength (160 mg/800 mg) tablet orally twice a day for at least 3 weeks and until all lesions have completely healed."
-
-
-table,"Genital Herpes (HSV)"
-patient,"Daily Suppressive Therapy in Persons with HIV"
-doc,1
-doc-page,23
-doc-column,2
-table-in-column,1
-header,"Recommended Regimens- Daily Suppressive Therapy in Persons with HIV"
-regimen,"Acyclovir 400–800 mg orally twice to three times a day"
-separator,OR
-regimen,"Famciclovir 500 mg orally twice a day"
-separator,OR
-regimen,"Valacyclovir 500 mg orally twice a day"
-
-
-table,"Genital Herpes (HSV)"
-patient,"Regimens for Episodic Infection in Persons with HIV"
-doc,1
-doc-page,24
-doc-column,1
-table-in-column,1
-header,"Recommended Regimens - Episodic Infection in Persons with HIV"
-regimen,"Acyclovir 400 mg orally three times a day for 5–10 days"
-separator,OR
-regimen,"Famciclovir 500 mg orally twice a day for 5–10 days"
-separator,OR
-regimen,"Valacyclovir 1 g orally twice a day for 5–10 days"
-
-
-table,"Genital Herpes (HSV)"
-patient,"Episodic Therapy for Recurrent Genital Herpes"
-doc,1
-doc-page,22
-doc-column,1
-table-in-column,2
-header,"Recommended Regimens - Episodic Therapy for Recurrent Genital Herpes"
-regimen,"Acyclovir 400 mg orally three times a day for 5 days"
-separator,OR
-regimen,"Acyclovir 800 mg orally twice a day for 5 days"
-separator,OR
-regimen,"Acyclovir 800 mg orally three times a day for 2 days"
-separator,OR
-regimen,"Famciclovir 125 mg orally twice daily for 5 days"
-separator,OR
-regimen,"Famciclovir 1000 mg orally twice daily for 1 day"
-separator,OR
-regimen,"Famciclovir 500 mg once, followed by 250 mg twice daily for 2 days"
-separator,OR
-regimen,"Valacyclovir 500 mg orally twice a day for 3 days"
-separator,OR
-regimen,"Valacyclovir 1 g orally once a day for 5 days"
-
-
-table,"Genital Herpes (HSV)"
-patient,"Suppressive Therapy for Recurrent Genital Herpes"
-doc,1
-doc-page,22
-doc-column,1
-table-in-column,1
-header,"Recommended Regimens - Suppressive Therapy for Recurrent Genital Herpes"
-regimen,"Acyclovir 400 mg orally twice a day"
-separator,OR
-regimen,"Famiciclovir 250 mg orally twice a day"
-separator,OR
-regimen,"Valacyclovir 500 mg orally once a day*"
-separator,OR
-regimen,"Valacyclovir 1 g orally once a day"
-footer,"* Valacyclovir 500 mg once a day might be less effective than other valacyclovir"
-footer," or acyclovir dosing regimens in patients who have very frequent recurrences (i.e., ≥10 episodes per year)."
-
-
-table,"Genital Herpes (HSV)"
-patient,"First Clinical Episode of Genital Herpes"
-doc,1
-doc-page,21
-doc-column,2
-table-in-column,1
-header,"Recommended Regimens - First Clinical Episode*"
-regimen,"Acyclovir 400 mg orally three times a day for 7–10 days"
-separator,OR
-regimen,"Acyclovir 200 mg orally five times a day for 7–10 days"
-separator,OR
-regimen,"Famciclovir 250 mg orally three times a day for 7–10 days"
-separator,OR
-regimen,"Valacyclovir 1 g orally twice a day for 7–10 days"
-footer,"*Treatment can be extended if healing is incomplete after 10 days of therapy."
-
-
-# Gonorrhea updates
-table,Gonorrhea
-patient,"Adolescents and Adults"
-doc,2
-doc-page,10
-doc-column,1
-table-in-column,1
-header,"Recommended Regimens" 
-regimen,"Ceftriaxone 250 mg IM in a single dose"
-separator,PLUS
-regimen,"Azithromycin 1 g orally in a single dose or doxycycline 100 mg orally twice a day for 7 days*"
-footer,"* Because of the high prevalence of tetracycline resistance among Gonococcal Isolate Surveillance Project isolates, particularly those with elevated minimum inhibitory concentrations to cefixime, the use of azithromycin as the second antimicrobial is preferred." 
 
