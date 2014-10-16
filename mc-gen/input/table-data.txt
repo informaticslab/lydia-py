@@ -499,31 +499,62 @@ table,syphilis-pregnancy
 header,"Recommended Regimen"
 regimen,"Pregnant women should be treated with the penicillin regimen appropriate for their stage of infection."
 
+table,syphilis-congenital-neonate-proven
+header,"Recommended Regimens - Neonate with Proven or Highly Probable Congenital Syphilis"
+regimen,"Aqueous crystalline penicillin G 100,000– 150,000 units/kg/day, administered as 50,000 units/kg/dose IV every 12 hours during the first 7 days of life and every 8 hours thereafter for a total of 10 days"
+separator,OR
+regimen,"Procaine penicillin G 50,000 units/kg/dose IM in a single daily dose for 10 days"
+
+table,syphilis-congenital-neonate-possible
+header,"Recommended Regimens - Neonate with Possible Congenital Syphilis"
+regimen,"Aqueous crystalline penicillin G 100,000– 150,000 units/kg/day, administered as 50,000 units/kg/dose IV every 12 hours during the first 7 days of life and every 8 hours thereafter for a total of 10 days."
+separator,OR
+regimen,"Procaine penicillin G 50,000 units/kg/dose IM in a single daily dose for 10 days"
+separator,OR
+regimen,"Benzathine penicillin G 50,000 units/kg/dose IM in a single dose"
+
+table,syphilis-congenital-neonate-less-likely
+header,"Recommended Regimens - Neonate with Congenital Syphilis Less Likely"
+regimen,"Benzathine penicillin G 50,000 units/kg/dose IM in a single dose*"
+footer,"* Another approach involves not treating the infant, but rather providing close serologic follow-up every 2-3 months for 6 months in those whose mother’s nontreponemal titers decreased fourfold after appropriate therapy for early syphilis or remained stable or low for late syphilis (e.g.; VDRL <1:2; RPR <1:4)."
+
+table,syphilis-congenital-neonate-unlikely
+header,"Recommended Regimens - Neonate with Congenital Syphilis Unlikely"
+regimen,"No treatment is required but infants with reactive nontreponemal tests should be followed serologically to ensure the nontreponemal test returns to negative (See follow-up below); however, benzathine penicillin G 50,000 units/kg as a single IM injection might be considered, particularly if follow-up is uncertain and the neonate has a reactive nontreponemal test."
+
+table,syphilis-congenital-infant
+header,"Recommended Regimens"
+regimen,"Aqueous crystalline penicillin G 200,000– 300,000 units/kg/day IV, administered as 50,000 units/kg every 4–6 hours for 10 days"
+
+table,trichomoniasis-rec
+header,"Recommended Regimens"
+regimen,"Metronidazole 2 g orally in a single dose"
+separator,OR
+regimen,"Tinidazole 2 g orally in a single dose"
+
+table,trichomoniasis-alt
+header,"Alternative Regimen"
+regimen,"Metronidazole 500 mg orally twice a day for 7 days"
+
+table,urethritis-nongonococcal-rec
+header,"Recommended Regimens"
+regimen,"Azithromycin 1 g orally in a single dose"
+separator,OR
+regimen,"Doxycycline 100 mg orally twice a day for 7 days"
 
 
+table,urethritis-nongonococcal-alt
+header,"Alternative Regimen"
+regimen,"Erythromycin base 500 mg orally four times a day for 7 days"
+separator,OR
+regimen,"Erythromycin ethylsuccinate 800 mg orally four times a day for 7 days"
+separator,OR
+regimen,"Levofloxacin 500 mg orally once daily for 7 days"
+separator,OR
+regimen,"Ofloxacin 300 mg orally twice a day for 7 days"
 
 
-
-
-
-
-
-****** everything above updated,
-****** below needs to be done
-
-
-
-
-
-
-
-
-
-
-
-
-table,cervical-warts
-patient,
+table,warts-cervical
 header,"Recommended Regimens for Cervical Warts"
 regimen,"Cryotherapy with liquid nitrogen"
 separator,OR
@@ -534,171 +565,57 @@ footer,"Management of cervical warts should include consultation with a speciali
 footer,"For women who have exophytic cervical warts, a biopsy evaluation to exclude high-grade SIL must be performed before treatment is initiated."
 
 
-table,vaginal-warts
+table,warts-vaginal
 header,"Recommended Regimens for Vaginal Warts"
-regimen,"Cryotherapy with liquid nitrogen."
+regimen,"Cryotherapy with liquid nitrogen. The use of a cryoprobe in the vagina is not recommended because of the risk for vaginal perforation and fistula formation."
 separator,OR
 regimen,"TCA or BCA 80%–90% applied to warts."
 separator,OR
 regimen,"Surgical removal"
 
 
-table,urethral-meatus-warts
+table,warts-urethral-meatus
 header,"Recommended Regimens for Urethral Meatus Warts"
 regimen,"Cryotherapy with liquid nitrogen"
 separator,OR
 regimen,"Surgical removal"
 
-table,anal-warts
-header,"Recommended Regimens for Anal Warts"
+table,warts-anal
+header,"Recommended Regimens for Intra-anal Warts"
 regimen,"Cryotherapy with liquid nitrogen"
 separator,OR
-regimen,"TCA or BCA 80%–90% applied to warts. A small amount should be applied only to warts and allowed to dry, at which time a white frosting develops. If an excess amount of acid is applied, the treated area should be powdered with talc, sodium bicarbonate, or liquid soap preparations to remove unreacted acid. This treatment can be repeated weekly, if necessary."
+regimen,"TCA or BCA 80%–90% applied to warts"
 separator,OR
 regimen,"Surgical removal"
+footer,"Management of intra-anal warts should include consultation with a specialist."
 
 
-table,"Genital Warts"
-header,"Recommended Regimens for External Genital Warts"
+table,warts-external-patient
+header,"Recommended Regimens for External Anogenital Warts (i.e., penis, groin, scrotum, vulva, perineum, external anus, and perinanus†)"
 subheader,"Patient-Applied:"
+regimen,"Imiquimod 3.75% or 5% cream*"
+separator,OR
 regimen,"Podofilox 0.5% solution or gel"
 separator,OR
-regimen,"Imiquimod 5% cream"
-separator,OR
-regimen,"Sinecatechins 15% ointment"
+regimen,"Sinecatechins 15% ointment*"
 subheader,"Provider–Administered:"
-regimen,"Cryotherapy with liquid nitrogen or cryoprobe. Repeat applications every 1–2 weeks."
+regimen,"Cryotherapy with liquid nitrogen or cryoprobe."
 separator,OR
-regimen,"Podophyllin resin 10%–25% in a compound tincture of benzoin"
+regimen,"Surgical removal either by tangential scissor excision, tangential shave excision, curettage, laseror electrosurgery."
 separator,OR
-regimen,"Trichloroacetic acid (TCA) or Bichloroacetic acid (BCA) 80%–90%"
+regimen,"Trichloroacetic acid (TCA) or Bichloroacetic acid (BCA) 80%–90% solution"
 separator,OR
 regimen,"Surgical removal either by tangential scissor excision, tangential shave excision, curettage, or electrosurgery."
-
-
-table,Trichomoniasis
-patient,Women
-doc,1
-doc-page,59
-doc-column,2
-table-in-column,2
-header,"Alternative Regimens"
-regimen,"Metronidazole 500 mg orally twice a day for 7 days*"
-footer,"* Patients should be advised to avoid consuming alcohol during treatment with metronidazole or tinidazole. Abstinence from alcohol use should continue for 24 hours after completion of metronidazole or 72 hours after completion of tinidazole."
-
-
-table,Trichomoniasis
-patient,Women
-doc,1
-doc-page,59
-doc-column,2
-table-in-column,1
-header,"Recommended Regimens"
-regimen,"Metronidazole 2 g orally in a single dose"
-separator,OR
-regimen,"Tinidazole 2 g orally in a single dose"
+footer,"* Might weaken condoms and vaginal diaphragms"
+footer,"† Many persons with external anal warts also have intra- anal warts, so persons with external anal warts might benefit from an inspection of the anal canal by digital examination, standard anoscopy, or high-resolution anoscopy."
 
 
 
 
-table,"Urethritis - Recurrent and Persistent"
-patient,
-doc,1
-doc-page,42
-doc-column,2
-table-in-column,1
-header,"Recommended Regimens"
-regimen,"Metronidazole 2 g orally in a single dose"
-separator,OR
-regimen,"Tinidazole 2 g orally in a single dose"
-grouped-separator,PLUS
-regimen,"Azithromycin 1 g orally in a single dose (if not used for initial episode)"
 
 
-table,"Urethritis - Nongonococcal"
-patient,
-doc,1
-doc-page,42
-doc-column,1
-table-in-column,2
-header,"Alternative Regimens"
-regimen,"Erythromycin base 500 mg orally four times a day for 7 days"
-separator,OR
-regimen,"Erythromycin ethylsuccinate 800 mg orally four times a day for 7 days"
-separator,OR
-regimen,"Levofloxacin 500 mg orally once daily for 7 days"
-separator,OR
-regimen,"Ofloxacin 300 mg orally twice a day for 7 days"
 
 
-table,"Urethritis - Nongonococcal"
-patient,
-doc,1
-doc-page,42
-doc-column,1
-table-in-column,1
-header,"Recommended Regimens"
-regimen,"Azithromycin 1 g orally in a single dose"
-separator,OR
-regimen,"Doxycycline 100 mg orally twice a day for 7 days"
-
-
-table,"Congenital Syphilis"
-patient,"Older Infants and Children"
-doc,1
-doc-page,38
-doc-column,1
-table-in-column,1
-header,"Recommended Regimen"
-regimen,"Aqueous crystalline penicillin G 200,000–300,000 units/kg/day IV, administered as 50,000 units/kg every 4–6 hours for 10 days"
-
-
-table,"Congenital Syphilis"
-patient,"Infants who have a normal physical examination and a serum quantitative nontreponemal serologic titer the same or less than fourfold the maternal titer and the 1. mother’s treatment was adequate before pregnancy and 2. mother’s nontreponemal serologic titer remained low and stable before and during pregnancy and at delivery (VDRL <1:2; RPR <1:4)."
-doc,1
-doc-page,37
-doc-column,2
-table-in-column,3
-header,"Recommended Regimen - Infants who have a normal physical examination and a serum quantitative nontreponemal serologic titer the same or less than fourfold the maternal titer and the 1. mother’s treatment was adequate before pregnancy and 2. mother’s nontreponemal serologic titer remained low and stable before and during pregnancy and at delivery (VDRL <1:2; RPR <1:4)."
-regimen,"No treatment is required; however, benzathine penicillin G 50,000 units/kg as a single IM injection might be considered, particularly if follow-up is uncertain."
-
-
-table,"Congenital Syphilis"
-patient,"Infants who have a normal physical examination and a serum quantitative nontreponemal serologic titer the same or less than fourfold the maternal titer and the 1. mother was treated during pregnancy, treatment was appropriate for the stage of infection, and treatment was administered >4 weeks before delivery and 2. mother has no evidence of reinfection or relapse."
-doc,1
-doc-page,37
-doc-column,2
-table-in-column,2
-header,"Recommended Regimen - Infants who have a normal physical examination and a serum quantitative nontreponemal serologic titer the same or less than fourfold the maternal titer and the 1. mother was treated during pregnancy, treatment was appropriate for the stage of infection, and treatment was administered >4 weeks before delivery and 2. mother has no evidence of reinfection or relapse."
-regimen,"Benzathine penicillin G 50,000 units/kg/dose IM in a single dose*"
-footer,"* Another approach involves not treating the infant, but rather providing close serologic follow-up in those whose mother’s nontreponemal titers decreased fourfold after appropriate therapy for early syphilis or remained stable or low for late syphilis."
-
-
-table,"Congenital Syphilis"
-patient,"Infants who have a normal physical examination and a serum quantitive nontreponemal serologic titer the same or less than fourfold the maternal titer and the 1. mother was not treated, inadequately treated, or has no documentation of having received treatment; 2. mother was treated with erythromycin or another nonpenicillin regimen;†† or 3. mother received treatment <4 weeks before delivery."
-doc,1
-doc-page,37
-doc-column,2
-table-in-column,1
-header,"Recommended Regimens - Infants who have a normal physical examination and a serum quantitive nontreponemal serologic titer the same or less than fourfold the maternal titer and the 1. mother was not treated, inadequately treated, or has no documentation of having received treatment; 2. mother was treated with erythromycin or another nonpenicillin regimen;†† or 3. mother received treatment <4 weeks before delivery."
-regimen,"Aqueous crystalline penicillin G 100,000–150,000 units/kg/day, administered as 50,000 units/kg/dose IV every 12 hours during the first 7 days of life and every 8 hours thereafter for a total of 10 days"
-separator,OR
-regimen,"Procaine penicillin G 50,000 units/kg/dose IM in a single daily dose for 10 days"
-separator,OR
-regimen,"Benzathine penicillin G 50,000 units/kg/dose IM in a single dose"
-footer,"†† A woman treated with a regimen other than those recommended in these guidelines for treatment should be considered untreated."
-
-
-table,"Congenital Syphilis"
-patient,"Infants with proven or highly probable disease and 1. an abnormal physical examination that is consistent with congenital syphilis; 2. a serum quantitative nontreponemal serologic titer that is fourfold higher than the mother’s titer; or 3. a positive darkfield test of body fluid(s)."
-doc,1
-doc-page,37
-doc-column,1
-table-in-column,1
-header,"Recommended Regimens - Infants with proven or highly probable disease and 1. an abnormal physical examination that is consistent with congenital syphilis; 2. a serum quantitative nontreponemal serologic titer that is fourfold higher than the mother’s titer; or 3. a positive darkfield test of body fluid(s)."
-regimen,"Aqueous crystalline penicillin G 100,000–150,000 units/kg/day, administered as 50,000 units/kg/dose IV every 12 hours during the first 7 days of life and every 8 hours thereafter for a total of 10 days"
-separator,OR
-regimen,"Procaine penicillin G 50,000 units/kg/dose IM in a single daily dose for 10 days"
 
 
 

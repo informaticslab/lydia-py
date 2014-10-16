@@ -153,27 +153,23 @@ cond2,"In Pregnancy"
 regimens,
 dx-tx,syphilis-pregnancy
 cond2,"Congential"
-cond3,"Infants During 1st Month"
-regimens,1-37-1-1,1-37-2-1,1-37-2-2,1-37-2-3
-dx-tx,157,158,159,160,161,162,163,164,165
+cond3,"Neonates"
+regimens,syphilis-congenital-neonate-proven,syphilis-congenital-neonate-possible,syphilis-congenital-neonate-less-likely,syphilis-congenital-neonate-unlikely
+dx-tx,syphilis-congenital-first-month
 cond3,"Older Infants and Children"
-regimens,1-38-1-1
-dx-tx,166,167
+regimens,syphilis-congenital-infant
+dx-tx,syphilis-congenital-infant
 
 cond1,"Trichomoniasis"
-regimens,1-59-2-1,1-59-2-2
-dx-tx,272
+regimens,trichomoniasis-rec,trichomoniasis-alt
+dx-tx,trichomoniasis
 
 cond1,"Urethritis"
-cond2,"Recurrent/Persistent"
-regimens,1-42-2-1
-dx-tx,189
-cond2,"Non-gonococcal"
-regimens,1-42-1-1,1-42-1-2
-dx-tx,186
+cond2,"Nongonococcal Urethritis"
+regimens,urethritis-nongonococcal-rec,urethritis-nongonococcal-alt
+dx-tx,urethritis-nongonococcal
 
 cond1,"Warts - Genital"
-regimens,external-warts,cervical-warts,vaginal-warts,urethral-meatus-warts,anal-warts
-dx-tx,323,324,325
-
+regimens,warts-external,warts-cervical,warts-vaginal,warts-urethral-meatus,warts-anal
+dx-tx,warts-genital
 
