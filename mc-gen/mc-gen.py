@@ -5,6 +5,8 @@ import locale
 import os
 import json
 import csv
+import markdown
+
 
 
 locale.setlocale(locale.LC_ALL, 'en_US.utf-8')
@@ -151,17 +153,17 @@ class RegimenTableData():
 
 class Condition():
     def __init__(self, condition_id, parent, text):
-        self.id = condition_id
+        self.condition_id = condition_id
         if parent is None:
             self.parent = parent
         else:
-            self.parent = parent.id
+            self.parent = parent.condition_id
         self.text = text
         self.breadcrumbs = []
         self.children = []
         self.hasChildren = False
         self.regimens = []
-        self.pageId = 'c' + str(id)
+        self.pageId = 'c' + str(self.condition_id)
         self.regimensPageId = self.pageId + '-r'
         self.regimensPage = self.regimensPageId + '.html'
         self.hasRegimens = False
@@ -254,7 +256,7 @@ class Condition():
     <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>''')
 
-        html_file.write(str(self.id))
+        html_file.write(str(self.condition_id))
         html_file.write('''</title>
 
         <link href="bootstrap.min.css" rel="stylesheet">
@@ -283,7 +285,7 @@ class Condition():
 
     def write_html_breadcrumbs(self, html_file):
     # do not write breadcrumbs for root condition
-        if self.id != 0:
+        if self.condition_id != 0:
 
             html_file.write('''
             <br />
@@ -334,7 +336,7 @@ class Condition():
         # write out all dxtx sections
         if len(self.dxtx) != 0:
             for dxtx in self.dxtx:
-                with open(input_dxtx_path + dxtx + ".txt", "r") as section_f:
+                 with open(input_dxtx_path + dxtx + ".html", "r") as section_f:
                     try:
                             ## Read the first line
                         line = section_f.readline()
@@ -596,6 +598,18 @@ def init_dirs():
     print("Creation of directories complete.")
 
 
+def process_markdown_files():
+
+    for markdown_file in os.listdir(input_dxtx_path):
+        print("Markdown file = " + markdown_file)
+        if markdown_file.endswith(".txt"):
+            html_file = os.path.splitext(markdown_file)[0] + '.html'
+            html_file_path = os.path.join(input_dxtx_path, html_file)
+            markdown_file_path = os.path.join(input_dxtx_path, markdown_file)
+            print("Parsing markdown file " + markdown_file_path + " and saving as as html file " + html_file_path)
+            markdown.markdownFromFile(input=markdown_file_path, output=html_file_path,  extensions=['markdown.extensions.footnotes', 'markdown.extensions.tables'])
+
+
 if __name__ == '__main__':
 
     import argparse
@@ -611,6 +625,7 @@ if __name__ == '__main__':
 
     init_dirs()
     try:
+        process_markdown_files()
         import_regimen_table_data("input/table-data.txt")
         import_condition_data("input/cqp-metadata.txt")
         create_condition_map("gen/condition-content-map.txt")
