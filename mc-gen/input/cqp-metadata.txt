@@ -64,8 +64,8 @@ regimens,gonorrhea-dgi-art-rec,gonorrhea-dgi-art-alt,gonorrhea-dgi-menin-rec
 dx-tx,gonorrhea-disseminated
 cond2,"Newborns"
 regimens,gonorrhea-oph-neo-pro,gonorrhea-oph-neo,gonorrhea-dgi-scalp,gonorrhea-neo-mother-infected
-dx-tx,gonorrhea-newborns                                                         
-cond2,"Children"                                                           
+dx-tx,gonorrhea-newborns
+cond2,"Children"
 regimens,gonorrhea-child-less-45kg-vaginitis,gonorrhea-child-more-45kg-vaginitis,gonorrhea-child-less-45kg-bacteremia,gonorrhea-child-more-45kg-bacteremia
 dx-tx,gonorrhea-children
 
@@ -110,8 +110,8 @@ regimens,
 dx-tx,hpv
 
 cond1,"Lymphogranuloma Venereum"
-regimens,lpv-rec,lpv-alt
-dx-tx,lpv
+regimens,lgv-rec,lgv-alt
+dx-tx,lgv
 
 cond1,"Pediculosis Pubis"
 regimens,pediculosis-pubis-rec,pediculosis-pubis-alt

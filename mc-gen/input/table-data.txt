@@ -351,11 +351,11 @@ separator,OR
 regimen,"Valacyclovir 500 mg orally twice a day"
 footer,"*Treatment recommended starting at 36 weeks of gestation374"
 
-table,lpv-rec
+table,lgv-rec
 header,"Recommended Regimen"
 regimen,"Doxycycline 100 mg orally twice a day for 21 days"
 
-table,lpv-alt
+table,lgv-alt
 header,"Alternative Regimen"
 regimen,"Erythromycin base 500 mg orally four times a day for 21 days"
 
@@ -590,7 +590,7 @@ regimen,"Surgical removal"
 footer,"Management of intra-anal warts should include consultation with a specialist."
 
 
-table,warts-external-patient
+table,warts-external
 header,"Recommended Regimens for External Anogenital Warts (i.e., penis, groin, scrotum, vulva, perineum, external anus, and perinanus†)"
 subheader,"Patient-Applied:"
 regimen,"Imiquimod 3.75% or 5% cream*"

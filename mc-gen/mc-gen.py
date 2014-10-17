@@ -13,7 +13,7 @@ basedir = ''
 genPath = 'gen'
 genConditionsPath = 'gen/conditions/'
 tempPath = 'temp'
-input_dxtx_path = 'input/content/'
+input_dxtx_path = 'input/orig-content/'
 tempTablesPath = 'temp/tables/'
 regimenStore = {}             # store metadata for tables
 conditionStore = []           # store condition for Condition Quick Pick feature
@@ -334,7 +334,7 @@ class Condition():
         # write out all dxtx sections
         if len(self.dxtx) != 0:
             for dxtx in self.dxtx:
-                with open(input_dxtx_path + dxtx + ".html", "r") as section_f:
+                with open(input_dxtx_path + dxtx + ".txt", "r") as section_f:
                     try:
                             ## Read the first line
                         line = section_f.readline()
