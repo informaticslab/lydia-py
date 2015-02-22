@@ -1,17 +1,12 @@
 ### Diagnostic Considerations
 
-Interpretation of treponemal and nontreponemal serologic tests for syphilis persons with HIV infection is the same as for the HIV-uninfected patient. Although rare, unusual serologic responses have been observed among persons with HIV infection who have syphilis, most such reports have involved post- treatment serologic titers that were higher than expected (high serofast) or fluctuating, but false-negative serologic test results and delayed appearance of seroreactivity have also been reported422.
+Interpretation of treponemal and nontreponemal serologic tests for persons with HIV infection is the same as for the HIV-uninfected patient.  Although rare, unusual serologic responses have been observed among persons with HIV infection who have syphilis; most reports have involved post-treatment serologic titers that were higher than expected (high serofast) or fluctuating, but false-negative serologic test results and delayed appearance of seroreactivity have also been reported433. 
 
 When clinical findings are suggestive of syphilis but serologic tests are nonreactive or their interpretation is unclear, alternative tests (e.g., biopsy of a lesion, darkfield examination, and PCR of lesion material) might be useful for diagnosis. Neurosyphilis should be considered in the differential diagnosis of neurologic signs and symptoms in persons with HIV infection.
 
 ### Treatment
 
-Persons with HIV infection who have early syphilis might be at increased risk for neurologic
-complications 423 and might have higher rates of serologic treatment failure with currently
-recommended regimens. The magnitude of these risks is not defined precisely, but is likely
-small. Although long-term comparative data of greater than 1 year are lacking, no treatment
-regimens for syphilis have been demonstrated to be more effective in preventing neurosyphilis in
-persons with HIV infection than the syphilis regimens recommended for persons without HIV
-infection 396. Careful follow-up after therapy is essential. The use of antiretroviral therapy as per
-current guidelines might improve clinical outcomes in persons with HIV infection and syphilis 415,424,425.
+Persons with HIV infection who have early syphilis might be at increased risk for neurologic complications 434 and might have higher rates of serologic treatment failure with currently recommended regimens. The magnitude of these risks is not defined precisely, but is likely small. Although long-term (>1 year) comparative data are lacking, no treatment regimens for syphilis have been demonstrated to be more effective in preventing neurosyphilis in persons with HIV infection than the syphilis regimens recommended for persons without HIV infection 407. Careful follow-up after therapy is essential. The use of antiretroviral therapy as per current guidelines might improve clinical outcomes in persons with HIV infection and syphilis 426,435,436.
+
+Available data demonstrate that additional doses of benzathine penicillin G, amoxicillin, or other antibiotics in primary and secondary syphilis do not result in enhanced efficacy 407,408.  
 

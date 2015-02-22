@@ -1,6 +1,6 @@
 ### Diagnostic Considerations
 
-Vaginal cultures should be obtained from women with VVC to confirm the clinical diagnosis and to identify unusual species, including nonalbicans species, particularly Candida glabrata (C. glabrata does not form pseudohyphae or hyphae and is not easily recognized on microscopy). Although C. albicans azole resistance is possibly becoming more common in vaginal isolates,709,710 susceptibility testing is usually not warranted for individual treatment guidance.
+Vaginal cultures should be obtained from women with complicated VVC to confirm clinical diagnosis and identify unusual species, including nonalbicans species, particularly Candida glabrata (C. glabrata does not form pseudohyphae or hyphae and is not easily recognized on microscopy). Although C. albicans azole resistance is possibly becoming more common in vaginal isolates,724,725 susceptibility testing is usually not warranted for individual treatment guidance.
 
 #### Recurrent Vulvovaginal Candidiasis (RVVC)
 
@@ -8,13 +8,14 @@ RVVC, usually defined as four or more episodes of symptomatic VVC in 1 year, aff
 
 #### Treatment
 
-Each individual episode of RVVC caused by C. albicans responds well to short duration oral or topical azole therapy. However, to maintain clinical and mycologic control, some specialists recommend a longer duration of initial therapy (e.g., 7–14 days of topical therapy or a 100 mg, 150 mg, or 200 mg oral dose of fluconazole every third day for a total of 3 doses (day 1, 4, and 7) to attempt mycologic remission before initiating a maintenance antifungal regimen.
+Each individual episode of RVVC caused by C. albicans responds well to short duration oral or topical azole therapy. However, to maintain clinical and mycologic control, some specialists recommend a longer duration of initial therapy (e.g., 7–14 days of topical therapy or a 100 mg, 150 mg, or 200 mg oral dose of fluconazole every third day for a total of 3 doses [day 1, 4, and 7]) to attempt mycologic remission before initiating a maintenance antifungal regimen.
 
-Oral fluconazole (i.e., 100-mg, 150-mg, or 200-mg dose) weekly for 6 months is the first line maintenance regimen. If this regimen is not feasible, topical treatments can also be considered. Suppressive maintenance therapies are effective in reducing RVVC. However, 30%–50% of women will have recurrent disease after maintenance therapy is discontinued. Symptomatic women who remain culture-positive despite maintenance therapy should be managed in consultation with a specialist.
+Oral fluconazole (i.e., 100-mg, 150-mg, or 200-mg dose) weekly for 6 months is the first line maintenance regimen. If this regimen is not feasible, topical treatments used intermittently can also be considered. Suppressive maintenance therapies are effective in reducing RVVC. However, 30%–50% of women will have recurrent disease after maintenance therapy is discontinued. Symptomatic women who remain culture-positive despite maintenance therapy should be managed in consultation with a specialist.
 
 ### Severe VVC
 
 Severe vulvovaginitis (i.e., extensive vulvar erythema, edema, excoriation, and fissure formation) is associated with lower clinical response rates in patients treated with short courses of topical or oral therapy. Either 7–14 days of topical azole or 150 mg of fluconazole in two sequential oral doses (second dose 72 hours after initial dose) is recommended.
 
 ### Non-albicans VVC
-Since at least 50% of women with positive cultures for non-albicans Candida may be minimally or not symptomatic at all and since successful treatment is often difficult, clinicians should make every effort to exclude other causes of vaginal symptoms in women with non-albicans yeast711. The optimal treatment of non-albicans VVC remains unknown. Options include longer duration of therapy (7–14 days) with a nonfluconazole azole regimen (oral or topical) as first-line therapy. If recurrence occurs, 600 mg of boric acid in a gelatin capsule is recommended, administered vaginally once daily for 2 weeks. This regimen has clinical and mycologic eradication rates of approximately 70% 712. If symptoms recur, referral to a specialist is advised.
+
+Since at least 50% of women with positive cultures for non-albicans Candida may be minimally or not symptomatic at all and since successful treatment is often difficult, clinicians should make every effort to exclude other causes of vaginal symptoms in women with non-albicans yeast726.  The optimal treatment of non-albicans VVC remains unknown. Options include longer duration of therapy (7–14 days) with a nonfluconazole azole regimen (oral or topical) as first-line therapy. If recurrence occurs, 600 mg of boric acid in a gelatin capsule is recommended, administered vaginally once daily for 2 weeks. This regimen has clinical and mycologic eradication rates of approximately 70% 727. If symptoms recur, referral to a specialist is advised.

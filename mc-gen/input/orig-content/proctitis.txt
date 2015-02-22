@@ -1,7 +1,9 @@
-### Treatment for Proctitis
+### Diagnostic Considerations for Acute Proctitis
 
-Acute proctitis of recent onset among persons who have recently practiced receptive anal intercourse is usually sexually acquired 822,823 If an anorectal exudate is detected on examination, if polymorphonuclear leukocytes are detected on a Gram-stained smear of anorectal exudate or secretions, or if anoscopy or gram stain is unavailable and the clinical presentation is consistent with sexually acquired acture procititis,presumptive therapy should be prescribed while awaiting additional laboratory tests.
+Persons who present with symptoms of acute proctitis should be examined by anoscopy. A Gram-stained smear of any anorectal exudate from anoscopic or anal examination should be examined for polymorphonuclear leukocytes. All persons should be evaluated for HSV (by PCR or culture), N. gonorrhoeae (NAAT or culture), C. trachomatis (NAAT), and T. pallidum (Darkfield if available and serologic testing) (see pathogen-specific sections). If the C. trachomatis test is positive on a rectal swab, a molecular test PCR for LGV should be performed, if available, to confirm an LGV diagnosis (see LGV section)395.
 
-MSM with proctitis and a positive rectal Chlamydia NAAT and MSM with HIV infection and proctitis, and : bloody discharge, perianal ulcers or mucosal ulcers should be offered presumptive treatment for LGV with doxycycline 100 mg twice daily orally for a total of 3 weeks 824,825. (see LGV)
+### Treatment for Acute Proctitis
 
-All persons with acute proctitis should be tested for HIV, if their HIV status is unknown or negative. 
+Acute proctitis of recent onset among persons who have recently practiced receptive anal intercourse is usually sexually acquired 846,847 Presumptive therapy should be initiated while awaiting results of laboratory tests for persons with anorectal exudate detected on examination or polymorphonuclear leukocytes detected on a Gram-stained smear of anorectal exudate or secretions; such therapy also should be initiated when anoscopy or gram stain is unavailable and the clinical presentation is consistent with acute proctitis in persons reporting receptive anal intercourse.
+
+Bloody discharge, perianal ulcers, or mucosal ulcers among MSM with acute proctitis and either a positive rectal chlamydia NAAT or HIV infection should be offered presumptive treatment for LGV with doxycycline 100 mg twice daily orally for a total of 3 weeks 848,849 (see LGV). If painful perianal ulcers are present or mucosal ulcers are detected on anoscopy, presumptive therapy should also include a regimen for genital herpes (see Genital HSV Infections). 

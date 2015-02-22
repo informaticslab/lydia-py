@@ -1,62 +1,68 @@
 ### Evaluation and Treatment of Neonates (Infants < 30 days of age)
 
-The diagnosis of congenital syphilis is complicated by the transplacental transfer of maternal nontreponemal and treponemal IgG antibodies to the fetus, which can complicate the interpretation of reactive serologic tests for syphilis in neonates. Therefore, treatment decisions frequently must be made on the basis of 1) identification of syphilis in the mother; 2) adequacy of maternal treatment; 3) presence of clinical, laboratory, or radiographic evidence of syphilis in the neonate; and 4) comparison of maternal (at delivery) and neonatal nontreponemal serologic titers using the same test, preferably conducted by the same laboratory. Any neonate at risk for congenital syphilis should receive a full evaluation and testing for HIV infection.
+The diagnosis of congenital syphilis can be difficult, as maternal nontreponemal and treponemal IgG antibodies can be transferred through the placenta to the fetus, complicating the interpretation of reactive serologic tests for syphilis in neonates. Therefore, treatment decisions frequently must be made on the basis of 1) identification of syphilis in the mother; 2) adequacy of maternal treatment; 3) presence of clinical, laboratory, or radiographic evidence of syphilis in the neonate; and 4) comparison of maternal (at delivery) and neonatal nontreponemal serologic titers using the same test, preferably conducted by the same laboratory. Any neonate at risk for congenital syphilis should receive a full evaluation and testing for HIV infection.
 
-All neonates born to mothers who have reactive nontreponemal and treponemal test results should be evaluated with a quantitative nontreponemal serologic test (RPR or VDRL) performed on the neonate’s serum, because umbilical cord blood can become contaminated with maternal blood and yield a false-positive result and Warton jelly can yield a false negative result. Conducting a treponemal test (i.e., TP-PA, FTA-ABS, EIA, or CIA) on neonatal serum is not necessary and difficult to interpret. No commercially available immunoglobulin (IgM) test can be recommended. These neonates should also be test for HIV.
+All neonates born to mothers who have reactive nontreponemal and treponemal test results should be evaluated with a quantitative nontreponemal serologic test (RPR or VDRL) performed on the neonate’s serum, because umbilical cord blood can become contaminated with maternal blood and yield a false-positive result and Wharton’s jelly within the umbilical cord can yield a false-negative result. Conducting a treponemal test (i.e., TP-PA, FTA-ABS, EIA, or CIA) on neonatal serum is not recommended as it is difficult to interpret. No commercially available immunoglobulin (IgM) test can be recommended.
 
-All neonates born to women who have reactive serologic tests for syphilis should be examined thoroughly for evidence of congenital syphilis (e.g., nonimmune hydrops, jaundice, hepatosplenomegaly, rhinitis, skin rash, and pseudoparalysis of an extremity). Pathologic examination of the placenta or umbilical cord using specific staining (e.g.; silver) or a T. pallidum PCR test using a vailidated test according to CLIA regulations should be considered; DFA-TP reagents are not currently available. Darkfield microscopic examination or PCR testing of suspicious lesions or body fluids (e.g., bullous rash, nasal discharge) also should be performed. In addition to these tests, for stillborn infants, skeletal survey demonstrating typical osseous lesions may aid in the diagnosis of congenital syphilis.
+All neonates born to women who have reactive serologic tests for syphilis should be examined thoroughly for evidence of congenital syphilis (e.g., nonimmune hydrops, jaundice, hepatosplenomegaly, rhinitis, skin rash, and pseudoparalysis of an extremity). Pathologic examination of the placenta or umbilical cord using specific staining (e.g., silver) or a T. pallidum PCR test using a CLIA-validated test should be considered; DFA-TP reagents are not currently available. Darkfield microscopic examination or PCR testing of suspicious lesions or body fluids (e.g., bullous rash and nasal discharge) also should be performed.  In addition to these tests, for stillborn infants, skeletal survey demonstrating typical osseous lesions may aid in the diagnosis of congenital syphilis. 
+
+The following scenarios describe the congenital syphilis evaluation and treatment of neonates born to women who have reactive serologic tests for syphilis during pregnancy.  Maternal history of infection with T. pallidum and treatment for syphilis must be considered when evaluating and treating the neonate for congenital syphilis in most scenarios, except when congenital syphilis is proven or highly probable (See Scenario 1).
 
 #### Scenario 1: Proven or highly probable congenital syphilis
 
 Any neonate with:
 
-1. an abnormal physical examination that is consistent with congenital syphilis; 
+Any neonate with: 
+1.	an abnormal physical examination that is consistent with congenital syphilis;
 
 OR
 
-2. a serum quantitative nontreponemal serologic titer that is fourfold higher than the mother’s titer;¶
+2.	a serum quantitative nontreponemal serologic titer that is fourfold higher than the mother’s titer;
 
 OR
 
-3. a positive darkfield test or PCR of lesions or body fluid(s).
+3.	a positive darkfield test or PCR of lesions or body fluid(s).
 
 #### Recommended Evaluation
 
-- CSF analysis for VDRL, cell count, and protein∗∗
-- Complete blood count (CBC) and differential and platelet count
-- Other tests as clinically indicated (e.g., long-bone radiographs, chest radiograph, liver- function tests, neuroimaging, ophthalmologic examination, and auditory brain stem response).
++ CSF analysis for VDRL, cell count, and protein∗∗
++ Complete blood count (CBC) and differential and platelet count
++ Other tests as clinically indicated (e.g., long-bone radiographs, chest radiograph, liver-function tests, neuroimaging, ophthalmologic examination, and auditory brain stem response).  
 
-If more than 1 day of therapy is missed, the entire course should be restarted. Data are insufficient regarding the use of other antimicrobial agents (e.g., ampicillin). When possible, a full 10-day course of penicillin is preferred, even if ampicillin was initially provided for possible sepsis.The use of agents other than penicillin requires close serologic follow-up to assess adequacy of therapy.
+If more than 1 day of therapy is missed, the entire course should be restarted. Data are insufficient regarding the use of other antimicrobial agents (e.g., ampicillin). When possible, a full 10-day course of penicillin is preferred, even if ampicillin was initially provided for possible sepsis. The use of agents other than penicillin requires close serologic follow-up to assess adequacy of therapy. 
 
 #### Scenario 2: Possible Congenital Syphilis
 
-Any neonate who has a normal physical examination and a serum quantitive nontreponemal serologic titer the same or less than fourfold the maternal titer and one of the following:
-1. mother was not treated, inadequately treated, or has no documentation of having received treatment;
+Any neonate who has a normal physical examination and a serum quantitive nontreponemal serologic titer equal to or less than fourfold the maternal titer and one of the following: 
+
+1.	mother was not treated, inadequately treated, or has no documentation of having received treatment;
 
 OR
 
-2. mother was treated with erythromycin or another a regimen other than those recommended in these guidelines;††
+2.	mother was treated with erythromycin or a regimen other than those recommended in these guidelines (i.e., a nonpenicillin G regimen);†† 
 
 OR
 
-3. mother received recommended treatment <4 weeks before delivery.
+3.	mother received recommended treatment <4 weeks before delivery.
 
 #### Recommended Evaluation
-- CSF analysis for VDRL, cell count, and protein** • CBC, differential, and platelet count
-- Long-bone radiographs, as clinically indicated.
++ CSF analysis for VDRL, cell count, and protein**
++ CBC, differential, and platelet count
++ Long-bone radiographs
 
-A complete evaluation is not necessary if 10 days of parenteral therapy is administered, although such evaluations might be useful. For instance, a lumbar puncture might document CSF abnormalities that would prompt close follow-up. Other tests (e.g., CBC, platelet count, and bone radiographs) can be performed to further support a diagnosis of congenital syphilis.
+A complete evaluation is not necessary if 10 days of parenteral therapy is administered, although such evaluations might be useful. For instance, a lumbar puncture might document CSF abnormalities that would prompt close follow-up. Other tests (e.g., CBC, platelet count, and bone radiographs) can be performed to further support a diagnosis of congenital syphilis. 
 
-Before using the single dose benzathine penicillin G regimen, the complete evaluation (i.e., CSF examination, long-bone radiographs, and CBC with platelets) must be normal, and follow-up must be certain. If any part of the infant’s evaluation is abnormal or not performed or if the CSF analysis is uninterpretable because of contamination with blood, then a 10-day course of penicillin G is required. If the neonate’s nontreponemal test is nonreactive, and the provider determines that the mother’s risk of untreated syphilis is low, treatment of the neonate with a single IM dose of benzathine penicillin G 50,000 units/kg for possible incubating syphilis without an evaluation can be considered.
+Before using the single-dose benzathine penicillin G regimen, the complete evaluation (i.e., CSF examination, long-bone radiographs, and CBC with platelets) must be normal, and follow-up must be certain. If any part of the infant’s evaluation is abnormal or not performed,  if the CSF analysis is uninterpretable because of contamination with blood, or if follow-up is uncertain, a 10-day course of penicillin G is required.  If the neonate’s nontreponemal test is nonreactive, and the provider determines that the mother’s risk of untreated syphilis is low, treatment of the neonate with a single IM dose of benzathine penicillin G 50,000 units/kg for possible incubating syphilis without an evaluation can be considered.  
 
-If the mother has untreated early syphilis at the time of delivery, then risk of congential syphilis is higher and the 10-day course of penicillin G may be considered even if the complete evaluation is normal and follow-up is certain.
+Neonates born to mothers with untreated early syphilis at the time of delivery are at increased risk for congenital syphilis, and the 10-day course of penicillin G may be considered even if the complete evaluation is normal and follow-up is certain.
+
 
 #### Scenario 3: Congenital Syphilis less likely
 
-Any neonate who has a normal physical examination and a serum quantitative nontreponemal serologic titer the same or less than fourfold the maternal titer and both of the following are true:
+Any neonate who has a normal physical examination and a serum quantitative nontreponemal serologic titer equal to or less than fourfold the maternal titer and both of the following are true: 
 
-1. mother was treated during pregnancy, treatment was appropriate for the stage of infection, and treatment was administered >4 weeks before delivery and
-2. mother has no evidence of reinfection or relapse.
+1.	mother was treated during pregnancy, treatment was appropriate for the stage of infection, and treatment was administered >4 weeks before delivery and
+2.	mother has no evidence of reinfection or relapse.
 
 #### Recommended Evaluation
 
@@ -65,10 +71,10 @@ No evaluation is recommended.
 
 #### Scenario 4: Congenital Syphilis unlikely
 
-Any neonate who has a normal physical examination and a serum quantitative nontreponemal serologic titer the same or less than fourfold the maternal titer and both of the following are true:
+Any neonate who has a normal physical examination and a serum quantitative nontreponemal serologic titer equal to or less than fourfold the maternal titer and both of the following are true:
+1.	mother’s treatment was adequate before pregnancy and
+2.	mother’s nontreponemal serologic titer remained low and stable (i.e., serofast) before and during pregnancy and at delivery (VDRL <1:2; RPR <1:4).
 
-1. mother’s treatment was adequate before pregnancy and
-2. mother’s nontreponemal serologic titer remained low and stable before and during pregnancy and at delivery (VDRL <1:2; RPR <1:4).
 
 #### Recommended Evaluation
 No evaluation is recommended.
