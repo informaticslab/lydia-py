@@ -16,6 +16,7 @@ genPath = 'gen'
 genConditionsPath = 'gen/conditions/'
 tempPath = 'temp'
 input_dxtx_path = 'input/orig-content/'
+output_dxtx_path = 'input/html-content/'
 tempTablesPath = 'temp/tables/'
 regimenStore = {}             # store metadata for tables
 conditionStore = []           # store condition for Condition Quick Pick feature
@@ -336,7 +337,7 @@ class Condition():
         # write out all dxtx sections
         if len(self.dxtx) != 0:
             for dxtx in self.dxtx:
-                 with open(input_dxtx_path + dxtx + ".html", "r") as section_f:
+                 with open(output_dxtx_path + dxtx + ".html", "r") as section_f:
                     try:
                             ## Read the first line
                         line = section_f.readline()
@@ -578,7 +579,7 @@ def import_condition_data(table_file):
 
 
 def init_dirs():
-    global genConditionsPath, input_dxtx_path, tempTablesPath
+    global genConditionsPath, input_dxtx_path, output_dxtx_path, tempTablesPath
     """Builds directory structure"""
     if not os.path.exists(genConditionsPath):
         os.makedirs(genConditionsPath)
@@ -588,6 +589,9 @@ def init_dirs():
 
     if not os.path.exists(input_dxtx_path):
         print("Error: DxTx content path " + input_dxtx_path + "does not exist!!!")
+
+    if not os.path.exists(output_dxtx_path):
+        print("Error: DxTx output path " + output_dxtx_path + "does not exist!!!")
 
     if not os.path.exists(tempTablesPath):
         os.makedirs(tempTablesPath)
@@ -604,9 +608,11 @@ def process_markdown_files():
         print("Markdown file = " + markdown_file)
         if markdown_file.endswith(".txt"):
             html_file = os.path.splitext(markdown_file)[0] + '.html'
-            html_file_path = os.path.join(input_dxtx_path, html_file)
+            html_file_path = os.path.join(output_dxtx_path, html_file)
             markdown_file_path = os.path.join(input_dxtx_path, markdown_file)
             print("Parsing markdown file " + markdown_file_path + " and saving as as html file " + html_file_path)
+
+            # use footnote extensions
             markdown.markdownFromFile(input=markdown_file_path, output=html_file_path,  extensions=['markdown.extensions.footnotes', 'markdown.extensions.tables'])
 
 
@@ -625,6 +631,7 @@ if __name__ == '__main__':
 
     init_dirs()
     try:
+        # process DxTx files that are written using Markdown markup syntax
         process_markdown_files()
         import_regimen_table_data("input/table-data.txt")
         import_condition_data("input/cqp-metadata.txt")
