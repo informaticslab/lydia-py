@@ -1,4 +1,4 @@
-# cond1,cond2,lv3.. - specifies the list view level for the associated text
+# cond1,cond2,cond3.. - specifies the list view level for the associated text
 # cond2 that belongs to a cond1 must be specified after the cond1, no line breaks in-between and no other cond1 specified
 # regimens - specifies the tables that are defined in the table-data.txt file in doc-page-column-table format
 # dx-tx - specifies ParentId, ListView Text. Id is root node
