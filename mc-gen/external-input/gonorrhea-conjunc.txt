@@ -1,0 +1,5 @@
+In the only published study (conducted in 1989) of the treatment of gonococcal conjunctivitis among adults, all 12 study participants responded to a single 1-g IM injection of ceftriaxone [^580]. Based on experience with other microbes that have developed antimicrobial resistance rapidly, a theoretical basis exists for combination therapy using two antimicrobials with different mechanisms of action (e.g., a cephalosporin plus azithromycin) to improve treatment efficacy and potentially slow the emergence and spread of resistance to cephalosporins. Because gonococcal conjunctivitis is uncommon and data on treatment of gonococcal conjunctivitis in adults is limited, consultation with an infectious disease specialist should be considered.
+
+Consider one-time lavage of the infected eye with saline solution. 
+
+[^580]:Haimovici R, Roussel TJ. Treatment of gonococcal conjunctivitis with single-dose intramuscular ceftriaxone. Am J Ophthalmol 1989;107:511–4.

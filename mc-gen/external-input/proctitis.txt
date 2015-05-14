@@ -1,0 +1,15 @@
+### Diagnostic Considerations for Acute Proctitis
+
+Persons who present with symptoms of acute proctitis should be examined by anoscopy. A Gram-stained smear of any anorectal exudate from anoscopic or anal examination should be examined for polymorphonuclear leukocytes. All persons should be evaluated for HSV (by PCR or culture), _N. gonorrhoeae_ (NAAT or culture), _C. trachomatis_ (NAAT), and _T. pallidum_ (Darkfield if available and serologic testing) (see pathogen-specific sections). If the _C. trachomatis_ test is positive on a rectal swab, a molecular test PCR for LGV should be performed, if available, to confirm an LGV diagnosis (see LGV) [^394].
+
+### Treatment for Acute Proctitis
+
+Acute proctitis of recent onset among persons who have recently practiced receptive anal intercourse is usually sexually acquired [^845]  [^846]. Presumptive therapy should be initiated while awaiting results of laboratory tests for persons with anorectal exudate detected on examination or polymorphonuclear leukocytes detected on a Gram-stained smear of anorectal exudate or secretions; such therapy also should be initiated when anoscopy or Gram stain is unavailable and the clinical presentation is consistent with acute proctitis in persons reporting receptive anal intercourse.
+
+Bloody discharge, perianal ulcers, or mucosal ulcers among MSM with acute proctitis and either a positive rectal chlamydia NAAT or HIV infection should be offered presumptive treatment for LGV with doxycycline 100 mg twice daily orally for a total of 3 weeks [^847]  [^848] (see LGV). If painful perianal ulcers are present or mucosal ulcers are detected on anoscopy, presumptive therapy should also include a regimen for genital herpes (see Genital HSV Infections). 
+
+[^394]:Papp JR, Schachter J, Gaydos C, et al. Recommendations for the laboratory-based detection of Chlamydia trachomatis and Neisseria gonorrhoeae--2014. MMWR Recomm Rep 2014;63(No. RR-02).
+[^845]:Klausner JD, Kohn R, Kent C. Etiology of clinical proctitis among men who have sex with men. Clin Infect Dis 2004;38:300–2.
+[^846]:Rompalo AM. Diagnosis and treatment of sexually acquired proctitis and proctocolitis: an update. Clin Infect Dis 1999;28(Suppl 1):S84–90.
+[^847]:McLean CA, Stoner BP, Workowski KA. Treatment of lymphogranuloma venereum. Clin Infect Dis 2007;44(Suppl 3):S147–52.
+[^848]:Van der Bij AK, Spaargaren J, Morre SA, et al. Diagnostic and clinical implications of anorectal lymphogranuloma venereum in men who have sex with men: a retrospective case-control study. Clin Infect Dis 2006;42:186–94.

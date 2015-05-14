@@ -1,0 +1,9 @@
+### Diagnosis
+
+Diagnosis of acute or chronic HBV infection requires serologic testing. Because HBsAg is present in both acute and chronic infection, the presence of IgM antibody to hepatitis B core antigen (IgM anti-HBc) is diagnostic of acute or recently acquired HBV infection. Antibody to HBsAg (anti-HBs) is produced after a resolved infection and is the only HBV antibody marker present after vaccination. The presence of HBsAg and total anti-HBc, with a negative test for IgM anti-HBc, indicates chronic HBV infection. The presence of anti-HBc alone might indicate acute, resolved, chronic infection or a false-positive result.
+
+### Treatment
+
+No specific therapy is available for persons with acute hepatitis B; treatment is supportive. Persons with chronic HBV infection should be referred for evaluation to a provider experienced in the management of chronic HBV infection. Therapeutic agents cleared by FDA for treatment of chronic hepatitis B can achieve sustained suppression of HBV replication and remission of liver disease [^841]. 
+
+[^841]:Lok AS, McMahon BJ. Chronic hepatitis B: update 2009. Hepatology 2009;50:661–2.

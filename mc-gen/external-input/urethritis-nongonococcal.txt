@@ -1,0 +1,11 @@
+### Diagnostic Considerations
+
+NGU is a nonspecific diagnosis that can have many infectious etiologies. NGU is confirmed in symptomatic men when staining of urethral secretions indicates inflammation without Gram negative or purple diplococci. All men who have confirmed NGU should be tested for chlamydia and gonorrhea even if point-of-care tests are negative for evidence of GC. NAATs for chlamydia and gonorrhea are recommended because of their high sensitivity and specificity; a specific diagnosis can potentially reduce complications, re-infection, and transmission [^394]. Testing for _T. vaginalis_ should be considered in areas or populations of high prevalence.  
+
+### Treatment
+
+Presumptive treatment should be initiated at the time of NGU diagnosis. Azithromycin and doxycycline are highly effective for chlamydial urethritis. NGU associated with _M. genitalium_ currently responds better to azithromycin than doxycycline, although azithromycin efficacy might be declining (See _Mycoplasma genitalium_). 
+
+As a directly observed treatment, single-dose regimens might be associated with higher rates of compliance over other regimens. To maximize compliance with recommended therapies, medications should be dispensed onsite in the clinic, and regardless of the number of doses involved in the regimen, the first should be directly observed.
+
+[^394]:Papp JR, Schachter J, Gaydos C, et al. Recommendations for the laboratory-based detection of Chlamydia trachomatis and Neisseria gonorrhoeae--2014. MMWR Recomm Rep 2014;63(No. RR-02).

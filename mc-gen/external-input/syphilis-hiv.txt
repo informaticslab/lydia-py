@@ -1,0 +1,17 @@
+### Diagnostic Considerations
+
+Interpretation of treponemal and nontreponemal serologic tests for persons with HIV infection is the same as for the HIV-uninfected patient. Although rare, unusual serologic responses have been observed among persons with HIV infection who have syphilis; although most reports have involved post-treatment serologic titers that were higher than expected (high serofast) or fluctuated, false-negative serologic test results and delayed appearance of seroreactivity have also been reported [^432].When clinical findings are suggestive of syphilis but serologic tests are nonreactive or their interpretation is unclear, alternative tests (e.g., biopsy of a lesion, darkfield examination, and PCR of lesion material) might be useful for diagnosis. Neurosyphilis should be considered in the differential diagnosis of neurologic signs and symptoms in persons with HIV infection.
+
+### Treatment
+
+Persons with HIV infection who have early syphilis might be at increased risk for neurologic complications [^433] and might have higher rates of serologic treatment failure with recommended regimens. The magnitude of these risks is not defined precisely, but is likely small. Although long-term (>1 year) comparative data are lacking, no treatment regimens for syphilis have been demonstrated to be more effective in preventing neurosyphilis in persons with HIV infection than the syphilis regimens recommended for persons without HIV infection [^406]. Careful follow-up after therapy is essential. The use of antiretroviral therapy as per current guidelines might improve clinical outcomes in persons with HIV infection and syphilis [^425]  [^434]  [^435].
+
+Available data demonstrate that additional doses of benzathine penicillin G, amoxicillin, or other antibiotics in primary and secondary syphilis do not result in enhanced efficacy [^406]  [^407].  
+
+[^432]:Kingston AA, Vujevich J, Shapiro M, et al. Seronegative secondary syphilis in 2 patients coinfected with human immunodeficiency virus. Arch Dermatol 2005;141:431–3.
+[^433]:CDC. Symptomatic early neurosyphilis among HIV-positive men who have sex with men--four cities, United States, January 2002-June 2004. MMWR Morb Mortal Wkly Rep 2007;56:625–8.
+[^406]:Rolfs RT, Joesoef MR, Hendershot EF, et al. The Syphilis and HIV Study Group. A randomized trial of enhanced therapy for early syphilis in patients with and without human immunodeficiency virus infection. N Engl J Med 1997;337:307–14.
+[^425]:Marra CM, Maxwell CL, Tantalo LC, et al. Normalization of serum rapid plasma reagin titer predicts normalization of cerebrospinal fluid and clinical abnormalities after treatment of neurosyphilis. Clin Infect Dis 2008;47:893–9.
+[^434]:Ghanem KG, Moore RD, Rompalo AM, et al. Neurosyphilis in a clinical cohort of HIV-1-infected patients. AIDS 2008;22:1145–51.
+[^435]:Ghanem KG, Moore RD, Rompalo AM, et al. Antiretroviral therapy is associated with reduced serologic failure rates for syphilis among HIV-infected patients. Clin Infect Dis 2008;47:258–65.
+[^407]:Taiwan HIV and Syphilis Study Group. Comparison of effectiveness of 1 dose versus 3 doses of benzathine penicillin in treatment of early syphilis in HIV-infected patients:  multicenter, prospective observational study in Taiwan [Abstract# S-119]. Presented at:  the 20th Conference on Retroviruses and Opportunistic Infections (CROI 2013); March 3-6, 2013; Atlanta, GA.

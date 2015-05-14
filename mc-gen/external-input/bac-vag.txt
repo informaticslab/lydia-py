@@ -1,0 +1,41 @@
+### Diagnostic Considerations
+
+BV can be diagnosed by the use of clinical criteria (i.e., Amsel’s Diagnostic Criteria)[^596] or Gram stain. A Gram stain (considered the gold standard laboratory method for diagnosing BV) is used to determine the relative concentration of lactobacilli (i.e., long Gram-positive rods), Gram-negative and Gram-variable rods and cocci (i.e., _G. vaginalis_, _Prevotella_, _Porphyromonas_, and peptostreptococci), and curved Gram-negative rods (i.e., _Mobiluncus_) characteristic of BV. Clinical criteria require three of the following symptoms or signs:
+
++ homogeneous, thin, white discharge that smoothly coats the vaginal walls;
++ presence of clue cells  (e.g., vaginal epithelial cells studded with adherent coccoobacilli) on microscopic examination;
++ pH of vaginal fluid >4.5; or
++ a fishy odor of vaginal discharge before or after addition of 10% KOH (i.e., the whiff test).
+
+
+Detection of three of these criteria has been correlated with results by Gram stain[^597]. Other tests, including Affirm VP III (Becton Dickinson, Sparks, MD), a DNA hybridization probe test for high concentrations of _G. vaginalis_, and the OSOM BV Blue test (Sekisui Diagnostics, Framingham, MA), which detects vaginal fluid sialidase activity,  have acceptable performance characteristics compared with Gram stain. Although a prolineaminopeptidase card test is available for the detection of elevated pH and trimethylamine, it has low sensitivity and specificity and therefore is not recommended. PCR has been used in research settings for the detection of a variety of organisms associated with BV, but evaluation of its clinical utility is still underway. Detection of specific organisms might be predictive of BV by PCR [^598]  [^599]. Additional validation is needed before these tests can be recommended to diagnose BV. Culture of _G. vaginalis_ is not recommended as a diagnostic tool because it is not specific. Cervical Pap tests have no clinical utility for the diagnosis of BV because of their low sensitivity and specificity.
+
+### Treatment
+
+Treatment is recommended for women with symptoms. The established benefits of therapy in nonpregnant women are to relieve vaginal symptoms and signs of infection. Other potential benefits to treatment include reduction in the risk for acquiring _C. trachomatis_, _N. gonorrhoeae_, _T. vaginalis_, HIV, and herpes simplex type 2 [^592]  [^593]  [^600].
+
+Alcohol consumption should be avoided during treatment with nitroimidazoles. To reduce the possibility of a disulfiram-like reaction, abstinence from alcohol use should continue for 24 hours after completion of metronidazole. Clindamycin cream is oil-based and might weaken latex condoms and diaphragms for 5 days after use (refer to clindamycin product labeling for additional information).
+
+Women should be advised to refrain from sexual activity or use condoms consistently and correctly during the treatment regimen. Douching might increase the risk for relapse, and no data support the use of douching for treatment or relief of symptoms. 
+
+It is advised to avoid consuming alcohol during treatment with nitroimidazoles.  To reduce the possibility of a disulfiram-like reaction, abstinence from alcohol use should continue for 72 hours after completion of tinidazole.
+
+Alternative regimens include several tinidazole regimens[^601] or clindamycin (oral or intravaginal)[^602].  An additional regimen includes metronidazole (750-mg extended release tablets orally once daily for 7 days), however data on the performance of this alternative regimen are limited. 
+
+Certain studies have evaluated the clinical and microbiologic efficacy of using intravaginal lactobacillus formulations to treat BV and restore normal flora [^603]  [^604]  [^605]  [^606]  [^607]. Overall, no studies support the addition of any available lactobacillus formulations or probiotic as an adjunctive or replacement therapy in women with BV. Further research efforts to determine the role of these regimens in BV treatment and prevention are ongoing.
+
+[^592]: Brotman RM, Klebanoff MA, Nansel TR, et al. Bacterial vaginosis assessed by gram stain and diminished colonization resistance to incident gonococcal, chlamydial, and trichomonal genital infection. J Infect Dis 2010;202:1907–15.
+[^593]: Cherpes TL, Wiesenfeld HC, Melan MA, et al. The associations between pelvic inflammatory disease, Trichomonas vaginalis infection, and positive herpes simplex virus type 2 serology. Sex Transm Dis 2006;33:747–52.
+[^596]: Amsel R, Totten PA, Spiegel CA, et al. Nonspecific vaginitis. Diagnostic criteria and microbial and epidemiologic associations. Am J Med 1983;74:14–22.
+[^597]: Schwebke JR, Hillier SL, Sobel JD, et al. Validity of the vaginal gram stain for the diagnosis of bacterial vaginosis. Obstet Gynecol 1996;88(4 Pt 1):573–6.
+[^598]: Fredricks DN, Fiedler TL, Thomas KK, et al. Targeted PCR for detection of vaginal bacteria associated with bacterial vaginosis. J Clin Microbiol 2007;45:3270–6.
+[^599]: Cartwright CP, Lembke BD, Ramachandran K, et al. Development and validation of a semiquantitative, multitarget PCR assay for diagnosis of bacterial vaginosis. J Clin Microbiol 2012;50:2321–9.
+[^600]: Schwebke JR, Desmond R. A randomized trial of metronidazole in asymptomatic bacterial vaginosis to prevent the acquisition of sexually transmitted diseases. Am J Obstet Gynecol 2007;196:517.e1–e6.
+[^601]: Livengood CH, 3rd, Ferris DG, Wiesenfeld HC, et al. Effectiveness of two tinidazole regimens in treatment of bacterial vaginosis: a randomized controlled trial. Obstet Gynecol 2007;110(2 Pt 1):302–9.
+[^602]: Sobel J, Peipert JF, McGregor JA, et al. Efficacy of clindamycin vaginal ovule (3-day treatment) vs. clindamycin vaginal cream (7-day treatment) in bacterial vaginosis. Infect Dis Obstet Gynecol 2001;9:9–15.
+[^603]: Antonio MA, Meyn LA, Murray PJ, et al. Vaginal colonization by probiotic Lactobacillus crispatus CTV-05 is decreased by sexual activity and endogenous Lactobacilli. J Infect Dis 2009;199:1506–13.
+[^604]: Abad CL, Safdar N. The role of lactobacillus probiotics in the treatment or prevention of urogenital infections--a systematic review. J Chemother 2009;21:243–52.
+[^605]: Senok AC, Verstraelen H, Temmerman M, et al. Probiotics for the treatment of bacterial vaginosis. Cochrane Database Syst Rev 2009:CD006289.
+[^606]: Mastromarino P, Macchia S, Meggiorini L, et al. Effectiveness of Lactobacillus-containing vaginal tablets in the treatment of symptomatic bacterial vaginosis. Clinical Microbiology and Infection 2009;15:67–74.
+[^607]: Hemmerling A, Harrison W, Schroeder A, et al. Phase 2a study assessing colonization efficiency, safety, and acceptability of Lactobacillus crispatus CTV-05 in women with bacterial vaginosis. Sex Transm Dis 2010;37:745–50.
+

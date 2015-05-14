@@ -1,0 +1,14 @@
+### Diagnostic Considerations
+
+A definitive diagnosis of chancroid requires the identification of _H. ducreyi_ on special culture media that is not widely available from commercial sources; even when these media are used, sensitivity is <80% [^315]. No FDA-cleared PCR test for _H. ducreyi_ is available in the United States, but such testing can be performed by clinical laboratories that have developed their own PCR test and have conducted CLIA verification studies in genital specimens.
+
+The combination of a painful genital ulcer and tender suppurative inguinal adenopathy suggests the diagnosis of chancroid [^316]. For both clinical and surveillance purposes, a probable diagnosis of chancroid can be made if all of the following criteria are met: 1) the patient has one or more painful genital ulcers; 2) the clinical presentation, appearance of genital ulcers and, if present, regional lymphadenopathy are typical for chancroid; 3) the patient has no evidence of _T. pallidum_ infection by darkfield examination of ulcer exudate or by a serologic test for syphilis performed at least 7 days after onset of ulcers; and 4) an HSV PCR test or HSV culture performed on the ulcer exudate is negative.
+
+### Treatment
+
+Successful treatment for chancroid cures the infection, resolves the clinical symptoms, and prevents transmission to others. In advanced cases, scarring can result despite successful therapy.
+
+Azithromycin and ceftriaxone offer the advantage of single-dose therapy. Worldwide, several isolates with intermediate resistance to either ciprofloxacin or erythromycin have been reported. However, because cultures are not routinely performed, data are limited regarding the current prevalence of antimicrobial resistance.
+
+[^315]: Lockett AE, Dance DA, Mabey DC, et al. Serum-free media for isolation of Haemophilus ducreyi. Lancet 1991;338:326.
+[^316]: Lewis DA. Chancroid: clinical manifestations, diagnosis, and management. Sex Transm Infect 2003;79:68–71.

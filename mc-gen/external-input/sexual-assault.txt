@@ -1,0 +1,23 @@
+### Initial Examination
+
+Decisions to perform these tests should be made on an individual basis. An initial examination might include the following procedures:
+
++ NAATs for _C. trachomatis_ and _N. gonorrhoeae_ at the sites of penetration or attempted penetration [^394]. These tests are preferred for the diagnostic evaluation of adolescent or adult sexual assault survivors.
++ NAATs from a urine or vaginal specimen or point-of-care testing (i.e., DNA probes) from a vaginal specimen for _T. vaginalis_. Point-of-care testing and/or wet mount with measurement of vaginal pH and KOH application for the whiff test from vaginal secretions should be done for evidence of BV and candidiasis, especially if vaginal discharge, malodor, or itching is present.
++ A serum sample for evaluation of HIV, hepatitis B, and syphilis infections. 
+
+### Treatment
+
+Compliance with follow-up visits is poor among survivors of sexual assault [^866]  [^867]. As a result, the following routine presumptive treatment after a sexual assault is recommended:
+
++ An empiric antimicrobial regimen for chlamydia, gonorrhea, and trichomonas.
++ Emergency contraception. This measure should be considered when the assault could result in pregnancy in the survivor.
++ Postexposure hepatitis B vaccination (without HBIG) if the hepatitis status of the assailant is unknown and the survivor has not been previously vaccinated. If the assailant is known to be HBsAg-positive, unvaccinated survivors should receive both hepatitis B vaccine and HBIG. The vaccine and HBIG, if indicated, should be administered to sexual assault survivors at the time of the initial examination, and follow-up doses of vaccine should be administered 1–2 and 4–6 months after the first dose. Survivors who were previously vaccinated but did not receive postvaccination testing should receive a single vaccine booster dose (see hepatitis B).
++ HPV vaccination is recommended for female survivors aged 9–26 years and male survivors aged 9–21 years. For MSM with who have not received HPV vaccine or who have been incompletely vaccinated, vaccine can be administered through age 26 years. The vaccine should be administered to sexual assault survivors at the time of the initial examination, and follow-up dose administered at 1–2 months and 6 months after the first dose.
++ Recommendations for HIV PEP are individualized according to risk (see Risk for Acquiring HIV Infection and Postexposure HIV Risk Assessment for PEP).
+
+If alcohol has been recently ingested or emergency contraception is provided, metronidazole or tinidazole can be taken by the sexual assault survivor at home rather than as directly observed therapy to minimize potential side effects and drug interactions. Clinicians should counsel persons regarding the possible benefits and toxicities associated with these treatment regimens; gastrointestinal side effects can occur with this combination. The efficacy of these regimens in preventing infections after sexual assault has not been evaluated. For those requiring alternative treatments, refer to the specific sections in this report relevant to the specific organism.
+
+[^394]:Papp JR, Schachter J, Gaydos C, et al. Recommendations for the laboratory-based detection of Chlamydia trachomatis and Neisseria gonorrhoeae--2014. MMWR Recomm Rep 2014;63(No. RR-02).
+[^866]:Ackerman DR, Sugar NF, Fine DN, et al. Sexual assault victims: factors associated with follow-up care. Am J Obstet Gynecol 2006;194:1653–9.
+[^867]:Parekh V, Brown CB. Follow up of patients who have been recently sexually assaulted. Sex Transm Infect 2003;79:349.

@@ -1,0 +1,174 @@
+# cond1,cond2,cond3.. - specifies the list view level for the associated text
+# cond2 that belongs to a cond1 must be specified after the cond1, no line breaks in-between and no other cond1 specified
+# regimens - specifies the tables that are defined in the table-data.txt file in doc-page-column-table format
+# dx-tx - specifies ParentId, ListView Text. Id is root node
+cond1,"Assault - Sexual"
+regimens,sexual-assault
+dx-tx,sexual-assault
+
+cond1,"Bacterial Vaginosis"
+regimens,bac-vag-rec,bac-vag-alt
+dx-tx,bac-vag
+
+cond1,"Candidiasis - Vulvovaginal"
+cond2,"Uncomplicated"
+regimens,uncomp-vvc
+dx-tx,uncomp-vvc
+cond2,"Complicated"
+regimens,
+dx-tx,comp-vvc
+
+cond1,"Cervicitis"
+regimens,cervicitis
+dx-tx,cervicitis
+
+cond1,"Chancroid"
+regimens,chancroid
+dx-tx,chancroid
+
+cond1,"Chlamydia"
+cond2,"Adolescents & Adults"
+regimens,chlamydia-adult-rec,chlamydia-adult-alt
+dx-tx,chlamydia-adult
+cond2,"In Pregnancy"
+regimens,chlamydia-preg-rec,chlamydia-preg-alt
+dx-tx,chlamydia-preg
+cond2,"Children"
+regimens,chlamydia-children-rec-1,chlamydia-children-rec-2,chlamydia-children-rec-3
+dx-tx,chlamydia-children
+cond2,"Infants"
+regimens,chlamydia-infants-rec
+dx-tx,chlamydia-infants
+cond2,"Neonates"
+regimens,chlamydia-neonates-rec
+dx-tx,chlamydia-neonates
+
+
+cond1,Epididymitis
+regimens,epididymitis
+dx-tx,epididymitis
+
+cond1,Gonorrhea
+cond2,"Adolescents & Adults"
+cond3,"Cervix, Urethra, or Rectum - Infection"
+regimens,gonorrhea-cervix-rec,gonorrhea-cervix-alt
+dx-tx,gonorrhea-cervix
+cond3,"Pharynx - Infection"
+regimens,gonorrhea-pharynx-rec
+dx-tx,gonorrhea-pharynx
+cond3,Conjunctivitis
+regimens,gonorrhea-conjunc-rec
+dx-tx,gonorrhea-conjunc
+cond3,"Disseminated Gonococcal Infection"
+regimens,gonorrhea-dgi-art-rec,gonorrhea-dgi-art-alt,gonorrhea-dgi-menin-rec
+dx-tx,gonorrhea-disseminated
+cond2,"Newborns"
+regimens,gonorrhea-oph-neo-pro,gonorrhea-oph-neo,gonorrhea-dgi-scalp,gonorrhea-neo-mother-infected
+dx-tx,gonorrhea-newborns
+cond2,"Children"
+regimens,gonorrhea-child-less-45kg-vaginitis,gonorrhea-child-more-45kg-vaginitis,gonorrhea-child-less-45kg-bacteremia,gonorrhea-child-more-45kg-bacteremia
+dx-tx,gonorrhea-children
+
+cond1,"Granuloma Inguinale"
+regimens,granuloma-inguinale-rec,granuloma-inguinale-alt
+dx-tx,granuloma-inguinale
+
+cond1,"Hepatitis"
+cond2,"Hepatitis A"
+regimens,
+dx-tx,hep-a
+cond2,"Hepatitis B"
+regimens,
+dx-tx,hep-b
+cond2,"Hepatitis C"
+regimens,
+dx-tx,hep-c
+
+cond1,"Herpes - Genital"
+cond2,"First Episode"
+regimens,herpes-first-episode-rec
+dx-tx,herpes-first-episode
+cond2,"Recurrent Episode"
+regimens,herpes-recurrent-suppresive-rec,herpes-recurrent-episodic-rec
+dx-tx,herpes-recurrent
+cond2,"HIV Positive"
+regimens,herpes-hiv-suppresive-rec,herpes-hiv-episodic-rec
+dx-tx,herpes-hiv
+cond2,"In Pregnancy"
+regimens,
+dx-tx,herpes-pregnancy
+cond2,"Neonates"
+regimens,
+dx-tx,herpes-neonates
+
+cond1,HIV
+regimens,
+dx-tx,hiv
+
+cond1,"Human Papillomavirus"
+regimens,
+dx-tx,hpv
+
+cond1,"Lymphogranuloma Venereum"
+regimens,lgv-rec,lgv-alt
+dx-tx,lgv
+
+cond1,"Pediculosis Pubis"
+regimens,pediculosis-pubis-rec,pediculosis-pubis-alt
+dx-tx,pediculosis-pubis
+
+cond1,"Pelvic Inflammatory Disease"
+regimens,pid-parenteral-rec,pid-parenteral-alt,pid-im-oral-rec
+dx-tx,pid
+
+cond1,"Proctitis"
+regimens,proctitis-rec
+dx-tx,proctitis
+
+cond1,"Scabies"
+cond2,"Classic"
+regimens,scabies-classic-rec,scabies-classic-alt
+dx-tx,scabies-classic
+cond2,"Crusted"
+regimens,
+dx-tx,scabies-crusted
+
+cond1,"Syphilis"
+cond2,"Primary and Secondary"
+regimens,syphilis-primary-adult-rec,syphilis-primary-child-rec
+dx-tx,syphilis-primary
+cond2,"Latent"
+regimens,syphilis-latent-adult-rec,syphilis-latent-child-rec
+dx-tx,syphilis-latent
+cond2,"Tertiary"
+regimens,syphilis-tertiary-rec
+dx-tx,syphilis-tertiary
+cond2,"Neurosyphilis and Ocular Syphilis”
+regimens,syphilis-neurosyphilis-rec,syphilis-neurosyphilis-alt
+dx-tx,syphilis-neurosyphilis
+cond2,"In Persons with HIV Infection"
+regimens,syphilis-hiv-primary-rec,syphilis-hiv-latent-early-rec,syphilis-hiv-latent-late-rec
+dx-tx,syphilis-hiv
+cond2,"In Pregnancy"
+regimens,
+dx-tx,syphilis-pregnancy
+cond2,"Congenital"
+cond3,"Neonates"
+regimens,syphilis-congenital-neonate-proven,syphilis-congenital-neonate-possible,syphilis-congenital-neonate-less-likely,syphilis-congenital-neonate-unlikely
+dx-tx,syphilis-congenital-first-month
+cond3,"Older Infants and Children"
+regimens,syphilis-congenital-infant
+dx-tx,syphilis-congenital-infant
+
+cond1,"Trichomoniasis"
+regimens,trichomoniasis-rec,trichomoniasis-alt
+dx-tx,trichomoniasis
+
+cond1,”Nongonococcal Urethritis"
+regimens,urethritis-nongonococcal-rec,urethritis-nongonococcal-alt
+dx-tx,urethritis-nongonococcal
+
+cond1,"Warts - Genital"
+regimens,warts-external,warts-cervical,warts-vaginal,warts-urethral-meatus,warts-anal
+dx-tx,warts-genital
+

@@ -1,0 +1,13 @@
+
+Persons who have pediculosis pubis (i.e., pubic lice) usually seek medical attention because of pruritus or because they notice lice or nits on their pubic hair. Pediculosis pubis is usually transmitted by sexual contact [^849].
+
+### Treatment
+
+Reported resistance to pediculcides (permethrin and pyrethrins) has been increasing and is widespread [^850]  [^851]. Malathion can be used when treatment failure is believed to have occurred as a result of resistance. The odor and long duration of application associated with malathion therapy make it a less attractive alternative compared with the recommended pediculcides. Ivermectin has limited ovicidal activity [^852]. Ivermectin might not prevent recurrences from eggs at the time of treatment, and therefore treatment should be repeated in 14 days [^853]  [^854]. Ivermectin should be taken with food because bioavailability is increased, in turn increasing penetration of the drug into the epidermis. Adjustment of ivermectin dosage is not required for persons with renal impairment, but the safety of multiple doses in persons with severe liver disease is not known.Lindane is recommended as an alternative therapy because it can cause toxicity, as indicated by seizure and aplastic anemia [^855]; it should only be used when other therapies cannot be tolerated or have failed. Lindane toxicity has not been reported when treatment was limited to the recommended 4-minute period. Lindane should not be used immediately after a bath or shower, and it should not be used by persons who have extensive dermatitis, women who are breastfeeding, or children aged <10 years [^855]. 
+[^849]:Galiczynski EM, Jr., Elston DM. What's eating you? Pubic lice (Pthirus pubis). Cutis 2008;81:109–14.
+[^850]:Meinking TL, Serrano L, Hard B, et al. Comparative in vitro pediculicidal efficacy of treatments in a resistant head lice population in the United States. Arch Dermatol 2002;138:220–4.
+[^851]:Yoon KS, Gao JR, Lee SH, et al. Permethrin-resistant human head lice, Pediculus capitis, and their treatment. Arch Dermatol 2003;139:994–1000.
+[^852]:Burkhart CG, Burkhart CN. Oral ivermectin for Phthirus pubis. J Am Acad Dermatol 2004;51:1037–8.
+[^853]:Scott GR, Chosidow O. European guideline for the management of pediculosis pubis, 2010. International journal of STD and AIDS 2011;22:304–5.
+[^854]:Goldust M, Rezaee E, Raghifar R, et al. Comparing the efficacy of oral ivermectin vs malathion 0.5% lotion for the treatment of scabies. SkinMed 2014;12:284–7.
+[^855]:Nolan K, Kamrath J, Levitt J. Lindane toxicity: a comprehensive review of the medical literature. Pediatr Dermatol 2012;29:141–6.

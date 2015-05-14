@@ -1,0 +1,7 @@
+Sexual abuse is the most frequent cause of gonococcal infection in preadolescent children (see Sexual Assault or Abuse of Children). For preadolescent girls, vaginitis is the most common manifestation of this infection; gonococcal-associated PID after vaginal infection is likely less common in preadolescents than adults. Among sexually abused children, anorectal and pharyngeal infections with _N. gonorrhoeae_ are common and frequently asymptomatic.
+
+### Diagnostic Considerations
+
+NAAT can be used to test vaginal and urine specimens from girls (see Sexual Assault or Abuse of Children), although data are insufficient to recommend the use of these tests in boys and from extragenital sites (rectum and pharynx) in boys and girls [^394]. Culture remains the preferred method for diagnosing boys and for detecting infection in specimens obtained from extragenital sites regardless of gender [^394]. Gram stains are inadequate for evaluating prepubertal children for gonorrhea and should not be used to diagnose or exclude gonorrhea. If evidence of disseminated gonococcal infection exists, gonorrhea culture and antimicrobial susceptibility testing should be obtained from relevant clinical sites (see DGI).
+
+[^394]:Papp JR, Schachter J, Gaydos C, et al. Recommendations for the laboratory-based detection of Chlamydia trachomatis and Neisseria gonorrhoeae--2014. MMWR Recomm Rep 2014;63(No. RR-02).

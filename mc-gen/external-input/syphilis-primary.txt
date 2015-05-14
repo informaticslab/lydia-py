@@ -1,0 +1,10 @@
+### Treatment
+
+Parenteral penicillin G has been used effectively to achieve clinical resolution (i.e., the healing of lesions and prevention of sexual transmission) and to prevent late sequelae. However, no comparative trials have been conducted to guide the selection of an optimal penicillin regimen. Substantially fewer data are available for nonpenicillin regimens.
+
+Available data demonstrate that use of additional doses of benzathine penicillin G, amoxicillin, or other antibiotics do not enhance efficacy when used to treat primary and secondary syphilis, regardless of HIV status [^406]  [^407].
+
+Infants and children aged >1 month who receive a diagnosis of syphilis should have birth and maternal medical records reviewed to assess whether they have congenital or acquired syphilis (see Congenital Syphilis). Infants and children aged ≥1 month with primary and secondary syphilis should be managed by a pediatric infectious-disease specialist and evaluated for sexual abuse (e.g., through consultation with child-protection services) (see Sexual Assault or Abuse of Children).
+
+[^406]:Rolfs RT, Joesoef MR, Hendershot EF, et al. The Syphilis and HIV Study Group. A randomized trial of enhanced therapy for early syphilis in patients with and without human immunodeficiency virus infection. N Engl J Med 1997;337:307–14.
+[^407]:Taiwan HIV and Syphilis Study Group. Comparison of effectiveness of 1 dose versus 3 doses of benzathine penicillin in treatment of early syphilis in HIV-infected patients:  multicenter, prospective observational study in Taiwan [Abstract# S-119]. Presented at:  the 20th Conference on Retroviruses and Opportunistic Infections (CROI 2013); March 3-6, 2013; Atlanta, GA.

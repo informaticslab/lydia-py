@@ -1,0 +1,7 @@
+### Diagnostic Considerations 
+
+HPV tests are available to detect oncogenic types of HPV infection and are used in the context of cervical cancer screening and management or follow-up of abnormal cervical cytology or histology (see Cervical Cancer, Screening Recommendations). These tests should not be used for male partners of women with HPV or women aged <25 years, for diagnosis of genital warts, or as a general STD test.
+
+### Treatment
+
+Treatment is directed to the macroscopic (e.g., genital warts) or pathologic precancerous lesions caused by HPV. Subclinical genital HPV infection typically clears spontaneously; therefore, specific antiviral therapy is not recommended to eradicate HPV infection. Precancerous lesions are detected through cervical cancer screening (see Cervical Cancer, Screening Recommendations); HPV-related precancer should be managed based on existing guidance.

@@ -1,0 +1,14 @@
+### HIV Infection
+
+Immunocompromised patients can have prolonged or severe episodes of genital, perianal, or oral herpes. Lesions caused by HSV are common among persons with HIV infection and might be severe, painful, and atypical. HSV shedding is increased in persons with HIV infection. Whereas antiretroviral therapy reduces the severity and frequency of symptomatic genital herpes, frequent subclinical shedding still occurs [^361]  [^362]. Clinical manifestations of genital herpes might worsen during immune reconstitution early after initiation of antiretroviral therapy.
+Suppressive or episodic therapy with oral antiviral agents is effective in decreasing the clinical manifestations of HSV among persons with HIV infection [^363]  [^364]  [^365]. HSV type-specific serologic testing can be offered to persons with HIV infection during their initial evaluation if infection status is unknown, and suppressive antiviral therapy can be considered in those who have HSV-2 infection. Suppressive anti-HSV therapy in persons with HIV infection does not reduce the risk for either HIV transmission or HSV-2 transmission to susceptible sex partners [^71]  [^366].
+
+For severe HSV disease, initiating therapy with acyclovir 5–10 mg/kg IV every 8 hours might be necessary.
+
+[^361]:Posavad CM, Wald A, Kuntz S, et al. Frequent reactivation of herpes simplex virus among HIV-1-infected patients treated with highly active antiretroviral therapy. J Infect Dis 2004;190:693–6.
+[^362]:Tobian AA, Grabowski MK, Serwadda D, et al. Reactivation of herpes simplex virus type 2 after initiation of antiretroviral therapy. J Infect Dis 2013;208:839–46.
+[^363]:Conant MA, Schacker TW, Murphy RL, et al. Valaciclovir versus aciclovir for herpes simplex virus infection in HIV-infected individuals: two randomized trials. International journal of STD and AIDS 2002;13:12–21.
+[^364]:Romanowski B, Aoki FY, Martel AY, et al. Collaborative Famciclovir HIV Study Group. Efficacy and safety of famciclovir for treating mucocutaneous herpes simplex infection in HIV-infected individuals. AIDS 2000;14:1211–7.
+[^365]:DeJesus E, Wald A, Warren T, et al. Valacyclovir for the suppression of recurrent genital herpes in human immunodeficiency virus-infected subjects. J Infect Dis 2003;188:1009–16.
+[^71]:Celum C, Wald A, Lingappa JR, et al. Acyclovir and transmission of HIV-1 from persons infected with HIV-1 and HSV-2. N Engl J Med 2010;362:427–39.
+[^366]:Mujugira A, Magaret AS, Celum C, et al. Daily acyclovir to decrease herpes simplex virus type 2 (HSV-2) transmission from HSV-2/HIV-1 coinfected persons: a randomized controlled trial. J Infect Dis 2013;208:1366–74.

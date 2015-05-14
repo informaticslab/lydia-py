@@ -1,0 +1,7 @@
+### Diagnosis
+
+The diagnosis of hepatitis A cannot be made on clinical grounds alone, but rather requires serologic testing. The presence of IgM antibody to HAV is diagnostic of acute HAV infection. A positive test for total anti-HAV indicates immunity to HAV infection but does not differentiate current from previous HAV infection. Although usually not sensitive enough to detect the low level of protective antibody after vaccination, anti-HAV tests also might be positive after hepatitis A vaccination.
+
+### Treatment
+
+Patients with acute hepatitis A usually require only supportive care, with no restrictions in diet or activity. Hospitalization might be necessary for patients who become dehydrated because of nausea and vomiting and is critical for patients with signs or symptoms of acute liver failure. Medications that might cause liver damage or are metabolized by the liver should be used with caution among persons with hepatitis A.
