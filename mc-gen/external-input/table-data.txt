@@ -348,8 +348,7 @@ header,"Recommended Regimens for Suppressive Therapy of Pregnant Women with Recu
 regimen,"Acyclovir 400 mg orally three times a day"
 separator,OR
 regimen,"Valacyclovir 500 mg orally twice a day"
-footer,"*Treatment recommended starting at 36 weeks of gestation. (Source: American College of Obstetricians and Gynecologists. Clinical management guidelines for obstetrician-gynecologists. Management of herpes in pregnancy. ACOG Practice Bulletin No. 82. Obstet Gynecol 2007;109:1489–98.)”
-
+footer,"*Treatment recommended starting at 36 weeks of gestation. (Source: American College of Obstetricians and Gynecologists. Clinical management guidelines for obstetrician-gynecologists. Management of herpes in pregnancy. ACOG Practice Bulletin No. 82. Obstet Gynecol 2007;109:1489–98.)"
 
 table,lgv-rec
 header,"Recommended Regimen"

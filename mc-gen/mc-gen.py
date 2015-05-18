@@ -15,8 +15,8 @@ basedir = ''
 genPath = 'gen'
 genConditionsPath = 'gen/conditions/'
 tempPath = 'temp'
-input_dxtx_path = 'input/orig-content/'
-output_dxtx_path = 'input/html-content/'
+input_dxtx_path = 'external-input/'
+output_dxtx_path = 'temp/html-dxtx/'
 tempTablesPath = 'temp/tables/'
 regimenStore = {}             # store metadata for tables
 conditionStore = []           # store condition for Condition Quick Pick feature
@@ -24,13 +24,13 @@ REPLACE_IMAGE_WITH_HTML_TAG = "replace-image-with-html"
 REPLACE_IMAGE_WITH_CONDITION_TAG = "replace-image-with-condition"
 
 
-class Breadcrumb():
+class Breadcrumb:
     def __init__(self, text, link):
         self.text = text
         self.link = link
 
 
-class RegimenTableRow():
+class RegimenTableRow:
     def __init__(self, regimen_type, text):
         self.regimen_type = regimen_type
         self.text = text
@@ -43,7 +43,7 @@ GROUPED_SEPARATOR_TYPE = 5
 
 
 # Class representing table data
-class RegimenTableData():
+class RegimenTableData:
     def __init__(self):
         self.rows = []
         self.header = ""
@@ -152,7 +152,7 @@ class RegimenTableData():
         return lines
 
 
-class Condition():
+class Condition:
     def __init__(self, condition_id, parent, text):
         self.condition_id = condition_id
         if parent is None:
@@ -460,6 +460,8 @@ def import_regimen_table_data(table_file):
                         table_data.add_grouped_separator(value)
                     elif key == 'footer':
                         table_data.add_footer(value)
+                        print("Footer value =  " + value)
+
                     print "Key = %s, value = %s" % (key, value)
 
                 elif len(row) == 1:
@@ -633,8 +635,8 @@ if __name__ == '__main__':
     try:
         # process DxTx files that are written using Markdown markup syntax
         process_markdown_files()
-        import_regimen_table_data("input/table-data.txt")
-        import_condition_data("input/cqp-metadata.txt")
+        import_regimen_table_data("external-input/table-data.txt")
+        import_condition_data("external-input/cqp-metadata.txt")
         create_condition_map("gen/condition-content-map.txt")
     except KeyboardInterrupt:
         pass
