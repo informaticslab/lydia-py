@@ -175,6 +175,12 @@ class Condition:
         self.childrenListViewPageId = self.pageId + '-clv'
         self.childrenListViewPage = self.childrenListViewPageId + '.html'
 
+        if parent is None or parent.condition_id == 0:
+            self.childBreadcrumbs = self.text
+        else:
+            self.childBreadcrumbs = parent.childBreadcrumbs + ' / ' + self.text
+
+
     def add_child(self, child_condition):
         self.children.append(child_condition)
         self.hasChildren = True

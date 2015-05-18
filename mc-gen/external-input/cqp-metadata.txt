@@ -113,6 +113,9 @@ cond1,"Lymphogranuloma Venereum"
 regimens,lgv-rec,lgv-alt
 dx-tx,lgv
 
+cond1,"Nongonococcal Urethritis"
+regimens,urethritis-nongonococcal-rec,urethritis-nongonococcal-alt
+dx-tx,urethritis-nongonococcal
 cond1,"Pediculosis Pubis"
 regimens,pediculosis-pubis-rec,pediculosis-pubis-alt
 dx-tx,pediculosis-pubis
@@ -163,10 +166,6 @@ dx-tx,syphilis-congenital-infant
 cond1,"Trichomoniasis"
 regimens,trichomoniasis-rec,trichomoniasis-alt
 dx-tx,trichomoniasis
-
-cond1,”Nongonococcal Urethritis"
-regimens,urethritis-nongonococcal-rec,urethritis-nongonococcal-alt
-dx-tx,urethritis-nongonococcal
 
 cond1,"Warts - Genital"
 regimens,warts-external,warts-cervical,warts-vaginal,warts-urethral-meatus,warts-anal

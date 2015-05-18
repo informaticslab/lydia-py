@@ -10,7 +10,7 @@ All suspected cases of acute epididymitis should be evaluated for objective evid
 + Positive leukocyte esterase test on first-void urine.
 + Microscopic examination of sediment from a spun first-void urine demonstrating ≥10 WBC per high power field.
 
-All suspected cases of acute epididymitis should be tested for _C. trachomatis_ and for _N. gonorrhoeae_ by NAAT. Urine is the preferred specimen for NAAT testing in men [^394]. Urine cultures for chlamydia and gonococcal epididymitis are insensitive and are not recommended. Urine bacterial culture may have a higher yield in men with sexually transmitted enteric infections and in older men with acute epididymitis caused by genitourinary bacteruria.   
+All suspected cases of acute epididymitis should be tested for _C. trachomatis_ and for _N. gonorrhoeae_ by NAAT. Urine is the preferred specimen for NAAT testing in men [^394]. Urine cultures for chlamydia and gonococcal epididymitis are insensitive and are not recommended. Urine bacterial culture may have a higher yield in men with sexually transmitted enteric infections and in older men with acute epididymitis caused by genitourinary bacteriuria.   
 
 ### Treatment
 

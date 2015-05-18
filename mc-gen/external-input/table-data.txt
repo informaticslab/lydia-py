@@ -350,6 +350,7 @@ separator,OR
 regimen,"Valacyclovir 500 mg orally twice a day"
 footer,"*Treatment recommended starting at 36 weeks of gestation. (Source: American College of Obstetricians and Gynecologists. Clinical management guidelines for obstetrician-gynecologists. Management of herpes in pregnancy. ACOG Practice Bulletin No. 82. Obstet Gynecol 2007;109:1489–98.)"
 
+
 table,lgv-rec
 header,"Recommended Regimen"
 regimen,"Doxycycline 100 mg orally twice a day for 21 days"
