@@ -320,7 +320,7 @@ class Condition:
 
     def write_html_regimens_content(self, html_file):
 
-        self.write_html_breadcrumbs(html_file)
+        #self.write_html_breadcrumbs(html_file)
 
         html_file.write('''
         <div class="container">''')
@@ -337,7 +337,7 @@ class Condition:
 
     def write_html_dxtx_content(self, html_file):
 
-        self.write_html_breadcrumbs(html_file)
+        #self.write_html_breadcrumbs(html_file)
 
         html_file.write('''
         <div class="container">''')
