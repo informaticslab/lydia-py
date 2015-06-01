@@ -27,7 +27,7 @@ regimens,chancroid
 dx-tx,chancroid
 
 cond1,"Chlamydia"
-cond2,"Adolescents & Adults"
+cond2,"Adolescents and Adults"
 regimens,chlamydia-adult-rec,chlamydia-adult-alt
 dx-tx,chlamydia-adult
 cond2,"In Pregnancy"
@@ -49,7 +49,7 @@ regimens,epididymitis
 dx-tx,epididymitis
 
 cond1,Gonorrhea
-cond2,"Adolescents & Adults"
+cond2,"Adolescents and Adults"
 cond3,"Cervix, Urethra, or Rectum - Infection"
 regimens,gonorrhea-cervix-rec,gonorrhea-cervix-alt
 dx-tx,gonorrhea-cervix
@@ -146,7 +146,7 @@ dx-tx,syphilis-latent
 cond2,"Tertiary"
 regimens,syphilis-tertiary-rec
 dx-tx,syphilis-tertiary
-cond2,"Neurosyphilis and Ocular Syphilis”
+cond2,"Neurosyphilis and Ocular Syphilis"
 regimens,syphilis-neurosyphilis-rec,syphilis-neurosyphilis-alt
 dx-tx,syphilis-neurosyphilis
 cond2,"In Persons with HIV Infection"
