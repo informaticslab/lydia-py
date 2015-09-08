@@ -370,7 +370,7 @@ table,pediculosis-pubis-alt
 header,"Alternative Regimens"
 regimen,"Malathion 0.5% lotion applied to affected areas and washed off after 8–12 hours"
 separator,OR
-regimen,"Ivermectin 250 ug/kg repeated in 2 weeks"
+regimen,"Ivermectin 250 ug/kg orally, repeated in 2 weeks"
 
 
 table,pid-parenteral-rec
