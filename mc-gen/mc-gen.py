@@ -136,7 +136,7 @@ class RegimenTableData:
         # write out contents of original file
         # may delete this later as unnecessary
         self.htmlFile = "temp/tables/" + self.tableId + ".html"
-        print "HTML file =", self.htmlFile
+        print ("HTML file =", self.htmlFile)
 
         # done processing chapter file, write it out as HTML
         with open(self.htmlFile, "w") as tf:
@@ -201,7 +201,7 @@ class Condition:
             self.hasRegimens = False
 
     def add_dxtx(self, dxtx):
-        if dxtx > 1:
+        if len(dxtx) > 1:
             self.dxtx.append(dxtx)
             self.hasDxTx = True
         elif dxtx == '' and len(self.dxtx) == 0:
@@ -367,7 +367,7 @@ class Condition:
                                         htmlSnippetData = htmlSnippetFile.readlines()
                                         html_file.writelines(htmlSnippetData)
                                     except IOError:
-                                        print "Can not open HTML snippet %s for image replacement." % htmlSnippetFileName
+                                        print ("Can not open HTML snippet %s for image replacement." % htmlSnippetFileName)
                                     finally:
                                         htmlSnippetFile.close()
                             else:
@@ -445,7 +445,7 @@ def import_regimen_table_data(table_file):
             if row:
                 blank_row_found = False
                 if row[0][0] == '#':
-                    print "Comment = %s" % (row[0])
+                    print("Comment = %s" % (row[0]))
                     continue
                 if len(row) == 2:
                     key = row[0]
@@ -470,10 +470,10 @@ def import_regimen_table_data(table_file):
                         table_data.add_footer(value)
                         print("Footer value =  " + value)
 
-                    print "Key = %s, value = %s" % (key, value)
+                    print("Key = %s, value = %s" % (key, value))
 
                 elif len(row) == 1:
-                    print "Row = %s" % (row[0])
+                    print("Row = %s" % (row[0]))
                     continue
 
             else:
@@ -488,7 +488,7 @@ def import_regimen_table_data(table_file):
                 # store table data for later processing
                 regimenStore[table_data.tableId] = table_data
     csv_f.close()
-    print "Table count = %d" % table_cnt
+    print("Table count = %d" % table_cnt)
 
 
 def json_default(o):
@@ -530,7 +530,7 @@ def import_condition_data(table_file):
             if row:
                 blank_row_found = False
                 if row[0][0] == '#':
-                    print "Comment = %s" % (row[0])
+                    print("Comment = %s" % (row[0]))
                     continue
                 if len(row) >= 2:
                     key = row[0]
@@ -570,9 +570,9 @@ def import_condition_data(table_file):
                     elif key == 'dx-tx':
                         for i in range(1, len(row)):
                             condition.add_dxtx(row[i])
-                    print "Key = %s, value = %s" % (key, value)
+                    print("Key = %s, value = %s" % (key, value))
                 elif len(row) == 1:
-                    print "Row = %s" % (row[0])
+                    print("Row = %s" % (row[0]))
                     continue
 
             else:
@@ -609,6 +609,11 @@ def init_dirs():
     else:
         print("Temp tables path " + tempTablesPath + " exists...")
 
+    if not os.path.exists(output_dxtx_path):
+        os.makedirs(output_dxtx_path)
+        print("Creating temp DxTx path " + output_dxtx_path + "...")
+    else:
+        print("Temp DxTx path " + output_dxtx_path + " exists...")
     print("Creation of directories complete.")
 
 

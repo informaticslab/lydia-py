@@ -307,7 +307,7 @@ footer,"* Valacyclovir 500 mg once a day might be less effective than other vala
 
 
 table,herpes-recurrent-episodic-rec
-header,"Recommended Regimens - Episodic Therapy for Recurrent Genital Herpes“
+header,"Recommended Regimens - Episodic Therapy for Recurrent Genital Herpes"
 regimen,"Acyclovir 400 mg orally three times a day for 5 days"
 separator,OR
 regimen,"Acyclovir 800 mg orally twice a day for 5 days"

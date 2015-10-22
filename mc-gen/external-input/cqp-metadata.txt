@@ -95,7 +95,7 @@ cond2,"HIV Positive"
 regimens,herpes-hiv-suppresive-rec,herpes-hiv-episodic-rec
 dx-tx,herpes-hiv
 cond2,"In Pregnancy"
-regimens,
+regimens,herpes-pregnancy-recurrent-rec
 dx-tx,herpes-pregnancy
 cond2,"Neonates"
 regimens,
