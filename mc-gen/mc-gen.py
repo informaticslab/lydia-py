@@ -35,6 +35,7 @@ class RegimenTableRow:
         self.regimen_type = regimen_type
         self.text = text
 
+HEADER_TYPE = 0
 SUB_HEADER_TYPE = 1
 REGIMEN_TYPE = 2
 SEPARATOR_TYPE = 3
@@ -87,11 +88,14 @@ class RegimenTableData:
             </div>
             <hr/>
             <span class="regimen_text">''')
+        previous_type = HEADER_TYPE
 
         for row in self.rows:
             assert isinstance(row, RegimenTableRow)
             if row.regimen_type == SUB_HEADER_TYPE:
-                tf.write('''</br>
+                if previous_type == REGIMEN_TYPE:
+                    tf.write('''</br></br>''')
+                tf.write('''
                 <div id="regimen_subheader">''')
                 tf.write(row.text)
                 tf.write('''</br></div>''')
@@ -113,6 +117,7 @@ class RegimenTableData:
                 tf.write('''
                 <hr/>
             </div>''')
+            previous_type = row.regimen_type
 
         tf.write('''
             </span>
