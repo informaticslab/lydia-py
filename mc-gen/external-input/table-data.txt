@@ -210,7 +210,7 @@ header,"Treatment of Arthritis and Arthritis-Dermatitis Syndrome"
 subheader,"Alternate Regimen"
 regimen,"Cefotaxime 1 g IV every 8 hours"
 separator, OR
-regimen, “Ceftizoxime 1 g IV every 8 hours"
+regimen, "Ceftizoxime 1 g IV every 8 hours"
 separator,PLUS
 regimen,"Azithromycin 1 g orally in a single dose"
 
