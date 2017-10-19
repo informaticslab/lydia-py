@@ -1,7 +1,0 @@
-### Diagnostic Considerations
-
-Infants at increased risk for gonococcal ophthalmia include those who did not receive opthalmia prophylaxis and whose mothers have had no prenatal care or have a history of STDs or substance abuse. Gonococcal ophthalmia is strongly suspected when intracellular gram-negative diplococci are identified on Gram stain of conjunctival exudate, justifying presumptive treatment for gonorrhea after appropriate cultures and antimicrobial susceptibility testing for N. gonorrhoeae are performed. Presumptive treatment for N. gonorrhoeae might be indicated for newborns who are at increased risk for gonococcal ophthalmia and who have increased WBCs (but not intracellular gram negative diplococci) in a Gram-stained smear of conjunctival exudate. Nongonococcal causes of neonatal ophthalmia include Moraxella catarrhalis and other Neisseria species, organisms that are indistinguishable from N. gonorrhoeae on Gram-stained smear but can be differentiated in the microbiology laboratory.
-
-### Treatment
-
-One dose of ceftriaxone is adequate therapy for gonococcal conjunctivitis. Ceftriaxone should be administered cautiously to hyperbilirubinemic infants, especially those born prematurely. No data exist on the use of dual therapy for the treatment of gonococcal ophthalmia. Topical antibiotic therapy alone is inadequate and unnecessary if systemic treatment is administered.

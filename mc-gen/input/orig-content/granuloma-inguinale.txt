@@ -1,9 +1,0 @@
-### Diagnostic Considerations
-
-The causative organism of granuloma inguinale is difficult to culture, and diagnosis requires visualization of dark-staining Donovan bodies on tissue crush preparation or biopsy. No FDA-cleared molecular tests for the detection of K. granulomatis DNA exist, but such an assay might be useful when undertaken by laboratories that have conducted a CLIA verification study. 
-
-### Treatment
-
-Several antimicrobial regimens have been effective, but only a limited number of controlled trials have been published384. Treatment has been shown to halt progression of lesions, and healing typically proceeds inward from the ulcer margins; prolonged therapy is usually required to permit granulation and re-epithelialization of the ulcers. Relapse can occur 6–18 months after apparently effective therapy. 
-
-The addition of another antibiotic to these regimens can be considered if improvement is not evident within the first few days of therapy. Addition of an aminoglycoside to these regimens is an option (gentamicin 1 mg/kg IV every 8 hours).
