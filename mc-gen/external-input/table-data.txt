@@ -413,7 +413,7 @@ separator,PLUS
 regimen,"Doxycycline 100 mg orally twice a day for 14 days"
 separator,WITH* or WITHOUT
 regimen,"Metronidazole 500 mg orally twice a day for 14 days"
-footer,"*The recommended third-generation cephalsporins are limited in the coverage of anaerobes. Therefore until it is known that extended anaerobic coverage is not important for treatment of acute PID, the addition of metronidazole to treatment regimens with third-generation cephalosporins should be considered. (Source: Walker CK, Wiesenfeld HC. Antibiotic therapy for acute pelvic inflammatory disease: the 2006 CDC Sexually Transmitted Diseases Treatment Guidelines. Clin Infect Dis 2007;28[Supp 1]:S29–36)."
+footer,"*The recommended third-generation cephalosporins are limited in the coverage of anaerobes. Therefore until it is known that extended anaerobic coverage is not important for treatment of acute PID, the addition of metronidazole to treatment regimens with third-generation cephalosporins should be considered. (Source: Walker CK, Wiesenfeld HC. Antibiotic therapy for acute pelvic inflammatory disease: the 2006 CDC Sexually Transmitted Diseases Treatment Guidelines. Clin Infect Dis 2007;28[Supp 1]:S29–36)."
 
 
 table,proctitis-rec
