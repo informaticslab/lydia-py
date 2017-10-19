@@ -409,7 +409,7 @@ separator,PLUS
 regimen,"Doxycycline 100 mg orally twice a day for 14 days"
 separator,WITH or WITHOUT
 regimen,"*Metronidazole 500 mg orally twice a day for 14 days"
-footer,"*The recommended third-generation cephalsporins are limited in the coverage of anaerobes. Therefore until it is known that extended anaerobic coverage is not important for treatment of acute PID, the addition of metronidazole to treatment regimens with third-generation cephalosporins should be considered."
+footer,"*The recommended third-generation cephalosporins are limited in the coverage of anaerobes. Therefore until it is known that extended anaerobic coverage is not important for treatment of acute PID, the addition of metronidazole to treatment regimens with third-generation cephalosporins should be considered."
 
 
 table,proctitis-rec
